@@ -1,0 +1,522 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "PB5045",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Sep 24, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Sept 16 - Sept 24, 2023",
+			"SEASON_OPEN_DATE_1": "Sep 1, 2023",
+			"SEASON_CLOSE_DATE_1": "Sep 24, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Sep 24, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "PB5045",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "The San Rafael Desert pronghorn unit is large combining the South San Rafael and the Henry Mountain units. These units are combined because of small herd sizes distributed over large areas. Drought has impacted population numbers and herd distribution on this unit the past few years, especially east and west of SR24 between I-70 and Hanksville where most hunting has taken place in the past, so plan to expand your hunt area on the unit. There are numerous roads traversing the area allowing access to see a lot of country to find them. The popualtion is estimated at 250 animals and it will take covering a lot of country to find them. You can find antelope throughout the day but like other wildlife they are more active in the morning and evening.",
+			"SAFETY_CONS": "Use common sense. Let others know where you will be hunting, camped, etc. Some have been stranded by flat tires, very muddy conditions, flash floods, etc.  Carry a survival kit. Some areas have cell phone coverage but not all. Consider hand held radios and a \"Spot Tracker\" type of satellite messaging device for safety. ",
+			"MANAGEMENT_OBJ": "100~300~200~~~2.0–3.0~4.2~~~~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Location of harvest:</u>The following is not a comprehensive list of areas where you can find pronghorn on this unit. Pronghorn can still be found on both sides of SR24 between the San Rafael River and Fremont/Dirty Devil Rivers and between Goblin Valley, North Pinto Hills, and Factory bench, but it is becoming more difficult to find them.  A small number of pronghorn also reside between the San Rafael river and the town of Green River. Also on the west side of the unit south of I-70 to the Last Chance Desert, Mussentuchit Flat, and Rock Springs Bench. And Sinbad areas on the top of the San Rafael Swell off exit 131 on I-70 from Mckay Flat to Jerry's Flat. Areas on the Henry Mountains portion of the unit include the South Pinto Hills, Blue Valley Benches, and the southern portion of the Henry's unit south of Cow Flat, Coal Bed Mesa, Clay Point, Bull Frog Creek, and Eggnog area. Pronghorn seen on the Burr Desert have been few.<br>\n<br>\n\nVegetative communities that dominate the areas of the herd unit frequented by pronghorn include salt desert shrub types and into the pinion-juniper zone around the San Rafael Swell and Cedar Mountain.  Annual precipitation in this area generally varies from 6 to 12 inches in these vegetation types.<br>\n<br>\n\n<u>Scouting Tips:</u> Binoculars and a good spotting scope are essential companions when hunting.  Spend time prior to the hunt getting to know where the pronghorn are. along with your pre-season scouting its natural and good to intensify the effort leading up to the hunt opening. Pronghorn are most active in the mornings and evenings but can be hunted all day. There are numerous roads on this unit that allow you to see a lot of country. Locating water sources like springs and livestock ponds, setting up blinds or spot and stalk are good hunting strategies; look for tracks and scratch marks where they are marking territories especially on the dirt roads.  Trail cameras can make a big difference in scouting these areas.  Once you locate a buck there is a good chance he will stay in same area if water is available unless he is run off or water is scarce.  Look for vantage points where you can glass at rangelands below. Bucks are differentiated from does by larger horns and a black cheek patch. They are very curious and sometimes will come closer to you if they cannot figure out what you are.<br>\n<br>\n\n<u>Behavior:</u>  San Rafael herds do not migrate long distances, they stay in a general area throughout the year. During the rut larger herds tend to break up into smaller herds with one to two bucks in the herd depending on food resources. There can be as many as 12-18 in a herd in late summer and fall. As the rut nears mature bucks will separate from one another and look for does. Keep a look out because other bucks may be around the area when a buck is herded up with his does. Later after the rut other bucks join in with some of these smaller herds, which then join together with other herds to make larger wintering herds. There always seems to be solitary bucks and smaller buck herds around throughout all the seasons of the year. Bucks like to make scrapes on dirt roads defending their territory and warn off other competing bucks. They are very fast, and except for fawns they can outrun all their natural predators; their eyes are situated to allow about 300-degrees of visibility, and they can see and detect movement 4 miles away.",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "PB5045",
+		"HUNT_AREA_ID": 10421,
+		"SPECIES": "Pronghorn",
+		"GENDER": "Buck",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "Limited Entry",
+		"WAITING_PERIOD_YEARS": 2,
+		"HUNT_NAME": "San Rafael, Desert",
+		"PRINT_HUNT_NAME": "San Rafael, Desert - Hunt #PB5045",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"DRAW_DESIGNATION": "P",
+		"HARVEST_REPORTING": "<b>REQUIRED</b>: <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">click here</a> or call 1-800-221-0659 to report your harvest. You must report your harvest, <b>even if you did not take an animal, </b>within 30 days of the season end date that is printed on your permit; failure to do so may result in you not being able to apply for big game species in subsequent years. Submitting teeth or other biological samples from your animal, or having your animal checked by a DWR representative or CWMU operator does <b>NOT </b>fulfill your mandatory harvest reporting requirement."
+	},
+	"boundaries": [
+		443
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 443,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of public land is managed by the BLM which is interspersed with SITLA, and private lands. Goblin Valley State Park is also on this unit.",
+			"WMA_IN_UNIT": "There is one DWR Wildlife Management Areas (WMA) called the Lower San Rafael WMA.",
+			"CAMPGRND_INFO": "Direct questions regarding maps and camping regulations to the Price BLM Field Office:  <a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a><br>\n<br>\nHanksville BLM Office: <a href=\"http://www.blm.gov/ut/st/en.html\" target=\"_blank\">http://www.blm.gov/ut/st/en.html</a><br>\n<br>\nGoblin Valley State Park: <a href=\"http://stateparks.utah.gov/parks/goblin-valley/\" target=\"_blank\">http://stateparks.utah.gov/parks/goblin-valley/</a>",
+			"SUGGESTED_MAPS": "BLM: Price, Richfield, Hanksville, offices have a general map that labels most of the main roads.  There are several county signs and BLM signs to help direct you. USGS 1:100,000 Maps: Escalante, Loa, Hanksville, Hite Crossing, Huntington, Salina, San Rafael Desert ",
+			"COUNTY_ROAD_INFO": "Emery County: <a href=\"http://www.emerycounty.com/road/contact.htm\" target=\"_blank\">http://www.emerycounty.com/road/contact.htm</a><br>\nWayne County: <a href=\"http://www.waynecountyutah.org/\" target=\"_blank\">http://www.waynecountyutah.org/</a><br>\nGarfield County: <a href=\"http://garfield.utah.gov/\" target=\"_blank\">http://garfield.utah.gov/</a>",
+			"ATV_VEH_ACCESS": "Roads and ATV trails on this unit are managed by the respective county, BLM, and SITLA, and regulations are covered in their Travel Management Plans. Direct questions regarding which roads and trails ATVs can be operated on to the Price and Hanksville BLM Field Office, SITLA, and the county you are traveling.",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary excludes Canyonlands National Park and Goblin Valley State Park. Private property should be posted.  Written permission from the landowner is required by law to access and hunt private land.",
+			"BOUNDARY_DESCRIPTION": "Emery, Garfield, Kane and Wayne counties—Boundary begins at the junction of I-70 and the Green River; south along the Green River to the Colorado River; south along the Colorado River and the west shore of Lake Powell to SR-276 at Bullfrog; north along SR-276 to the Notom road; north along this road to SR-24; east on SR-24 to Caineville and the Caineville Wash road; north along the Caine-ville Wash road to the Cathedral Valley road; west on the Cathedral Valley road to Rock Springs Bench and the Last Chance Desert road; north on the Last Chance Desert road to the Blue Flats road; north and east on the Blue Flats road to the Willow Springs road; north on the Willow Springs road towards Windy Peak and the Windy Peak road; west on the Windy Peak road to SR-72; north on SR-72 to I-70; east on I-70 to the Green River. USGS 1:100,000 Maps: Escalante, Hanksville, Hite Crossing, Huntington, Loa, Salina, San Rafael Desert. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "San Rafael, Desert",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

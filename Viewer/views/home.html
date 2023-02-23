@@ -1,0 +1,34 @@
+<script>
+$(this).Screen(Extend({}, $('.App').data('screens') || {}, {
+	create: () => {
+		$('.App').Action('RegisterScreen', $(this).Screen('instance'))
+	}
+}))
+$('.App').Property('screens', options => {
+	$(this).Screen('option', options)
+})
+</script>
+<style>
+.Component {
+	border: 1px solid black;
+}
+</style>
+<div id="Home" data-name="Home" class="W100P H100P Flex Row" style="display:none">
+	<div class="Card W300" style="flex-grow:0;flex-shrink:0;width:300px">
+		<div class="Header Title Components">Components</div>
+		<div class="Content">
+			<div class="Component">Package</div>
+			<div class="Component">Module</div>
+			<div class="Component">Function</div>
+			<div class="Component">Variable</div>
+			<div class="Component">Type</div>
+		</div>
+	</div>
+
+	<div class="Card Expand">
+		<div class="Header Title">Menu</div>
+		<div class="Content">
+			<div id="Designer" class="Designer"></div>
+		</div>
+	</div>
+</div>

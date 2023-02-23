@@ -1,0 +1,531 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "EA1151",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Jan 31, 2024",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Contact operator for 2023 season dates",
+			"SEASON_OPEN_DATE_1": "Sep 1, 2023",
+			"SEASON_CLOSE_DATE_1": "Oct 31, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Jan 31, 2024",
+			"QUOTA": 0,
+			"QUOTA_RES": 6,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"NOTES": "The Wildlife Board has established Aug 1, 2023 - Jan 31, 2024 to hunt antlerless elk on this CWMU. \nHunters may expect to hunt <B>three days</b> within this range. \nIf you are successful in drawing this permit <b>you must contact the operator to arrange your dates.</b>"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "EA1151",
+			"BOUNDARY_ID": 0,
+			"MANAGEMENT_OBJ": "33.3~~~~~~~~~~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "The Moon's Ranch Cooperative Wildlife Management Unit (CWMU) is located west of Hanna,Utah. The highest elevation on the east side starts about 8400 feet and increases to 8800 feet before dropping down into several drainages, but it rises again to 8200 feet on the west side of the Unit. In the north, the West Fork of the Duchesne River, ranging from 7200 feet to 7600 feet, cuts the Unit. In the south, Sand Creek, ranging from 6800 feet to 8000 feet, cuts the Unit. On the west side, Little Sand Creek, ranging from 7500 feet to 8000 feet, cuts the unit.  The most common elevation is 8000 feet but ranges from 6700feet to 8800 feet with an elevation difference of 2100 feet.  Fifty-seven percent (57%) of the CWMU elevation ranges between 7500 feet and 8100 feet an elevation difference of 600 feet.<br><br>Over half of the land cover on the Moon's Ranch CWMU is Inter-Mountain Basins Montane Sagebrush Steppe (62). This cover type is generally distributed over the entire unit. Rocky Mountain Gambel Oak-Mixed Montane Shrubland (41) and Rocky Mountain Aspen Forest and Woodland (22) are the next largest contributors. Several hundred hectares each of Colorado Plateau Pinyon-Juniper Woodland (36) and Inter-Mountain Basins Big Sagebrush Shrubland round out most of the land cover types.\n<br><br>One of the Moons Ranch Cooperative Wildlife Mangement Unit (CWMU) nearest weather stations, HANNA (423624), is 0.5 km east of the east edge of the CWMU.  HANNA has forty-two (42) years of records, 1952 - 1994.  During the FALL (September, October and November) the average precipitation is 3.35 inches, but it can be as high as 4.43 inches or as low as 2.52 inches.  During the 91-day FALL period, 10 days will experience greater than or equal to 0.01 inches of precipitation, 8 days of greater than or equal to 0.10 inches, or 2 days of the greater than or equal to 0.50 inches of prercipitation.  Snowfall during the FALL averages 2.2 inches but can be as high as 5.0 inches.  FALL temperature at HANNA averages 63.4 degrees F. but can be as high as 78.0 degrees F. or as low as 5.0 degrees F.  During the FALL, 23 days will be below freezing (32 degrees F.) and no day above 90 degrees F.",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "EA1151",
+		"HUNT_AREA_ID": 5036,
+		"SPECIES": "Elk",
+		"GENDER": "Antlerless",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "CWMU",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Moon Ranch",
+		"PRINT_HUNT_NAME": "Moon Ranch - Hunt #EA1151",
+		"HARVEST_REPORTING": "<b>Voluntary</b>: Hunters who obtain this permit are encouraged, but not required, to submit a harvest report. Report your harvest <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">online</a> or by calling 1-800-221-0659."
+	},
+	"boundaries": [
+		485
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 485,
+			"ACREAGE": 0,
+			"OPERATOR_NAME": "Casey Cardwell",
+			"OPERATOR_PHONE": "801-573-9185",
+			"OPERATOR_EMAIL": "moonranchcwmu@gmail.com",
+			"COUNTIES": "Duchesne,Wasatch",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 11976,
+			"ACCESS_NAME": "Casey Cardwell",
+			"ACCESS_PHONE": "801-573-9185",
+			"ACCESS_EMAIL": "evenings",
+			"Q_GUEST": "Yes. 1 guest",
+			"Q_SUNDAY": "Yes.",
+			"Q_SCOUT": "No.",
+			"Q_HORSES": "No.",
+			"Q_ATV": "Yes.",
+			"Q_GUIDE": "No",
+			"Q_PACKING": "No.",
+			"Q_LODGE_FOOD": "No.",
+			"Q_CAMP": "No.",
+			"Q_HANDICAP": "Contact operator for accessibility options.",
+			"Q_MAPS": "Yes.",
+			"Q_ACTIVITIES": "No.",
+			"Q_CLOSED": "No.",
+			"RULES": "Wounding Policy - If animal is wounded, may not shoot another animal~Contact operator for ranch rules and policies~~~~~~~~",
+			"UPDATEDBY": "Derrick Ewell",
+			"UPDATEDDATE": "Jan 28, 2019",
+			"BOUNDARY_NAME": "Moon's Ranch",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

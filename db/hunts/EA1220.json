@@ -1,0 +1,564 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "EA1220",
+			"HUNT_YEAR": 2022,
+			"DUPLICATE_UNTIL_DATE": "Jan 31, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Any open unit with Central Mtns, Manti in the unit name",
+			"OTC_SALES_BEGIN_DATE": "May 1, 2022",
+			"OTC_SALES_END_DATE": "Jan 31, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"NOTES": "Hunters who obtain the Central Mtns, Manti Antlerless Elk Expo permit may hunt the following units/seasons:<br>\n<B>Central Mtns, Central Manti:</B> Oct 8 - Oct 20, 2022<br>\n<B>Central Mtns, North Manti: </b> Oct 8 - Oct 20, 2022<br>\n<B>Central Mtns, West Manti: </b> Nov 23, 2022 - Jan 8, 2023<br>\n<B>Central Mtns, South Manti: </b> Oct 8 - Oct 20, 2022 and Nov 23 , 2022 - Jan 8, 2023",
+			"CREATED_BY": "Phillip Gray",
+			"CREATED_DATE": "May 14, 2019",
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "May 3, 2022"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "EA1220",
+			"BOUNDARY_ID": 0,
+			"MANAGEMENT_OBJ": "100~12000~9900~~~~~~~~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "EA1220",
+		"HUNT_AREA_ID": 11251,
+		"SPECIES": "Elk",
+		"GENDER": "Antlerless",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "General Season",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Central Mtns, Manti (Expo)",
+		"PRINT_HUNT_NAME": "Central Mtns, Manti (Expo) - Hunt #EA1220",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"HARVEST_REPORTING": "<b>Voluntary</b>: Hunters who obtain this permit are encouraged, but not required, to submit a harvest report. Report your harvest <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">online</a> or by calling 1-800-221-0659.",
+		"CREATED_BY": "Phillip Gray",
+		"CREATED_DATE": "May 14, 2019",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "May 3, 2022"
+	},
+	"boundaries": [
+		43,
+		58,
+		861,
+		862
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 43,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Mostly public but some high elevation private lands. As well as the farmlands surrounding the communities of Huntington and Orangeville.",
+			"CAMPGRND_INFO": "There are USFS campgrounds in Huntington Canyon and on top of the mountain but they are usually closed during the winter months and are well away from where most of the elk are.  Dispersed camping is allowed on BLM and state lands.",
+			"PRIM_ACCESS_PTS": "Primary access points include SR-31 Huntington to Fairview which accesses both low elevation winter ranges as well as the top of the mountain, SR-29 Orangeville to Ephraim.",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Huntington, Manti, Nephi. Boundary questions? Call Price office, 435-613-3700.",
+			"COUNTY_ROAD_INFO": "Please direct questions regarding which roads and trails ATVs can be operated on and questions regarding maps and camping regulations to the following entities:<br>\n<br>\nEmery County <a href=\"http://www.emerycounty.com/\" target=\"_blank\">http://www.emerycounty.com/</a><br>\nSanpete County <a href=\"http://sanpete.com/\" target=\"_blank\">http://sanpete.com/</a><br>\nSevier County <a href=\"http://www.sevierutah.net/\" target=\"_blank\">http://www.sevierutah.net/</a><br><br>\n\nCampgrounds and most roads and ATV trails on this unit are managed by the USFS and the BLM and are covered on their Travel Management Plans.<br>\nUS Forest Service <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a><br>\nBureau of Land Management <a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a>",
+			"ATV_VEH_ACCESS": "See above",
+			"PRIV_TRIBE_LAND_ISSUES": "Hunting is not allowed on properties owned by the Power Plant.  There are also other large blocks of private land on East Mountain and some other areas.  It is best to have a map with you that shows where private lands are located. Hunting on private property requires written permission.",
+			"BOUNDARY_DESCRIPTION": "Emery and Sanpete counties--Boundary begins at SR-10 and SR-31 at Huntington; northwest on SR-31 to Fairview and US-89; south on US-89 to Ephraim and SR-29; east on SR-29 to SR-10; north on SR-10 to SR-31 at Huntington. Excludes all CWMUs. USGS 1:100,000 Maps: Huntington, Manti, Nephi. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Apr 18, 2018",
+			"BOUNDARY_NAME": "Central Mtns, Central Manti",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 58,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "There are large tracts of USFS lands at high elevations along North Skyline Drive and large tracts of BLM lands at low elevation winter ranges west of Price.  A large proportion of the mid elevation transitional range is privately owned and managed under the CWMU program.  Much of the area surrounding Scofield Reservoir is private.  There are also large blocks of private land in the upper reaches of the Gordon Creek drainage near the town of Clear Creek.",
+			"WMA_IN_UNIT": "The Gordon Creek WMA occurs on winter ranges west of Price.  The Lower Fish Creek WMA can be found at mid elevations off of SR-6 near Colton.",
+			"CAMPGRND_INFO": "Developed campgrounds can be found on USFS lands in Huntington Canyon, near Cleveland Reservoir, near Boulger Reservoir.  Dispersed camping areas are abundant along the major roads on this unit.",
+			"PRIM_ACCESS_PTS": "North Skyline Drive can be accessed from SR-31 which goes between the towns of Fairview and Huntington.  It can also be accessed from SR-6 near the Tucker Rest area.  Along North Skyline Drive there are several side roads that will provide access to the canyons below.  These include; C Canyon Ridge, Johnson Ridge, Bear Ridge, Fish Creek Ridge, and Bennion Ridge.  The North Skyline Drive road is generally in good shape, the side roads are pretty rough.  Ford Ridge and the Lower Fish Creek WMA are access on dirt roads off of SR-6 near mile markers 219 and 221.  These are maintained dirt roads with some private lands mixed in with public lands.  The Trough Springs, Bean, and Granger Ridge area is accessed by taking SR-96 to the town of Scofield, then continuing on SR-264 to just above the Skyline Mine.  Two county roads can be found atop the summit above the mine that access these ridges.  Nuck Woodard Canyon can be accessed by going to the town of Clear Creek on SR-264 and taking a left just before town and going up Barn Canyon.  Access to the lower portions of Upper Fish Creek and Pondtown can be found by driving around the west side of Scofield Reservoir.",
+			"SUGGESTED_MAPS": "A good Manti-La Sal National Forest Travel Map is suggested.  This will delineate all of the roads and trails.  Other maps include USFS 1:100,000 scale maps entitled Price, Huntington, Nephi, and Manti.  Be sure and purchase the yellow maps that show land ownership.",
+			"PRIV_TRIBE_LAND_ISSUES": "Most of the area east of Scofield Reservoir is privately owned. This is a large block of private land and should be avoided. Other scattered private parcels occur on this unit as well.  It is best to consult a map delineating private lands prior to going afield to make sure you stay on public lands.",
+			"BOUNDARY_DESCRIPTION": "Carbon, Emery, Sanpete, Utah and Wasatch counties--Boundary begins at US-89 and US-6 near Thistle; southeast on US-6 to SR-10; south on SR-10 to SR-31; northwest on SR-31 to US-89; north on US-89 to US-6. Excludes all CWMUs. USGS 1:100,000 Maps: Huntington, Manti, Nephi, Price. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Brad Crompton",
+			"UPDATEDDATE": "Jan 8, 2019",
+			"BOUNDARY_NAME": "Central Mtns, North Manti",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 861,
+			"ACREAGE": 0,
+			"BOUNDARY_DESCRIPTION": "Sanpete County--Boundary begins at US-89 and SR-31 at Fairview; east and south on SR-31 to USFS Road 150 (Skyline Drive); south on this road to Twelve Mile Rd; north and west on this road to Six Mile Rd; north and west on this road to Palisade Rd; west on Palisade Rd to US-89; north on US-89 to SR-31. Excludes all CWMUs. USGS 1:100,000 Maps: Manti, Nephi. Boundary questions? Call Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"BOUNDARY_NAME": "Central Mountains, West Manti",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 862,
+			"ACREAGE": 0,
+			"BOUNDARY_DESCRIPTION": "Emery, Sanpete and Sevier counties--Boundary begins at SR-10 and I-70; west on I-70 to US-89; north on US-89 to Palisade Rd; east on Palisade Rd to Six Mile Rd; east and south on this road to Twelve Mile Rd; east and south on this road to Twelve Mile Flat and USFS Road 043; southeast on this road to the North Fork of Muddy Creek near Oleys Lake; southeast along this creek to Muddy Creek; east along this creek to SR-10; south on SR-10 to I-70. Excludes all CWMUs. USGS 1:100,000 Maps: Manti, Salina. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"BOUNDARY_NAME": "Central Mountains, South Manti",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@tyler.thayn/utah-hunts",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerthayn/utah-hunts.git"
+  },
+  "author": "Tyler Thayn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerthayn/utah-hunts/issues"
+  },
+  "homepage": "https://github.com/tylerthayn/utah-hunts#readme",
+  "dependencies": {
+    "@tyler.thayn/js.core": "^0.13.15",
+    "fs-extra": "^11.1.0"
+  }
+}

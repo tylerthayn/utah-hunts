@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.core.js"></script>
+<body>
+
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+<script>
+var xValues = ["Italy", "France", "Spain", "USA", "Argentina"];
+var yValues = [55, 49, 44, 24, 15];
+var barColors = ["red", "green","blue","orange","brown"];
+
+
+function Randoms (n, min, max) {
+	let data = []
+	for (i=0;i<n;i++) {
+		data.push((Math.random()*1000)%(max-min)+min)
+	}
+	return data
+}
+
+function StackGen (id) {
+	return [{
+      label: 'Regular Tags',
+      data: Randoms(30,0,2),
+      backgroundColor: 'blue',
+      stack: 'Stack '+id,
+    },
+    {
+      label: 'Bonus Tags',
+      data: Randoms(30,0,1),
+      backgroundColor: 'red',
+      stack: 'Stack '+id,
+    },
+    {
+      label: 'Applicants',
+      data: Randoms(30,5,12),
+      backgroundColor: 'black',
+      stack: 'Stack '+id,
+    }]
+}
+
+
+const labels = ['0','1','2','3','4','5'];
+for(i=0;i<30;i++){labels.push(i.toString())}
+const data = {
+  labels: labels,
+  datasets: _.flatten([
+  	StackGen(0),
+	StackGen(1),
+	StackGen(2),
+	StackGen(3)
+  ])
+};
+
+
+new Chart("myChart", {
+  type: 'bar',
+  data: data,
+  options: {
+    plugins: {
+      title: {
+        display: true,
+        text: 'Chart.js Bar Chart - Stacked'
+      },
+    },
+    responsive: true,
+    interaction: {
+      intersect: false,
+    },
+    scales: {
+      x: {
+        stacked: true,
+      },
+      y: {
+        stacked: true
+      }
+    }
+  }
+});
+</script>
+
+</body>
+</html>

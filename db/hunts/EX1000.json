@@ -1,0 +1,553 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "EX1000",
+			"HUNT_YEAR": 2022,
+			"DUPLICATE_UNTIL_DATE": "Dec 15, 2022",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Aug 20 - Dec 15, 2022",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2022",
+			"OTC_SALES_END_DATE": "Jul 1, 2022",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Feb 5, 2021"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "EX1000",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "The purpose of Utah's extended archery seasons are to apply hunting pressure to deer and elk adjacent to urban and agricultural areas while providing additional hunting opportunities for archers. <br>\n<br>\n<u>Participating in Utah’s extended archery seasons:</u> If you obtain a general or limited entry archery deer or elk permit and haven't taken a deer or elk by the end of the archery season printed on your permit—and you complete the required archery ethics course—you may hunt in the extended archery deer or elk areas during their respective seasons. The online archery ethics course is an annual requirement for all archers who want to hunt the extended areas and seasons.<br>\n<br>\nAdditional information and a link to the training course can be found here: <a href=\"https://wildlife.utah.gov/extendedarchery.html\" target=\"_blank\">https://wildlife.utah.gov/extendedarchery.html</a><br>\n\n<br>\nAfter you successfully complete the course, print your completion certificate and keep it with you while hunting.<br><br>\n\n<u>The following can participate in extended archery seasons:</u>\n<br>\n\n-General archery deer permit holders who completed the extended archery ethics course<br>\n\n-Limited Entry archery deer permit holders who completed the extended archery ethics course<br>\n\n-Premium Limited Entry archery deer permit holders who completed the extended archery ethics course<br>\n\n-General archery elk permit holders who completed the extended archery ethics course<br>\n\n-Limited Entry archery elk permit holders who completed the extended archery ethics course",
+			"SAFETY_CONS": "Be aware that on much of this hunt area Any Weapon Private Lands Only antlerless elk permits overlap the hunt dates of this hunt.  Archery Hunters should contact Landowners immediately prior to hunting to know if Any Weapon antlerless elk hunters may be hunting the property at the same time to know if they need to wear hunter orange.",
+			"WEATHER_CONS": "The weather on this hunt can vary dramatically during the long hunting season.  Be prepared for hot & dry, or rainy, lightening, windy or even snowy conditions.  Snow storms occur often during later half of this hunt.  ",
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~For more detailed information on population and objective data please see the <a href=\"http://wildlife.utah.gov/hunting-in-utah/61-hunting/hunting-permits/1697-annual-and-harvest-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "This Hunt is almost entirely on Private Property and agricultural lands. Written permission is required to hunt on Private Property. Obtain permission before attempting to hunt this hunt.  Due to legal privacy issues the DWR does not provide a list of landowners that allow access to hunters.  Hunters need to identify and have written permission from landowners before they attempt to hunt this area.<br>  \nHunters need to be aware of all Ute Tribal Lands as they are closed to all non-tribal members.<br>\nElk are found in numerous areas depending on the weather. At times during this hunt elk can be found almost anywhere along the tribal boundary which runs along the north boundary of the west portion of the hunt area.  Elk are also consistently found in the following areas during this hunt: Arcadia, Bridgeland, Myton, Upalco, Randeltt, Ouray, Lower Uinta River drainage, etc... <br>\nHunters may be able to identify individual landowners to ask for permission by using the Duchesne and Uintah County Parcel Viewer websites that are available through the Counties online.",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "EX1000",
+		"HUNT_AREA_ID": 10908,
+		"SPECIES": "Elk",
+		"GENDER": "Hunters Choice",
+		"WEAPON": "Archery",
+		"HUNT_TYPE": "Extended Archery",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Elk Extended Archery",
+		"PRINT_HUNT_NAME": "Extended Archery Areas - Hunt #EX1000",
+		"SPECIAL_INSTRUCTIONS": "Before hunting in on the extended archery hunt you must complete the <a href=\"https://wildlife.utah.gov/extendedarchery.html\" target=\"_blank\">Extended Archery Ethics Orientation</a>. This orientation must be taken each year.",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"HARVEST_REPORTING": "<b>Voluntary</b>: The DWR conducts random surveys for all general season hunts. You may be contacted via phone to participate in this survey.",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Feb 5, 2021"
+	},
+	"boundaries": [
+		218,
+		282,
+		313
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 218,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "97% private.  Tribal Lands are excluded.  ",
+			"WMA_IN_UNIT": "Montes Creek and Kevin Conway WMAs.",
+			"CAMPGRND_INFO": "Campgrounds in or near this hunt area are administered by the Ashley National Forest, the Vernal Office of the BLM, and Utah State Parks at Starvation Reservoir and Red Fleet State Parks.",
+			"SUGGESTED_MAPS": "Duchesne, Vernal, Kings Peak, and Dutch John 1:100,000 topo maps.<br>\nThe BLM version showing landownership is recommended. <br>\nLandownership memory chips for GPS units are highly recommended for this hunt.",
+			"COUNTY_ROAD_INFO": "Roads in this hunt area are administered by UDOT, Duchesne and Uintah counties.",
+			"ATV_VEH_ACCESS": "Regulated by the private landowners on their property.",
+			"PRIV_TRIBE_LAND_ISSUES": "Hunters need to be aware of all Ute Tribal Lands as they are closed to all non-tribal members.<br>\nContact Ouray National Wildlife Refuge for special hunting regulations on the refuge.<br>\nThis unit is essentially a private lands only hunt.  Have permission before attempting to hunt this area.",
+			"BOUNDARY_DESCRIPTION": "Duchesne and Uintah counties—Boundary begins at SR-87 and the Duchesne River in Duchesne; north along this river to the Ute Tribal boundary near the mouth of Rock Creek west of Utahn; north then east on this boundary to SR-121 (1 mile east of Hayden); east and south on this road to the Ute Tribal boundary (0.9 miles west of the East Channel of the Whiterocks River); north then east along this boundary around the East Channel of the Whiterocks River, Tridel and Deep Creek to the BLM boundary northeast of Lapoint;  south along this boundary to the SITLA boundary; south along this boundary to SR-121; north and east on SR-121 to the Highline Canal in Maeser; north along this canal to Ashley Creek; south along this creek to the Rockpoint Canal; southeast along this canal to the Diamond Mountain Road; northeast on this road to Brush Creek; south along this creek to the Island Park road; east along this road to the BLM boundary; south and east along this boundary to the Dinosaur National Monument boundary; east along this boundary to the Green River; east and south along this river approx. 5 mi to the BLM boundary; south along this boundary to the Ouray National Wildlife Refuge eastern boundary; south along this boundary to the Green River; west along this river to the BLM boundary near Pariette Draw west along the BLM boundary to the Pleasant Valley/Antelope Canyon road (CR-31) west along this road to the Antelope Canyon road (CR-27) south along this road to the Ute Tribal boundary; west along this boundary to the Cottonwood Ridge WMA boundary; west and north along this boundary to the Ute Tribal boundary; north and west along this boundary to Indian Canyon (US-191) north along US-191 to US-40; east on US-40 to SR-87 in Duchesne; north on SR-87 to the Duchesne River. EXCLUDES ALL NATIVE AMERICAN TRUST LAND. Contact Ouray National Wildlife Refuge for special hunting regulations on the refuge. USGS 1:100,000 Maps: Duchesne, Dutch John, Vernal. Boundary Questions? Call the Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Randall Thacker",
+			"UPDATEDDATE": "Jul 27, 2017",
+			"BOUNDARY_NAME": "Uintah Basin Extended Archery Area",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 282,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Mostly Forest Service with private in the valleys",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "No Campgrounds",
+			"PRIM_ACCESS_PTS": "Trail access on the south end are at Lambs canyon, Mill Creek canyon.",
+			"SUGGESTED_MAPS": "http:www.fs.usda.gov/uwcnf",
+			"COUNTY_ROAD_INFO": "None",
+			"ATV_VEH_ACCESS": "No ATV access",
+			"BOUNDARY_DESCRIPTION": "Extended archery unit for deer and elk. Must complete the archery ethics course to participate during the extended period.<br>  Davis, Salt Lake, Summit and Utah counties—Boundary begins at I-15 and the Weber/Davis county line; east on this county line to the Davis/Morgan county line; south on this county line to the Morgan/Salt Lake county line; south on this county line to the Salt Lake/Summit county line; south on this county line to I-80; east on I-80 to US-40; south on US-40 to Summit/Wasatch county line; west on this county line to the Wasatch/Salt Lake county line; west on this county line to the Salt Lake/Utah county line; west on this county line to the Lake Hardy Trail; south on this trail to the USFS Wilderness Boundary; south on this boundary to SR-92; west on SR-92 to I-15; north on I-15 to the Weber/Davis county line.  EXCLUDES ALL WATERFOWL MANAGEMENT AREAS. USGS 1:100,000 Maps: Ogden, Salt Lake City, Promontory Point, Provo. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Jul 27, 2017",
+			"BOUNDARY_NAME": "Wasatch Front Extended Archery Area",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 313,
+			"ACREAGE": 0,
+			"BOUNDARY_DESCRIPTION": "Cache County--Boundary begins at SR-142 and SR-23 in Newton; northwest then east on SR-142 to SR-23; north along SR-23 to the Utah/Idaho line; east on the Utah/Idaho line to US-91; south on US-91 to US-89/91; south on US-89/91 to SR-165; south on SR-165 to SR-101; east on SR-101 to the USFS Administrative Boundary: south on the USFS Administrative Boundary to East Canyon Road (La Plata Road) in Avon; west on East Canyon Road (La Plata Road) to SR-162; north and west on SR-162 to West Canyon Road; West on West Canyon Road to the Little Bear River; north along the Little Bear River to Mt Pisgah Road (8700 South) in Paradise; west on Mt Pisgah Road to 2400 west; north on 2400 west to SR-1170; west on SR-1170 to US-89/91; southwest on US89/91 to the USFS Administrative Boundary; north on this boundary to the Box Elder/Cache County line; north on this county line to the southwest shoreline of Cutler Reservoir; east along this shoreline to SR-23; north on SR-23 to SR-142 in Newton.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"BOUNDARY_NAME": "West Cache Extended Archery Area",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

@@ -1,0 +1,8 @@
+
+.HuntOdds {width: 500px; height: 200px;}
+.Bonus {fill: red;}
+.Regular {fill: blue;}
+.Applications {fill: black;}
+svg {border: 1px solid black;}
+svg.Point {width:50px;height:200px;}
+#Graph {width: auto !important;}

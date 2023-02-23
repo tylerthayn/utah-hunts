@@ -1,0 +1,523 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "DB1781",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Nov 30, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Archery: Aug 19-Sept 15, 2023 / Muzz: Sept 27-Oct 5, 2023 / Any Legal Weapon: Oct 11-Oct 15, 2023 & Oct 21-Oct 29, 2023",
+			"SEASON_OPEN_DATE_1": "Aug 19, 2023",
+			"SEASON_CLOSE_DATE_1": "Nov 30, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Nov 30, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "DB1781",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "This unit is a General Season hunt unit and is not managed to be a trophy unit but every year a few really nice bucks are taken.  Hunters should be aware of the Ute Tribal Lands and learn the boundaries.  Public hunting is not permitted on Tribal Lands.  \n",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  Early fall snow storms occur regularly in this area during this hunt.  Most years the snow will melt off within a day or two.  Be prepared for dry or muddy conditions.  \n",
+			"MANAGEMENT_OBJ": "38.9~8500~6500~18–20~18.5~~~~~~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<Most deer on the Tavaputs Plateau migrate to the east toward the Green River to spend the winter months.  This includes the lower ends of Ceder, Cottonwood, and Flat Iron Ridges as well as the area near Prickly Pear Canyon.  Deer on the western part of the unit tend to migrate to the southwest to the foothills just north and east of Price near the Price Airport, Coal Creek, and Soldier Creek.  Deer tend to be moving on to transitional habitats during the any weapon deer hunt each year by midweek.  Hunting is much better if the weather is bad and generally poor if we have had mild weather. <br>\n<br>\n \n\n<u>Mule Deer Rut:\n</u>The mule deer rut usually runs from mid Nov.-mid Dec. so it does not affect this hunt.  \n<br>\n<br>\n\n<u>Recommended Areas to Hunt:</u> The Cold Springs WMA provides good public land access on high elevation summer habitat and transitional fall habitat near Bruin Point.  There is a county road through the middle of the WMA with over 2500 acres of public lands available.  Much of the property is walk-in only to maintain quality deer hunting in the area.  This area can be accessed from Bruin Point near Sunnyside or if the weather is bad from Nine Mile Canyon and up Cottonwood Canyon.  Lots of wild horses on this part of the mountain.\n<br>\n\nUpper Patmos Ridge/Range Creek - There are 5 sections of BLM land that are surrounded by private lands just south of Bruin Point and North of the Preston Nutter Ranch gate.  This provides good deer habitat at high elevations on steep timber covered terrain with ample water.  This is accessed from Bruin Point near Sunnyside.\n<br>\n\nHarmon Canyon/Prickly Pear Canyon - This is good transitional habitat especially if there has been some snow.  It is accessed via Nine Mile Canyon then you can drive up the Harmon Canyon road which is about 30 miles east of Wellington Utah.  These are sagebrush/PJ habitats at about 7500 feet in elevation.\n<br>\nCottonwood/Ceder Ridge - This is good transitional habitat in sagebrush at elevations of 6500 to 8000 feet.  There are private lands to the west but plenty of public lands as you go down the ridges.  These areas are accessed via Nine Mile Canyon and then Cottonwood Canyon 45 miles east of Wellington.  \n<br>\nAirport Road/Coal Creek/Soldier Creek - These are the low elevation benches that concentrate deer if there has been a significant snowstorm in October.  They are the foothills just north and east of the towns of Price and Wellington.  Hunting is generally poor if the weather is mild and can be good after a snowstorm.  They are mostly public lands.<br>\n<br>b>Anthro Subunit</b><br>\nRecommended areas to hunt:\n\nThe Anthro subunit has very low deer densities. It can be a very difficult hunt. You may go several days without seeing a deer. Because the density is so low, if you do find any bucks, there is a good chance of it being a mature buck. There is a lot of area East of Antelope Canyon all the way to the Green River, with even lower deer densities, while hunting these areas your best chance is finding water. There are several guzzlers and springs in this desert area, but even around these water sources there are very few deer. Some good areas to hunt are the following: \n\nNutter’s Ridge – USFS higher elevation, a few large aspen stands, very accessible\n\nJeep Trail Ridge – USFS just East of Nutter’s Ridge, large canyons with a few aspens, several water sources\n\nWire Fence Ridge- USFS rough road, biggest aspen stands on Anthro, good burned side hills \n\nAlkaline/Choke Cherry- USFS very open country, few deer, East of Jeep Trail\n\nWells Draw –BLM lands, low elevation pinyon/juniper, low density\n\nCottonwood Ridge- USFS difficult access, higher elevation, many timbered hill sides \n   \n",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "DB1781",
+		"HUNT_AREA_ID": 10358,
+		"SPECIES": "Deer",
+		"GENDER": "Buck",
+		"WEAPON": "Dedicated Hunter",
+		"HUNT_TYPE": "General Season",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Nine Mile",
+		"PRINT_HUNT_NAME": "Nine Mile - Hunt #DB1781",
+		"SPECIAL_REQUIREMENTS": "After successfully drawing this permit completion of an online conservation and ethics course is required before your permit will be mailed to you. You can access the course online at\n<a href=\"https://wildlife.utah.gov/get-permit/conservation-ethics-course.html\" target=\"_blank\">https://wildlife.utah.gov/get-permit/conservation-ethics-course.html</a>",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"HARVEST_REPORTING": "<b>Voluntary</b>: The DWR conducts random surveys for all general season hunts. You may be contacted via phone to participate in this survey."
+	},
+	"boundaries": [
+		615
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 615,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The vast majority of the habitat from Argyle Canyon south is privately owned.  Many of these properties are enrolled in the CWMU program where a separate hunting permit is required for big game on their property and they can not allow access.  On this part of the unit there are only small isolated parcels of public lands on summer ranges to hunt.  Prior permission must be secured before hunting on private lands. There is more public land on the northern third of the unit near Anthro Mountain.  There is a mix of USFS and BLM lands in this area although wildlife densities tend to be lower in this area.<br>\n<br>\n\n<i>Anthro Subunit</i><br>\nPublic, Private and Tribal Lands.  The public lands are primarily US Forest Service lands managed by the Ashley National Forest and The Bureau of Land Management(BLM) managed out of the Vernal Field Office.  This unit also includes large tracks of Ute Tribal lands that are closed to non-tribal members. The Tribal lands are mostly on the North end of the unit in the pinyon/juniper belt, with heavy oil field activity. The private land on the unit is primarily North of the Tribal boundary and in the low elevation desert areas and agricultural lands. There are two CWMU's on the unit (Antelope Creek and Cottonwood Ridge). <br>\n<br>\nRange Creek Subunit<br>\nMost of the high elevation summer and early fall habitat is privately owned.  Much of this private land occurs on 5 CWMU's (Preston Nutter Ranch, Patmos Ridge, Roan Cliffs, Conover-Jensen, and Minnie Maud CWMU's).  Public lands occur at mid elevations and on the winter range.  The vast majority of Nine Mile Canyon is privately owned.\n\n",
+			"WMA_IN_UNIT": "The Cold Springs WMA exists on good habitat near the town of Sunnyside<br>\n<br>\nThe Cottonwood WMA exists on the Anthro subunit. ",
+			"CAMPGRND_INFO": "There are no known developed campgrounds on the unit.  There are ample opportunities for dispersed camping on BLM and SITLA properties.  No camping is allowed on the Cold Springs WMA.  Please consult the Price BLM office for any camping restrictions at <a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a>\n<br>\n<br>\n\n<i>Anthro Subunit</i><br>\nThere are no official campgrounds on this unit.  Camping outside of official campgrounds is also permitted on most of the Forest.  Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nAshley National Forest website:  <a href=\"http://www.fs.usda.gov/ashley\" target=\"_blank\">http://www.fs.usda.gov/ashley</a>\n",
+			"PRIM_ACCESS_PTS": "The Nine Mile Canyon road is accessed from SR6 in Wellington.  It will provide access to Minnie Maud Canyon, lower Argyle Canyon, Harmon Canyon, as well as Cottonwood and Cedar Ridges.  The Bruin Point road is accessed via SR123 in the town of Sunnyside.  This road is impassible during the winter months.",
+			"SUGGESTED_MAPS": "1:100,000 scale USGS maps include; Price, Huntington, Duchesne, Seep Ridge",
+			"COUNTY_ROAD_INFO": "All roads and ATV trails on this unit are managed by the BLM and are covered on their Travel Management Plans.  Most major roads are maintained by Carbon, Emery, and Duchesne Counties.  The Bruin Point dugway and Cottonwood Canyon dugway are both very steep and should not be attempted if there is a bunch of snow without tire chains.  Pulling a camper trailer up the Bruin Point Dugway is possible but difficult.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Price BLM office at <a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a>",
+			"ATV_VEH_ACCESS": "see above",
+			"PRIV_TRIBE_LAND_ISSUES": "The hunt unit does not include Ute Tribal lands as shown on the hunt boundary map on the Division's website.  There are several access roads across Tribal Lands in the Anthro Mountain area, for information on which roads are legal access roads contact Duchesne County.  All ATVs are prohibited on Tribal Lands, they must be trailered on access roads across Tribal Lands.\n\nThis unit has a high percentage of private property on high elevation summer habitat, much of this property is managed as  CWMU’s. All private land requires written permission before hunting.  On this unit it is absolutely essential to have a map showing land ownership prior to hunting as most public land parcels are small and isolated and often surrounded by posted private property.  A GPS unit is also very handy.  \n",
+			"BOUNDARY_DESCRIPTION": "Carbon, Duchesne, Emery and Uintah counties--Boundary begins at US-40 and US-191 in Duchesne; southwest on US-191 to US-6; southeast on US-6 to I-70; east on I-70 to Exit 164 and SR-19 near the town of Green River; north and west on SR-19 to Hastings Road; north on this road to the Swasey boat ramp and the Green River; north along this river to the Duchesne River; west along this river to US-40 at Myton; west on US-40 to US-191 in Duchesne. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. Excludes all CWMUs. USGS 1:100,000 Maps: Duchesne, Huntington, Price, Seep Ridge, Vernal.; Boundary questions? Call the Vernal office, 435-781-9453 or the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Brad Crompton",
+			"UPDATEDDATE": "Jan 8, 2019",
+			"BOUNDARY_NAME": "Nine Mile",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

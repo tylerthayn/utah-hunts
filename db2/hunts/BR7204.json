@@ -1,0 +1,528 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "BR7204",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Nov 12, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Aug 1 - Aug 31, 2023 & Oct 30 - Nov 12, 2023",
+			"SEASON_OPEN_DATE_1": "Aug 1, 2023",
+			"SEASON_CLOSE_DATE_1": "Aug 31, 2023",
+			"SEASON_OPEN_DATE_2": "Oct 30, 2023",
+			"SEASON_CLOSE_DATE_2": "Nov 12, 2023",
+			"OTC_SALES_BEGIN_DATE": "Mar 9, 2023",
+			"OTC_SALES_END_DATE": "Nov 12, 2023",
+			"QUOTA": 17,
+			"QUOTA_RES": 16,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 1,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Jan 19, 2018"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "BR7204",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "Please reference the Black Bear Guide Book and be familiar with the rules and regulations concerning hunting bears in Utah. On this hunt, hounds and spot and stalk hunting are allowed. Baiting is allowed during the second half or late season of this hunt. Early baiting is not allowed prior to the opening of the second or later season of this hunt.\n<br><br>\nDesirable bait site locations are almost always away from roads and atv trails and where there are denser conifer stands with water nearby. With that in mind do not violate UtahCode § 23-20-3 and Utah Admin. Rule R657-33-14: You may not place bait in either of the following areas: Within 100 yards of water, a public road or a designated trail. Or within a half-mile of any permanent dwelling or campground. There may be additional bait-placement restrictions, depending upon historical human and bear activity—especially nuisance complaints within any given area. The site that you choose to place a bait should not put other people using that same area at risk. Seek other suitable locations if other campers or resource users are nearby.<br><br>\n \nOftentimes, multiple bears will come into a bait station and hunters need to know how to tell whether it is a male or female. Be sure of the bear you are shooting, that it does not have cubs of the year with it or evidence that it is a female that has cubs. A female with new cubs is illegal to pursue or harvest. The required black bear orientation course can be found here: <a href=\"https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html\" target=\"_blank\">https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html</a> \n<br>\n<br>\n \nApply early for a certificate of registration (COR) to run a bait station which a can take upwards of ten days.<br>\n<br>\n\nThis hunt coincides with big game hunts, there will be many other users enjoying their pursuits, please be considerate of one another.<br>\n<br>\n\nHunters need to know how to tell whether it is a male or female. Be sure of the bear you are shooting, that it does not have cubs of the year with it or evidence that it is a female with cubs less than one year old. A female with new cubs is illegal to pursue or harvest. The required black bear orientation course can be found here: <a href=\"https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html\" target=\"_blank\">https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html</a><br>\n<br>\n\nIf you find any illegal baits, please report them to the UDWR promptly.\n",
+			"SAFETY_CONS": "You can find resources on safety in black bear country on the division’s website here: <a href=\"https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html\" target=\"_blank\">https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html</a>\n\nCellular phone coverage can be spotty on this hunt unit. A \"Spot Tracker\" type of satellite messaging device can be used if you decide to camp in an area without cell phone service, it also allows a designated person with internet service to track you. Make sure someone knows where you plan to camp and when you will return.\n",
+			"WEATHER_CONS": "August and September tend to be the time when this area gets the most rain. Be prepared for afternoon thunderstorms that are sometimes severe. Temperatures tend to stay rather warm during the early portion of the hunt. Expect early snow during the November hunts.",
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "This unit has a healthy bear population. Check out the black bear management plan and other resources to learn about black bears and their habitat, diet, behavior, and natural history on the division’s black bear hunting website page here: <a href=\"https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html\" target=\"_blank\">https://wildlife.utah.gov/hunting-in-utah/hunting-information/black-bears.html</a><br>\n<br>\nFew hunters harvest during the November portion of the hunt. Plan to focus your efforts on August and September.\n<br>\n<br>\n\nHunting bears on or near sheep allotments on the south Manti is encouraged to help decrease the number of bears taken by Wildlife Services- Dept. of AG each year for killing domestic sheep. Not all bears kill sheep, but if sportsmen take some of the bears that do, there will be more opportunity for sportsmen to harvest bears. These allotments are generally higher in elevation reaching to Skyline Drive. <br>\n<br>\nOther areas on the S. Manti include Huntington and Cottonwood canyons and the following mountains: East, Trail, Candland, Heliotrope, Ferron, and the White Mtn area. Another area not to be overlooked is along the Price River between Woodside and Cedar Mountain; we have had a number of reports of black bear sign along this river corridor.",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "BR7204",
+		"HUNT_AREA_ID": 10054,
+		"SPECIES": "Black Bear",
+		"GENDER": "Either Sex",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "Limited Entry - Fall",
+		"SEASON_TYPE": "Limited Entry - Fall",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Central Mtns, Manti-South/San Rafael, North",
+		"PRINT_HUNT_NAME": "Central Mtns, Manti-South/San Rafael, North - Hunt #BR7204",
+		"SPECIAL_REQUIREMENTS": "<B>Use of bait is prohibited</b>",
+		"HARVEST_REPORTING": "<b>Required:</b> Any harvested bear must be checked by a DWR employee within 48 hours of the date of kill. The DWR employee will affix a permanent possession tag to the pelt or unskinned carcass. You may not possess an unskinned carcass or green pelt after the 48 hour check-in period. If you need to reach a Division employee after regular business hours, over a weekend, or on a holiday, contact your local police dispatch. In addition, you cannot ship a green pelt out of the state of Utah or present it to a taxidermist if the pelt does not have a permanent possession tag attached.",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Jan 19, 2018"
+	},
+	"boundaries": [
+		744
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 744,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "All Campgrounds on this subunit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management. Please direct all questions regarding campground availability and other camping questions to the US Forest Service, SITLA or the BLM. Maps and camping regulations are available on their websites.<br>\n\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a>\nBLM: <a href=\"https://www.blm.gov/utah\" target=\"_blank\">https://www.blm.gov/utah</a>\n",
+			"PRIM_ACCESS_PTS": "The main access points on the SE Manti include: Quichupah, Link Cyn, Ferron Cyn, SR29 Straight Cyn, and SR31 Huntington Cyn",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Huntington, Manti, Nephi, Price, Salina, San Rafael Desert topo maps",
+			"COUNTY_ROAD_INFO": "Carbon, Emery, Sanpete, and Sevier counties",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management and are covered on their Travel Management Plans. Most areas are closed to off road vehicle use except on designated routes. Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service, SITLA or the BLM.<br><br>\n\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a>\nBLM: <a href=\"https://www.blm.gov/utah\" target=\"_blank\">https://www.blm.gov/utah</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "There are several areas of private land on this unit. Hunters must receive written permission before hunting private lands. Be sure to pay attention to where you are, and study maps before your hunt, please respect posted lands.",
+			"BOUNDARY_DESCRIPTION": "Carbon, Emery, and Sevier counties--Boundary begins at SR-10 and SR-31 in Huntington; north on SR-10 to SR-6 at Price; east and south on US-6 to I-70; west on I-70 to US-89 near Salina; north on US-89 to SR-31; southeast on SR-31 to SR-10 in Huntington. USGS 1:100,000 Maps: Huntington, Manti, Nephi, Price, Salina, San Rafael Desert. ",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Jan 23, 2019",
+			"BOUNDARY_NAME": "Central Mtns, Manti-South/San Rafael, North",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

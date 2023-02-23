@@ -1,0 +1,52 @@
+<script>
+$(this).Screen(Extend({}, $('.App').data('screens') || {}, {
+	create: () => {
+		$('.App').Action('RegisterScreen', $(this).Screen('instance'))
+	}
+}))
+
+$(this).find('select').on('change', () => {
+	Odds.Hunt($(this).find('select').val()).then(odds => {
+		/*
+		let maxApplicants = 0, maxTags = 0
+		odds.Each((v, k) => {
+			try {
+				odds[k].points.Each((vv, kk) => {
+					try {
+						maxApplicants = vv.applicants > maxApplicants ? vv.applicants : maxApplicants
+						maxTags = (vv.tags.regular+vv.tags.bonus) > maxTags ? (vv.tags.regular+vv.tags.bonus) : maxTags
+					} catch (e) {}
+				})
+			} catch (e) {}
+		})
+		$(this.e).data('range-applicants', maxApplicants)
+		$(this.e).data('range-tags', maxTags)
+		*/
+
+		$($.Graph.e).empty()
+		odds.points.forEach(n => {
+			let group = new $.Graph.BarGroup(odds.Get(n), {position: n})
+			log(group)
+			$.Graph.Append(group.e)
+		})
+
+	})
+
+})
+
+$('.App').Property('screens', options => {
+	$(this).Screen('option', options)
+})
+</script>
+<style>
+#Odds {flex-grow: 1;}
+#Odds .Content {flex-grow: 1;}
+</style>
+<div id="Odds" data-name="Odds" class="W100P H100P Flex" style="display:none">
+	<div class="Card">
+		<div class="Header Title">Hunt: <select class="Hunts"></select></div>
+		<svg id="Graph" class="Content" data-range-applicants="30" data-range-tags="10">
+			
+		</svg>
+	</div>
+</div>

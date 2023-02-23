@@ -1,0 +1,524 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "DB1018",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Oct 29, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Oct 21 - Oct 29, 2023",
+			"SEASON_OPEN_DATE_1": "Oct 21, 2023",
+			"SEASON_CLOSE_DATE_1": "Oct 29, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Oct 29, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "DB1018",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "This is a limited entry deer hunt that is targeting migrating deer coming off of the summit of the Book Cliffs.  Hunting tends to be better when the weather is worse.  Deer tend to concentrate on winter ranges at the mouths of most of the major drainages coming out of the Book Cliffs.  ",
+			"SAFETY_CONS": "This is a very remote location with some areas with limited access.  Cellular phone coverage is very spotty on this hunt unit.  Digital cell phones may show several bars but cannot always connect due to the distance to the cell towers.  Satellite phones do work in the area.  Make sure someone knows where you plan to camp and when you will return.\n<br>\n<br>\n\nThe Book Cliffs mountain range is one of the more remote areas in Utah.  There are no service stations for many miles.  Plan on bringing plenty of water, fuel, good tires with extra spares, and plenty of ice.  The nearest gas stations are in Thompson, Utah and Fruita Colorado which are 20 to 50 miles away from most of the hunting areas.\n<br>\n<br>\n\nThe Book Cliffs has a high bear population. Keep a clean camp and put your garbage in a place that is inaccessible to bears.  If you do have problems with bears please report them to the DWR Southeast Regional Office as soon as possible (435 613-3700), or call the local dispatch center (435 637-0318).    \n",
+			"WEATHER_CONS": "Most of this unit occurs are relatively low elevations below 7,000 feet.  Winter storms occasionally hit southeastern Utah in late October but snow rarely stays very long on the low elevation winter ranges where deer will be found.  Expect mild daytime temperatures with cold nights.  ",
+			"MANAGEMENT_OBJ": "90.6~9000 (entire Book Cliffs unit)~4250 (entire Book Cliffs unit)~25–35~27.5~~~~~~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Location of harvest:</u>\nThe vast majority of the deer are harvested at the mouths of Nash Wash, Cottonwood Canyon, and Hay Canyons with Nash Wash receiving the most pressure.  People hunt the public lands surrounding irrigated crop fields that concentrate deer.  There are plenty of roads in the area.\n<br>\n<br>\n<u>Migration Patterns:</u>\nBook Cliffs deer are notorious for migrating early.  Even if weather conditions are mild and dry, deer will begin to show up on the winter range by the middle of the rifle hunt.  They also tend to rut early with peak rutting occurring before November 10.  If the weather has been mild through the fall opening weekend may be a little slow at the mouths of the canyons.  Hunting conditions improve mid week and the second weekend of the hunt.  If there has been any kind of snow in October,  the vast majority of the deer will be on the winter ranges at the mouths of the canyons on opening day.  Most of the deer that winter in the Nash Wash and Cottonwood Canyon areas spend the summer months in the Roadless Area and Tribal Lands.\n<br>\n<br>\n\n<u>Scouting Tips:</u>\nThere will be no or very very few deer on most of the South Book Cliffs until mid October.  Scouting during the summer and early fall will not give you an idea of what kind of bucks you may see.  It will however help you learn the lay of the land and how to get around on the unit.  If you need to go and look at buck deer during the summer and early fall it is advised that you go up on the top of the mountain from the Hay Canyon or East Canyon roads and drive along the Book Cliffs Divide road.  Deer concentrate along the divide during the summer months.  Approximately 1/3 of these deer will migrate to the south and be on the South Book Cliffs during your hunt.\n<br>\n<br>\n\n<u>Behavior:</u>\nLike other wildlife, deer are most active in the early mornings and evenings.  Their behavior is dictated by the weather as well.  As the hunt progresses I would expect to see the bucks become more active during the day.  \n<br>\n\nRain and snow provides much needed drinking water for deer, and can eliminate a need to travel to more sustainable water sources.  The bucks will be breaking up from their bachelor groups.  I would expect their behavior and routine to change after all of the hunting pressure from opening weekend.\n<br>\n<br>\n   \n<u>General Information:</u>\nMost hunters are able to locate 20-40 bucks a day.  The Book Cliffs has one of the highest success rates for rifle hunters in the state.  Some hunters are disappointed in the quality of bucks so I would suggest trying to spend some time in the area to become familiar with the steep terrain and the quality of bucks.  There are not many 30” bucks on this unit.  The average buck harvested on this unit is basically a 23” 4 point or 3 x 4.  This area provides challenging terrain in a remote part of the state.    \n<br>\n<br>\n\nThere are other hunts that coincide with the any weapon deer hunt.  They are: limited entry bear, bear pursuit, and upland game hunts.  In the past deer hunters have had negative experiences with bear hunters in the area.  Please be aware that everyone has an equal right to hunt this area.  If you really want to get away from ATV and vehicle traffic I would plan on hiking in the more remote areas.  \n\n\n\n",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "DB1018",
+		"HUNT_AREA_ID": 10119,
+		"SPECIES": "Deer",
+		"GENDER": "Buck",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "Limited Entry",
+		"WAITING_PERIOD_YEARS": 5,
+		"UNIT": "10B",
+		"HUNT_NAME": "Book Cliffs, South",
+		"PRINT_HUNT_NAME": "Book Cliffs, South - Hunt #DB1018",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"DRAW_DESIGNATION": "P",
+		"HARVEST_REPORTING": "<b>REQUIRED</b>: <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">click here</a> or call 1-800-221-0659 to report your harvest. You must report your harvest, <b>even if you did not take an animal, </b>within 30 days of the season end date that is printed on your permit; failure to do so may result in you not being able to apply for big game species in subsequent years. Submitting teeth or other biological samples from your animal, or having your animal checked by a DWR representative or CWMU operator does <b>NOT </b>fulfill your mandatory harvest reporting requirement."
+	},
+	"boundaries": [
+		15
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 15,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Ownership is approximately 95% Public Land - BLM, and State lands.  There are small isolated tracts of private lands representing less than 5% of the unit.  These private lands include the mouths of most the major canyons coming out of the Book Cliffs and the irrigated fields near the town of Green River.  These private lands will be more of an impact for deer hunters than pronghorn or bighorn sheep hunters.  ",
+			"WMA_IN_UNIT": "Nash Wash WMA.  It is accessed from Exit 204 off of Interstate 70.  It will be a very good area for mule deer but marginal for pronghorn and bighorn sheep.",
+			"CAMPGRND_INFO": "The only developed campground on the unit is at Swasey's Beach along the Green River and is administered by the BLM. It is a good campground that is very near good sheep hunting opportunities.   Dispersed camping opportunities on SITLA and BLM lands across the desert are abundant.  Firewood and water are relatively scarce.  Plan on bringing your own water.  \n",
+			"SUGGESTED_MAPS": "The yellow 1:100,000 scale BLM maps named Westwater, Huntington, and Moab.",
+			"COUNTY_ROAD_INFO": "Grand County:  <a href=\"http://www.grandcountyutah.net/pdf/roads/broadmap.jpg\" target=\"_blank\">http://www.grandcountyutah.net/pdf/roads/broadmap.jpg\n</a>\n\n   ",
+			"ATV_VEH_ACCESS": "ATV and Vehicle Access: allowed on approved roads and trails<br>\n<br>\n<b>Bighorn Sheep:</b>  Most roads and ATV trails on this unit are managed by the BLM and are covered on its Travel Management Plan.  There are only a few roads that go on or near bighorn sheep habitat on the unit.  The Hastings Road just east of the Green River in the town of Green River will take you along the east side of the Green River for about 15 miles until the road dead-ends near Rattlesnake Canyon.  This road will provide the closest access to where most of the sheep live.  This road is graded by the county and is generally in good shape.  There are some tight spots along the river that you should be wary of if there is snowy or icy conditions.  The Tushar Canyon road will go northeast off of the Hastings Road about 9 miles north of the town of Green River.  It will access the right and left fork of Tushar Canyon and loop around along the bench to the east and provide access to Coal, Horse, and Floy Canyons.  The Coal Canyon Road is the first right hand turn off of the Hastings Road while still in the town of Green River.  It will go through a bunch of alfalfa fields and then up on the cliffs.  the Horse Canyon and Floy Canyon roads can be access by following the frontage road along I-70 to the east.  Despite all of these directions, most of your time will be spent on foot.<br>\n<br>\n<b>Deer:</b>  The main areas with the highest concentrations of deer include Nash Wash (Exit 204 off of Interstate 70), Cottonwood Canyon (Exit 214), Hay Canyon (Exit 221), and Bitter Creek (Exit 227)<br>\n<br>\n<b>Pronghorn:</b>  Use any exit off of Interstate 70 or drive the frontage road along the Interstate.  Major access points include Green River (Exit 164), Floy Wash (Exit 175), Crescent Junction, Thompson, Yellowcat, Nash Wash (Exit 204), Cottonwood (Exit 214), Sulphur Canyon (Exit 221), and Bitter Creek (Exit 227)",
+			"PRIV_TRIBE_LAND_ISSUES": "<b>Bighorn Sheep: </b> The northern boundary of this unit adjoins Ute Tribal lands along Coal Creek. This is good bighorn sheep habitat and bighorns have been seen on both sides of the boundary near the mouth of Coal Creek.  Take great care not to hunt or trespass on these tribal lands.  The upper Tribal Boundary at upper elevations near Sego Canyon generally doesn't  have bighorn sheep during November.  There are small isolated pieces of private property in the mouths of Coal, Horse, Floy, and Thompson Canyons.  County roads go through these properties so it is best to simply travel through them and park on public lands if you do not have written permission to hunt on these private lands.  Bighorn sheep generally do not spend a great deal of time on these private lands. <br>\n<br>\n<b>Pronghorn:</b>  There is a large block of private land on the alfalfa fields near the town of Green River.  Antelope use this area.  Please secure written permission prior to hunting these private lands.  The remainder of the private lands on this unit either do not occur in Pronghorn habitat or are scattered and unmarked.  <br>\n<br>\n<b>Deer:</b>  Deer concentrate on private lands at the mouths of Cottonwood, Hay, and Bitter Creek Canyons.  Please secure written permission prior to hunting these private lands.  They are relatively small parcels so they are easy to avoid but they do concentrate deer.\n",
+			"BOUNDARY_DESCRIPTION": "Grand County--Boundary begins at the Utah-Colorado state line and the summit and drainage divide of the Book Cliffs; west along this summit and drainage divide to Diamond Ridge; southwest along Diamond Ridge and the Book Cliffs summit (north-south drainage divide) to the Uintah and Ouray Indian Reservation boundary (Hells Hole/head of Sego Canyon); west along this boundary to the Green River; south along this river to Swasey’s Boat Ramp and the Hastings Road; south on this road to SR-19; south and east on SR-19 to Exit 164 on 1-70 near the town of Green River; east along I-70 to the Utah-Colorado state line; north along this state line to the summit and drainage divide of the Book Cliffs. EXCLUDES ALL NATIVE AMERICAN TRUST LAND WITHIN THE BOUNDARY. USGS 1:100,000 Maps: Huntington, Moab, Westwater. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "Book Cliffs, South",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

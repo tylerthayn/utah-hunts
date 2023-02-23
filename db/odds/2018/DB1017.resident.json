@@ -1,0 +1,229 @@
+{
+	"hunt": "DB1017",
+	"year": 2020,
+	"points": {
+		"0": {
+			"points": 0,
+			"applicants": 397,
+			"tags": {
+				"bonus": 0,
+				"regular": 4
+			}
+		},
+		"1": {
+			"points": 1,
+			"applicants": 349,
+			"tags": {
+				"bonus": 0,
+				"regular": 2
+			}
+		},
+		"2": {
+			"points": 2,
+			"applicants": 310,
+			"tags": {
+				"bonus": 0,
+				"regular": 9
+			}
+		},
+		"3": {
+			"points": 3,
+			"applicants": 226,
+			"tags": {
+				"bonus": 0,
+				"regular": 5
+			}
+		},
+		"4": {
+			"points": 4,
+			"applicants": 215,
+			"tags": {
+				"bonus": 0,
+				"regular": 8
+			}
+		},
+		"5": {
+			"points": 5,
+			"applicants": 168,
+			"tags": {
+				"bonus": 0,
+				"regular": 5
+			}
+		},
+		"6": {
+			"points": 6,
+			"applicants": 154,
+			"tags": {
+				"bonus": 0,
+				"regular": 7
+			}
+		},
+		"7": {
+			"points": 7,
+			"applicants": 167,
+			"tags": {
+				"bonus": 0,
+				"regular": 9
+			}
+		},
+		"8": {
+			"points": 8,
+			"applicants": 136,
+			"tags": {
+				"bonus": 0,
+				"regular": 14
+			}
+		},
+		"9": {
+			"points": 9,
+			"applicants": 6,
+			"tags": {
+				"bonus": 6,
+				"regular": 0
+			}
+		},
+		"10": {
+			"points": 10,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"11": {
+			"points": 11,
+			"applicants": 10,
+			"tags": {
+				"bonus": 0,
+				"regular": 10
+			}
+		},
+		"12": {
+			"points": 12,
+			"applicants": 2,
+			"tags": {
+				"bonus": 2,
+				"regular": 0
+			}
+		},
+		"13": {
+			"points": 13
+		},
+		"14": {
+			"points": 14
+		},
+		"15": {
+			"points": 15
+		},
+		"16": {
+			"points": 16
+		},
+		"17": {
+			"points": 17
+		},
+		"18": {
+			"points": 18,
+			"applicants": 1,
+			"tags": {
+				"bonus": 1,
+				"regular": 0
+			}
+		},
+		"19": {
+			"points": 19,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"20": {
+			"points": 20,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"21": {
+			"points": 21,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"22": {
+			"points": 22,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"23": {
+			"points": 23,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"24": {
+			"points": 24,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"25": {
+			"points": 25,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"26": {
+			"points": 26,
+			"applicants": 0,
+			"tags": {
+				"bonus": 0,
+				"regular": 0
+			}
+		},
+		"32": {
+			"points": 32,
+			"applicants": 32,
+			"tags": {
+				"bonus": 0,
+				"regular": 32
+			}
+		},
+		"80": {
+			"points": 80,
+			"applicants": 37,
+			"tags": {
+				"bonus": 1,
+				"regular": 38
+			}
+		},
+		"113": {
+			"points": 113,
+			"applicants": 0,
+			"tags": {
+				"bonus": 5,
+				"regular": 5
+			}
+		},
+		"127": {
+			"points": 127,
+			"applicants": 0,
+			"tags": {
+				"bonus": 18,
+				"regular": 18
+			}
+		}
+	}
+}

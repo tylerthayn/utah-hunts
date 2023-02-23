@@ -1,0 +1,14 @@
+{
+	"screens": {
+		"effects": {
+			"hide": {
+				"effect": "slide",
+				"direction": "left"
+			},
+			"show": {
+				"effect": "slide",
+				"direction": "right"
+			}
+		}
+	}
+}

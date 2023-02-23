@@ -1,0 +1,631 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "EA1246",
+			"HUNT_YEAR": 2022,
+			"DUPLICATE_UNTIL_DATE": "Jan 31, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "During open seasons on any 2022 Wasatch Mtns Antlerless Elk hunt - See the 2022 Antlerless Guidebook for details",
+			"SEASON_OPEN_DATE_1": "Aug 1, 2022",
+			"SEASON_CLOSE_DATE_1": "Jan 31, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2022",
+			"OTC_SALES_END_DATE": "Jan 31, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"NOTES": "Hunters who obtain a Wasatch Mtns Antlerless Elk conservation permit may hunt the following areas/seasons:<br>\n<B>Wasatch Mtns, Avintaquin: </b> Oct 8 - Oct 20, 2022<br>\n<B>Wasatch Mtns, Salt Lake: </b> Nov 19, 2022 - Jan 31, 2023<br>\n<B>Wasatch Mtns, Wallsburg: </b> Nov 19 - Dec 18, 2022 and Dec 20, 2022 - Jan 31, 2023<br>\n<B>Wasatch Mtns, West Heber: </b> Nov 19, 2022 - Jan 31, 2023<br>\n<B>Wasatch Mtns, West Timpanogos: </b> Nov 19, 2022 - Jan 31, 2023<br>\n<B>Wasatch Mtns, West-Central:</b> Nov 2 - Nov 10, 2022\n",
+			"CREATED_BY": "Phillip Gray",
+			"CREATED_DATE": "Jan 5, 2022",
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Jan 5, 2022"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "EA1246",
+			"BOUNDARY_ID": 0,
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "EA1246",
+		"HUNT_AREA_ID": 11464,
+		"SPECIES": "Elk",
+		"GENDER": "Antlerless",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "Conservation",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Wasatch Mtns",
+		"PRINT_HUNT_NAME": "Wasatch Mtns - Hunt #EA1246",
+		"SPECIAL_INSTRUCTIONS": "Any open antlerless elk units in the guidebook that include Wasatch Mtns in the unit name",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"HARVEST_REPORTING": "<b>Voluntary</b>: Hunters who obtain this permit are encouraged, but not required, to submit a harvest report. Report your harvest <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">online</a> or by calling 1-800-221-0659.",
+		"CREATED_BY": "Phillip Gray",
+		"CREATED_DATE": "Jan 5, 2022",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Jan 5, 2022"
+	},
+	"boundaries": [
+		224,
+		234,
+		238,
+		240,
+		480,
+		845
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 224,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public, Private and Tribal Lands.  The public lands are primarily US Forest Service lands managed by the Ashley National Forest and by the Uinta-Wasatch-Cache National Forest and Wildlife Management Areas managed by the UDWR.  This unit also includes large tracks of Ute Tribal lands that are close to non-tribal members.   There is a large amount of private property on the unit as well, including many CWMU’s. ",
+			"WMA_IN_UNIT": "Horse Ridge, Lake Canyon, Skitzy, Timber Canyon, Strawberry River",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  <br>\nMaps and camping regulations are available on their websites. \n<a href=\"Avintaquin: http://www.fs.usda.gov/ashley\" target=\"_blank\">Avintaquin: http://www.fs.usda.gov/ashley</a>\n",
+			"SUGGESTED_MAPS": "1:100,000 scale USGS maps include; Price, Duchesne.",
+			"COUNTY_ROAD_INFO": "Duchesne and Wasatch counties",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \n<br>\nAvintaquin: <a href=\"http://www.fs.usda.gov/ashley\" target=\"_blank\">http://www.fs.usda.gov/ashley</a> \n<br>\nThere are also several roads and ATV trails on land managed by the Utah Division of Wildlife Resources. All vehicles and ATV’s must stay on designated roads and trails on these lands.\n",
+			"PRIV_TRIBE_LAND_ISSUES": "The Avintaquin subunit contains large amounts of Tribal Trust Lands. All ATVs are prohibited on Tribal Lands and must be trailered on access roads across Tribal Lands.  For information on which roads are legal access roads contact Duchesne County. There are also several large areas of private land, including 1 CWMU. Hunters must receive written permission before hunting private lands",
+			"BOUNDARY_DESCRIPTION": "Carbon, Duchesne, Utah and Wasatch counties—Boundary begins at the Strawberry River and Beaver Creek; southwest along Beaver Creek to Big Beaver Spring and USFS Road 081 (Reservation Ridge Road); east on this road to US-191; north on US-191 to Duchesne and the Strawberry River; west along this river to Beaver Creek. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. Excludes all CWMUs. USGS 1:100,000 Maps: Duchesne, Nephi, Provo. Boundary questions? Call Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Nov 28, 2017",
+			"BOUNDARY_NAME": "Wasatch Mtns, Avintaquin",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 234,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "USFS",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "No campgrounds",
+			"PRIM_ACCESS_PTS": "Mill Creek Canyon and Lambs Canyon.",
+			"SUGGESTED_MAPS": "<a href=\"http:www.fs.usda.gov/uwcnf\" target=\"_blank\">http:www.fs.usda.gov/uwcnf</a>",
+			"COUNTY_ROAD_INFO": "None",
+			"ATV_VEH_ACCESS": "No ATV access.",
+			"PRIV_TRIBE_LAND_ISSUES": "None",
+			"BOUNDARY_DESCRIPTION": "Boundary begins at I-15 and I-80; east on I-80 to US-40; south on US-40 to Summit-Wasatch county line; west on this county line to the Wasatch-Salt Lake county line; west on this county line to the Salt Lake-Utah county line; west on this county line to I-15; north on I-15 to I-80.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 26, 2017",
+			"BOUNDARY_NAME": "Wasatch Mtns, Salt Lake",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 238,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "DWR",
+			"WMA_IN_UNIT": "Wallsburg and Big Hollow",
+			"CAMPGRND_INFO": "Camping is allowed on the WMA's.",
+			"PRIM_ACCESS_PTS": "Wallsburg road and Daniels road",
+			"SUGGESTED_MAPS": "<a href=\"http://www.fs.usda.gov/uwnf\" target=\"_blank\">http://www.fs.usda.gov/uwnf</a>",
+			"COUNTY_ROAD_INFO": "Big hollow road closes December 1st.",
+			"ATV_VEH_ACCESS": "ATV access is allowed on established roads.",
+			"BOUNDARY_DESCRIPTION": "Wasatch County--Boundary begins at US-189 and US-40 at Heber City; southeast on US-40 to Strawberry Valley and USFS Road 131; south on this road to USFS Road 134 at Clyde Creek; west on this road to the Utah-Wasatch county line; northwest on this county line to US-189; northeast on US-189 to US-40. Wallsburg WMA closed to all motorized vehicles after Dec 1. Excludes all CWMUs. USGS 1:100,000 Maps: Provo. Boundary questions? Call Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"ACCESS_EMAIL": " ",
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Justin Shannon",
+			"UPDATEDDATE": "Jun 13, 2017",
+			"BOUNDARY_NAME": "Wasatch Mtns, Wallsburg",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 240,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Private, USFS, Utah State Parks.",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "Near Cascade Springs",
+			"PRIM_ACCESS_PTS": "North Fork of Provo Canyon, Cascade Springs road, American Fork Canyon.",
+			"SUGGESTED_MAPS": "<a href=\"http:www.fs.usda.gov/uwcnf\" target=\"_blank\">http:www.fs.usda.gov/uwcnf</a>",
+			"COUNTY_ROAD_INFO": "County roads close November 1st.",
+			"ATV_VEH_ACCESS": "Limited",
+			"BOUNDARY_DESCRIPTION": "Wasatch County--Boundary begins at US-189 and SR-113 at Charleston; north on SR-113 to Midway Center Street; west on this street to Snake Creek; north along this creek to Pine Creek; north along this creek to the Summit-Wasatch county line; west on this county line to the Wasatch-Utah county line; south on this county line to US-189; northeast on US-189 to SR-113. Excludes all CWMUs. USGS 1:100,000 Maps: Provo, Salt Lake City. Boundary questions? Call Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Jun 6, 2017",
+			"BOUNDARY_NAME": "Wasatch Mtns, West Heber",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 480,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "USFS, DWR, Orem City",
+			"WMA_IN_UNIT": "Timpanogos WMA.",
+			"CAMPGRND_INFO": "None",
+			"PRIM_ACCESS_PTS": "Timpooneke and Alpine Loop trail heads.",
+			"SUGGESTED_MAPS": "<a href=\"http:www.fs.usda.gov/uwcnf\" target=\"_blank\">http:www.fs.usda.gov/uwcnf</a>",
+			"COUNTY_ROAD_INFO": "American For Canyon and North Fork of Provo Canyon.",
+			"ATV_VEH_ACCESS": "None",
+			"PRIV_TRIBE_LAND_ISSUES": "None",
+			"BOUNDARY_DESCRIPTION": "Utah County—Boundary begins at US-189 and 800 North in Orem; west on 800 North to US-89 (State Street); northwest on US-89 to SR-146; north on SR-146 to SR-92; east on SR-92 to Burned Canyon; south along this canyon bottom to the summit of Mount Timpanogos; south along this summit to Lost Creek; south along this creek to US-189; southwest on US-189 to 800 North in Orem. Excludes all CWMUs. USGS 1:100,000 Maps: Provo. Boundary questions? Call Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Dale Liechty",
+			"UPDATEDDATE": "Jan 10, 2018",
+			"BOUNDARY_NAME": "Wasatch Mtns, Timpanogos B",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 845,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "USFS, Privte and some UDWR",
+			"WMA_IN_UNIT": "Wallsburg, Big Hollow and Timp. WMA's",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US National Forest Service. Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service. Maps and camping regulations are available on their websites. Ashley National Forest website: http://www.fs.usda.gov/ashley Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf",
+			"PRIM_ACCESS_PTS": "NA",
+			"SUGGESTED_MAPS": "Provo, and Salt Lake USGS or BLM 1:100,000 topo maps",
+			"COUNTY_ROAD_INFO": "NA",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans. Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. Maps can also be purchased online at: http://www.fs.usda.gov/ashley http://www.fs.usda.gov/uwcnf",
+			"PRIV_TRIBE_LAND_ISSUES": "There are many big game CWMU’s on this unit. All other private land requires written permission before hunting.",
+			"BOUNDARY_DESCRIPTION": "Salt Lake, Summit, Utah and Wasatch counties—Boundary begins at I-80 and I-15 in Salt Lake City; east on I-80 to US-40; south on US-40 to SR-32; east on SR-32 to SR-35 at Francis: southeast on SR-35 to the USFS Road 054 (Mill Hollow road); southwest on this road to the USFS Road 083 (Lake Creek road); southeast on USFS Road 83 to USFS Road 82 (new Co-op Creek road); south on USFS Road 82 to US-40; east on US-40 to the USFS Road 090 (Soldier Creek Dam road); south on this road to the Soldier Creek Dam and the Strawberry River; southeast along this river to Beaver Creek; southwest along this creek to Big Beaver Spring and the USFS Road 081 (Reservation Ridge road); southeast on this road to the Right Fork of White River road; southwest on this road to US-6; northwest on US-6 to I-15; north on I-15 to I-80 in Salt Lake City. USGS 1:100,000 Maps: Duchesne, Nephi, Provo, Salt Lake City. Boundary questions? Call the Springville office, (801) 491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Dale Liechty",
+			"UPDATEDDATE": "Jan 25, 2019",
+			"BOUNDARY_NAME": "Wasatch Mtns, West-Central",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

@@ -1,0 +1,773 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "GO1000",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Dec 31, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Sept 1 - Dec 31, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Dec 31, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"CREATED_BY": "Phillip Gray",
+			"CREATED_DATE": "Sep 26, 2018",
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Jan 10, 2022"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "GO1000",
+			"BOUNDARY_ID": 0,
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "GO1000",
+		"HUNT_AREA_ID": 11149,
+		"SPECIES": "Mountain Goat",
+		"GENDER": "Hunters Choice",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "Statewide",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Mountain Goat - Statewide Permit",
+		"PRINT_HUNT_NAME": "Mountain Goat Statewide Permit - Hunt# GO1000",
+		"SPECIAL_PROVISIONS": "This permit is available as the Statewide Sportsman's Permit by applying for the permit in the late fall or by obtaining the Statewide Conservation Permit available to purchase through the approved conservation organization. See guidebook or contact a regional office for details.",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"DRAW_DESIGNATION": "P",
+		"HARVEST_REPORTING": "<b>REQUIRED</b>: <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">click here</a> or call 1-800-221-0659 to report your harvest. You must report your harvest, <b>even if you did not take an animal, </b>within 30 days of the season end date that is printed on your permit; failure to do so may result in you not being able to apply for big game species in subsequent years. Submitting teeth or other biological samples from your animal, or having your animal checked by a DWR representative or CWMU operator does <b>NOT </b>fulfill your mandatory harvest reporting requirement.",
+		"CREATED_BY": "Phillip Gray",
+		"CREATED_DATE": "Sep 26, 2018",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Jan 10, 2022"
+	},
+	"boundaries": [
+		102,
+		145,
+		146,
+		147,
+		148,
+		157,
+		200,
+		225,
+		231,
+		233,
+		616,
+		617,
+		628,
+		630
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 102,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Almost entirely USFS lands",
+			"WMA_IN_UNIT": "Wide Hollow WMA",
+			"CAMPGRND_INFO": "Administered by The USFS",
+			"PRIM_ACCESS_PTS": "Highway 150 (mirror lake) from Kamas Utah",
+			"SUGGESTED_MAPS": "Uinta-Wasatch-Cache Forest Service map of the Salt Lake, Kamas, Evanston, Mtn. View Ranger Districts",
+			"COUNTY_ROAD_INFO": "See Forest Service map",
+			"ATV_VEH_ACCESS": "Administered by USFS, see travel map for the area",
+			"BOUNDARY_DESCRIPTION": "Duchesne, Summit, and Wasatch counties—Boundary begins at the junction of SR-150 and the Summit-Duchesne county line at Hayden Pass (summit of the Uinta Mountains); north along SR-150 to the USFS boundary; west and south along this boundary to SR-150 near Samak; east and north on SR-150 to the Summit-Duchesne county line at Hayden Pass. USGS 1:100,000 Maps: Kings Peak, Salt Lake. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "David Rich",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Chalk Creek/Kamas, Uintas",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 145,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "99% Public Land - US Forest Service lands.  This is a Wilderness Area Hunt.  100% of the mountain goat habitat in this hunt unit is within the High Uintas Wilderness Area where motor vehicles are prohibited.",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest.  There are special restrictions on camping and campfires in certain areas within the Wilderness Area. Please  direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nSouth Slope: Ashley National Forest website:  http://www.fs.usda.gov/ashley\nNorth Slope: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\n",
+			"PRIM_ACCESS_PTS": "North Slope: East & West Forks of Blacks Fork trailheads, China Meadows trailhead, Henry's Fork Trailhead\nSouth Slope: Lake Fork Trailhead, Yellowstone/Swift Creek Trailhead, Jackson Park road, Dry Gulch road, and Uinta Cyn Trailhead\n",
+			"SUGGESTED_MAPS": "Kings PeakUSGS 1:100,000 topo map.  High Uintas Wildnerness Trails Illustrated map.",
+			"COUNTY_ROAD_INFO": "Dushesne County on the South Slope and Summit County on the North Slope.",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \nSouth Slope: Ashley National Forest website:  http://www.fs.usda.gov/ashley\nNorth Slope: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\nBe aware that there are no roads or ATV access in Mtn. Goat habitat on this unit.  All of the mtn goat habitat on this unit is within the Wilderness Area.\n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit does not include Tribal Trust Lands or private land.  There is a large area of Ute Tribal Trust Land to the south of the hunt unit.  Road access across the Tribal land is permitted across the main access roads to the Forest.  All ATVs are prohibited on Tribal Lands, they must be trailered on access roads across Tribal Lands.  ",
+			"BOUNDARY_DESCRIPTION": "Duchesne and Summit counties—Boundary begins where the Lake Fork River crosses the USFS boundary; north along the Lake Fork River to Oweep Creek; north along this creek to USFS Trail 042; north on this trail to Squaw Pass and USFS Trail 103; north on this trail to the East Fork of the Blacks Fork River; north along this river to the Blacks Fork river; north along this river to Meeks Cabin Reservoir and the Utah-Wyoming state line; east along this state line to the Henrys Fork River; south along this river to USFS Trail 117; south on this trail to Gunsight Pass and USFS Trail 068; east on this trail through Painter Basin to USFS Trail 044; east on this trail to the Uinta River; south along this river to the USFS boundary; west along this boundary to the Lake Fork River. USGS 1:100,000 Maps: Kings Peak. Boundary questions? Call the Vernal office, 435-781-9459, or the Ogden office, 801-476-2740. ",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "North Slope/South Slope, High Uintas Central",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 146,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "99% Public Land - US Forest Service lands.  This is a Wilderness Area Hunt.  Approximately 70% of the mountain goat habitat in this hunt unit is within the High Uintas Wilderness Area where motor vehicles are prohibited.",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest.  There are special restrictions on camping and campfires in certain areas within the Wilderness Area. Please  direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nSouth Slope: Ashley National Forest website:  http://www.fs.usda.gov/ashley\nNorth Slope: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\n",
+			"PRIM_ACCESS_PTS": "North Slope: Henry's Fork Trailhead, Middle Beaver Creek Trailhead, Hoop Lake Trailhead, Beaver Meadow Reservoir Trailhead, Spirit Lake and Hickerson Park Trailheads\nSouth Slope: Uinta Cyn. Trailhead, Whiterocks Cyn. Trailhead, West Fork of Whiterocks Trailhead, Chepeta Lake Trailhead and the Elk Horn Loop road in general.\n",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Kings Peak and Dutch John topo maps, High Uintas Wilderness trails illustrated map",
+			"COUNTY_ROAD_INFO": "Duchesne & Uintah Counties on the South Slope and Summitt & Daggett Counties on the North Slope",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \nSouth Slope: Ashley National Forest website:  http://www.fs.usda.gov/ashley\nNorth Slope: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\nThere are several areas on this unit that hunters can get close to Mtn Goat habitat by road.  \n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit does not include Tribal Trust Lands or private land.  There is a large area of Ute Tribal Trust Land to the south of the hunt unit.  Road access across the Tribal land is permitted across the main access roads to the Forest.  All ATVs are prohibited on Tribal Lands, they must be trailered on access roads across Tribal Lands.  ",
+			"BOUNDARY_DESCRIPTION": "Duchesne, Summit, and Uintah counties—Boundary begins where the Uinta River crosses the USFS boundary; then north along the Uinta River to USFS Trail 044 near Painter Basin; west on this trail to USFS Trail 068; north on this trail to Gunsight Pass and USFS Trail 117; north on this trail to the Henrys Fork River; north along this river to the Utah-Wyoming state line; east on this state line to the USFS boundary; south and east on the USFS boundary to SR-44; west along SR-44 to Carter Creek; west along this creek to Brownie Lake and Weyman Creek; south along this creek to USFS Trail 019 in Weyman Park; south on this trail over an unnamed pass to USFS Trail 025; west on this trail to Whiterocks Lake and the Whiterocks River; south along this river to the USFS boundary; west on this boundary to the Uinta River. USGS 1:100,000 Maps: Dutch John, Kings Peak. Boundary questions? Call the Vernal office, 435-781-9459, or the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "North Slope/South Slope, High Uintas East",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 147,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "99% Public Land - US Forest Service lands.  This is a Wilderness Area Hunt.  None of the mountain goat habitat in this hunt unit is within the High Uintas Wilderness Area where motor vehicles are prohibited.\n",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest.  Please  direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nAshley National Forest website:  http://www.fs.usda.gov/ashley\n",
+			"PRIM_ACCESS_PTS": "North Slope: Weyman Park Trailhead, Browne Lake Trailhead, the Hacking Lake road \nSouth Slope: Whiterocks Cyn. Trailhead, Cheta Lake Trailhead and the Elk Horn Loop road, Paradise Park road, and Ashley Twins and Marsh Peak roads\n",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Dutch John topo map, High Uintas Wilderness Trails Illustrated map",
+			"COUNTY_ROAD_INFO": "Uintah County on the South Slope and Daggett County on the North Slope",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \nAshley National Forest website:  http://www.fs.usda.gov/ashley\nThere are several areas on this unit that hunters can get close to Mtn Goat habitat by road.  \n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit does not include Tribal Trust Lands or private land.  ",
+			"BOUNDARY_DESCRIPTION": "Duchesne, Summit, and Uintah counties—Boundary begins where the Whiterocks River crosses the USFS boundary; north along the Whiterocks River to Whiterocks Lake and USFS Trail 025; east on this trail to USFS Trail 019; north on this trail over an unnamed pass to Weyman Park and Weyman Creek; northeast along Weyman Creek to Brownie Lake and Carter Creek; east along this creek to SR-44; east on SR-44 to SR-191; south on this road to the USFS boundary; west along this boundary to the Whiterocks River. USGS 1:100,000 Maps: Dutch John. Boundary questions? Call the Vernal office, 435-781-9459.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "North Slope/South Slope, High Uintas Leidy Peak",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 148,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "99% Public Land - US Forest Service lands.  This is a Wilderness Area Hunt.  90% of the mountain goat habitat in this hunt unit is within the High Uintas Wilderness Area where motor vehicles are prohibited.",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest.  There are special restrictions on camping and campfires in certain areas within the Wilderness Area. Please  direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nSouth Slope: Ashley National Forest website:  http://www.fs.usda.gov/ashley\nNorth Slope: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\n",
+			"PRIM_ACCESS_PTS": "Mirror Lake Hwy. (SR150), Rock Creek Trailhead (S.S.), Lake Fork Trailhead (S.S.),  North Fork of Duchesne Trailhead (SS), Christmas Meadows trailhead (N.S.), East Fork of the Bear trailhead (N.S.), and both East & West Forks of Blacks Fork trailheads (N.S.). ",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Kings Peak and Duchesne topo maps, High Uintas Wilderness Trails illustrated map",
+			"COUNTY_ROAD_INFO": "Duchesne and Summitt Counties",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \nSouth Slope: Ashley National Forest website:  http://www.fs.usda.gov/ashley\nNorth Slope: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\nBe aware that road or ATV access to Mtn. Goat habitat is very limited on this unit.  On this unit there are only a few areas that have roads that come close to Mtn. Goat habitat ",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit does not include Tribal Trust Lands and has almost no private land included.  There is a large area of Ute Tribal Trust Land to the south of the hunt unit.  Road access across the Tribal land is permitted across the main access roads to the Forest.  All ATVs are prohibited on Tribal Lands, they must be trailered on access roads across Tribal Lands.  ",
+			"BOUNDARY_DESCRIPTION": "Duchesne and Summit counties—Boundary begins at the junction of SR-150 and the Summit-Duchesne county line (summit of the Uinta Mountains); north along SR-150 to the North Slope road (USFS 058); east along this road to the East Fork of the Blacks Fork River; south along the East Fork to USFS trail 103; south on this trail to Squaw Pass and USFS trail 042; south on this trail to Oweep Creek; south along this creek to the Lake Fork River; south along this river to the USFS boundary; west along this boundary to SR-35; northwest on SR-35 to the Soapstone Basin road (USFS 037); north along this road to SR-150; north on SR-150 to the Summit-Duchesne county line. USGS 1:100,000 Maps: Kings Peak. Boundary questions? Call the Vernal office, 435-781-9459 or the Ogden office 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "North Slope/South Slope, High Uintas West",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 157,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Forest Service",
+			"CAMPGRND_INFO": "Check with Forest Service",
+			"PRIM_ACCESS_PTS": "Inspiration point through Mantua.",
+			"SUGGESTED_MAPS": "Forest service map covering Willard peak",
+			"ATV_VEH_ACCESS": "It is best to take an ATV to inspiration point, but other vehicles can make it too.",
+			"BOUNDARY_DESCRIPTION": "Box Elder, Cache, and Weber counties—Boundary begins at US-89 and Pleasant View Drive in Pleasant View; north along US-89 to US-89/91; east and north along US-89/91 to SR-101; east along SR-101 to Avon and Canyon Road (Avon to Liberty road); south along Canyon Road to USFS/County Road 162; south on this road to Liberty and 4100 North; west on 4100 North to the North Ogden Canyon Road; west on this road to North Ogden and 1050 East; south on 1050 East to 2600 North; west on 2600 North to Pleasant View Drive; northwest on this drive to US-89. Goats are found along the Wasatch Front from the North Ogden Divide to Willard. USGS 1:100,000 Map: Ogden. Boundary questions? Call the Ogden office, 801-476-2740. ",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Ogden, Willard Peak",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 200,
+			"ACREAGE": 0,
+			"BOUNDARY_DESCRIPTION": "Utah and Wasatch Counties—Boundary begins at US-189 and 800 North in Orem; west on 800 North to US-89 (State Street); northwest on US-89 to SR-146; north on SR-146 to SR-92; east on SR-92 to USFS Road 114 (Cascade Scenic Drive); east on this road to SR-113 in Midway; south on SR-113 to SR-189; west on SR-189 to 800 North in Orem. Excludes all CWMUs. USGS 1:100,000 Maps: Provo. Boundary questions? Call Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"BOUNDARY_NAME": "Wasatch Mtns, Timpanogos",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 225,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Land Ownership: 100% Public Land - US Forest Service lands. \n",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service. Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service. Maps and camping regulations are available on their websites. Provo Peak: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf",
+			"PRIM_ACCESS_PTS": "Silver Lake trail head, Lake Hardy trail head.",
+			"SUGGESTED_MAPS": "US Forest Service maps at http://www.fs.usda.gov/uwcnf",
+			"COUNTY_ROAD_INFO": "US Forest Service roads.",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans. Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. Provo Peak: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\n Be aware that there are no roads or ATV access in Mtn. Goat habitat on this unit. ",
+			"PRIV_TRIBE_LAND_ISSUES": "There is no private land in Mtn. Goat habitat on this unit.",
+			"BOUNDARY_DESCRIPTION": "Utah County—Boundary begins at I-15 and the Salt Lake-Utah county line; east along this county line to the Utah-Wasatch county line; south along this county line to “Pole Line Pass” on the Snake Creek-North Fork American Fork Canyon road; west on this road to SR-92; west on SR-92 to I-15; north on I-15 to the Salt Lake-Utah county line. USGS 1:100,000 Maps: Provo, Salt Lake City. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Dale Liechty",
+			"UPDATEDDATE": "Jan 10, 2018",
+			"BOUNDARY_NAME": "Wasatch Mtns, Box Elder Peak",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 231,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "A mixture of USFS land and Private (Ski Resort).",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service. Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service. Maps and camping regulations are available on their websites. Provo Peak: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf",
+			"PRIM_ACCESS_PTS": "There are many trail heads on the Unit. Try Mill B. South and Superior Peak.",
+			"SUGGESTED_MAPS": "http://www.fs.usda.gov/uwcnf",
+			"COUNTY_ROAD_INFO": "Big and Little Cottonwood canyon road.",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans. Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. Provo Peak: Uinta-Wasatch-Cache National Forest website: http://www.fs.usda.gov/uwcnf\n Be aware that there are no roads or ATV access in Mtn. Goat habitat on this unit. ",
+			"PRIV_TRIBE_LAND_ISSUES": "Most goat habitat is on US Forest Service lands, their is some on Private Ski Resort lands.",
+			"BOUNDARY_DESCRIPTION": "Salt Lake County—Boundary begins at the junction of I-15 and I-80 in Salt Lake City; east on I-80 to the Salt Lake-Summit county line; south along this county line to the Salt Lake-Wasatch county line; southwest along this county line to the Salt Lake-Utah county line; southwest along this county line to I-15; north on I-15 to I-80. USGS 1:100,000 Maps: Provo, Salt Lake City. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Dale Liechty",
+			"UPDATEDDATE": "Jan 10, 2018",
+			"BOUNDARY_NAME": "Wasatch Mtns, Lone Peak",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 233,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest.  Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nProvo Peak: Uinta-Wasatch-Cache National Forest website: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a>",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \nProvo Peak: Uinta-Wasatch-Cache National Forest website: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a><br>\n\nBe aware that there are no roads or ATV access in Mtn. Goat habitat on this unit. ",
+			"PRIV_TRIBE_LAND_ISSUES": "There is no private land in Mtn. Goat habitat on this unit.",
+			"BOUNDARY_DESCRIPTION": "Utah County&#8212;Boundary begins at the junction of I-15 and US-6 at Spanish Fork; north on I-15 to SR-52; east on SR-52 to US-189; northeast on US-189 to the South Fork Drainage of Provo Canyon; east along this drainage bottom to the Berryport trail; south along this trail to the Left Fork of Hobble Creek road; south on this road to the Right Fork of Hobble Creek road; east on this road to Cedar Canyon; south along this canyon bottom to Wanrhodes Canyon; south along this canyon bottom to Diamond Fork Creek; southwest along this creek to US-6; northeast on US-6 to I-15. USGS 1:100,000 Map: Provo. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Wasatch Mtns, Provo Peak",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 616,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public and Private, Check official map for information.",
+			"WMA_IN_UNIT": "All Wildlife Management Areas are open for this hunt except for the \"Private Lands Only Hunt\" for antlerless elk.",
+			"CAMPGRND_INFO": "Many improved and primitive camping opportunities on the unit.",
+			"PRIM_ACCESS_PTS": "The best access points are off the Nebo Loop Road. Forest Service gates are typically locked beginning in November until late April/early May. However there are many secondary canyon roads that offer access to good hunting. See following link to check seasonal road closures. <a href=\"https://www.fs.usda.gov/main/uwcnf/maps-pubs\" target=\"_blank\">https://www.fs.usda.gov/main/uwcnf/maps-pubs.",
+			"SUGGESTED_MAPS": "Spanish Fork Forest Service",
+			"ATV_VEH_ACCESS": "Landowners may or may not allow ATV access.",
+			"PRIV_TRIBE_LAND_ISSUES": "Temporary area and trail closures have been put in place by the Forest Service due to fire mitigation on the northern half of the unit. Please click <a href=\"https://www.fs.usda.gov/detail/uwcnf/about-forest/districts/?cid=stelprdb5042983\" target=\"_blank\">here</a> for more info or call the Spanish Fork Ranger District Office at 801-798-3571. Please Please be mindful of Wilderness Areas and associated regulations.",
+			"BOUNDARY_DESCRIPTION": "Juab, Millard, Sanpete, Sevier and Utah counties—Boundary begins at US-6 and I-15 at Spanish Fork; southeast on US-6 to US-89 near Thistle; south on US-89 to US-50 at Salina; northwest on US-50 to I-15 at Scipio; north on I-15 to US-6 at Spanish Fork. Excludes all CWMUs. USGS 1:100,000 Maps: Maps: Delta, Manti, Nephi, Provo, Salina. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wes Alexander",
+			"UPDATEDDATE": "Feb 10, 2021",
+			"BOUNDARY_NAME": "Central Mtns, Nebo",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 617,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public, Private and Parks Service.  The public lands are primarily US Forest Service lands managed by the Manti-La Sal National Forest and The Bureau of Land Management(BLM) managed out of the Moab Field Office.  This unit also includes National Parks Service lands that are closed to hunting.  The private lands are primarily on the Eastern portion of the unit, but there are private lands scattered throughout the unit. There are two CWMU's on the unit (Redd Ranches and JB Ranch).",
+			"CAMPGRND_INFO": "All Campgrounds on this subunit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service, SITLA or the BLM.  Maps and camping regulations are available on their websites.<br>\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a><br>\n\n\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a><br>\n\n\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html</a>",
+			"PRIM_ACCESS_PTS": "Miner's Basin: Northwest end of the range.<br>\nBeaver Basin: Northeast end of the range.<br>\nDeep Creek: East side mid range.<br>\nDark Canyon: East side mid range.<br>\nCarpenter and Lackey Basins: South end of range.\n",
+			"SUGGESTED_MAPS": "BLM topographical maps for Moab and La Sal.  Available at BLM offices. USGS 1:100,000 Maps: La Sal, Moab, San Rafael Desert, Westwater. Available at their website.",
+			"COUNTY_ROAD_INFO": "San Juan County:  <a href=\"http://www.utahscanyoncountry.com/index.html\" target=\"_blank\">http://www.utahscanyoncountry.com/index.html</a>\n<br>\nGrand County:  <a href=\"http://www.grandcountyutah.net/\" target=\"_blank\">http://www.grandcountyutah.net/</a>\n",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service, SITLA or the BLM.<br>\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a><br>\n\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a><br>\n\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "There are several areas of private land on this unit, including 2 CWMU’s (Redd Ranches and JB Ranch). Hunters must receive written permission before hunting private lands. Be sure to pay attention to where you are, and study maps before your hunt, please respect ALL posted lands.  La Sal Mountain limited entry and general permits are <b><u>not</u></b> valid on CWMU’s.",
+			"BOUNDARY_DESCRIPTION": "Grand and San Juan counties--Boundary begins at I-70 and the Green River; south along this river to the Colorado River; north along this river to Kane Springs Creek; southeast along this creek to Hatch Wash; southeast along this wash to US-191; south on US-191 to the Big Indian road; east on this road to the Lisbon Valley road; southeast on this road to the Island Mesa road; east on this road to the Utah-Colorado state line; north on this state line to the Dolores River; west along this river to the Colorado River; north along this river to the Utah-Colorado state line; north on this state line to I-70; west on I-70 to the Green River. Excludes all CWMUs. USGS 1:100,000 Maps: La Sal, Moab, San Rafael Desert, Westwater. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Dustin Mitchell",
+			"UPDATEDDATE": "Feb 5, 2019",
+			"BOUNDARY_NAME": "La Sal, La Sal Mtns",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 628,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Some private does exist make sure to check map for accurate details",
+			"CAMPGRND_INFO": "Multiple campground and wilderness camps are available.  Popular areas to camp can be found as you go west from the Sulpherdale exit.",
+			"PRIM_ACCESS_PTS": "Access to the unit can be found all around. Several access points east of I-15 include: <br>\n<i>Big Johns Flat</i>- Plenty of Access and camping\n<br>\n<i>Big Flat</i>- Plenty of access and camping\n<br>\n<i>Kents Lake</i>- Popular camping area must hike off the road to get away from people\n<br>\n<i>Rainbow Mine</i>- Limited road access\n<br>\n<i>Cottonwood Creek</i>- limited road access\n<br>\n<i>City Creek Peak</i>- limited road access, popular area\n<br>\n<i>Lebaron Reservoir</i>- limited road access, popular area\n<br>\n<i>Mumford Reservoir</i>– Limited access, steep areas\n<br>\n<i>Bakers Canyon</i>- popular area \n<br>\n<i>Briggs Ridge</i>– remote hunting area, steep terrain\n<br>\n<i>Shingle Creek Meadows</i>- Some ATV trails and remote hunting opportunities.\n<br>\n<i>North Creek</i>– Limited Access\n<br>\n<i>Manderfield</i>- gravel roads, a little flatter area, be aware of private Property  <br>\n\nMain access points west of I-15 are out of Beaver, Milford, Sulpherdale, and the Black Rock Road.",
+			"SUGGESTED_MAPS": "Fishlake National Forest map for the Beaver and Fillmore Ranger Districts",
+			"COUNTY_ROAD_INFO": "See Map",
+			"ATV_VEH_ACCESS": "See Map",
+			"PRIV_TRIBE_LAND_ISSUES": "Although plentiful public land exists on the Beaver there is some private spread throughout the unit.  See Map for specific details.",
+			"BOUNDARY_DESCRIPTION": "Beaver, Garfield, Iron, Millard, Piute and Sevier counties—Boundary begins at SR-130 and I-15; north on SR-130 to SR-21; north on SR-21 to SR-257; north on SR-257 to Black Rock Road; east on this road to I-15; south on I-15 to I-70; east on I-70 to US-89; south on US-89 to SR-20; west on SR-20 to I-15; south on I-15 to SR-130. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Cedar City, Panguitch, Richfield. Boundary Questions?  Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "David Smedley",
+			"UPDATEDDATE": "May 22, 2019",
+			"BOUNDARY_NAME": "Beaver",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 630,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Forest Service, BLM, State, Private",
+			"WMA_IN_UNIT": "Kingston Canyon WMA is on the north end and has sportsman access, but it is all on foot.",
+			"CAMPGRND_INFO": "No campgrounds are located on the unit but dispersed camping is available.",
+			"PRIM_ACCESS_PTS": "You can access the south end of the unit from the Tom Best Spring road off of HWY 12. You can access the east side of the unit on several different access point along SR-22 (John's Valley Highway). The north end of the unit is inaccessible except by foot. The west side of the unit can be accessed by several points from Circleville to Panguitch along HWY 89. I would access the top of the mountain using the Jones Corral or Cottonwood loop road.   ",
+			"SUGGESTED_MAPS": "USFS, and BLM land maps. ",
+			"ATV_VEH_ACCESS": "ATV's are a good way to access the units. Several roads are impassible by vehicle so an ATV would be recommended. ",
+			"BOUNDARY_DESCRIPTION": "Garfield and Piute counties—Boundary begins at US-89 and SR-62; south on US-89 to SR-12; east on SR-12 to the Widtsoe-Antimony Road; north on this road to SR-22; north on SR-22 to SR-62; west on SR-62 to US-89. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Escalante, Loa, Panguitch. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Justin Shannon",
+			"UPDATEDDATE": "Aug 3, 2017",
+			"BOUNDARY_NAME": "Mt Dutton",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

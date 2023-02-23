@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>WebApp</title>
+		<link rel="icon" type="image/x-icon" href="http://ttscloud.net/images/favicon.gif">
+		<link rel="stylesheet" href="styles.css">
+		<script src="C:/Users/TTS Design/.devtools/DocDb/www/web.js" prefix="D:/NodeJs/node_modules" data-main="main"></script>
+	</head>
+	<body>
+
+<style>
+	.Bonus {fill: red;}
+	.Regular {fill: blue;}
+	.Applications {fill: black;}
+	svg {border: 1px solid black;}
+
+
+</style>
+<svg class="HuntOdds" height="200" viewBox="{{viewBox}}">
+{{#for points .}}
+	<svg class="Point" width="100" height="525" x="{{Offset 'point' _index}}" data-points="{{_index}}" viewBox="{{../point.viewBox}}">
+	{{#each years}}
+		<svg class="Year" data-year="{{.}}" x="{{Offset 'year' @index}}" y="{{../year.y}}" width="{{../year.width}}" height="{{../year.height}}" viewBox="{{../year.viewBox}}">
+			<text x="{{../label.x}}" y="{{../label.y}}" fill="{{../label.fill}}">{{@index}}</text>
+			<rect class="Applicants" x="{{../applicants.x}}" y="{{../applicants.y}}" width="{{../applicants.width}}" height="{{../applicants.height}}" />
+			<g class="Permits">
+				<rect class="Bonus" x="{{../permits.bonus.x}}" y="{{../permits.bonus.y}}" width="{{../permits.bonus.width}}" height="{{../permits.bonus.height}}" />
+				<rect class="Regular" x="{{../permits.regular.x}}" y="{{../permits.regular.y}}" width="{{../permits.regular.width}}" height="{{../permits.regular.height}}" />
+			</g>
+		</svg>
+	{{/each}}
+	</svg>
+{{/for}}
+</svg>
+
+
+</body>
+</html>

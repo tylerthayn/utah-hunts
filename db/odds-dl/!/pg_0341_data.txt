@@ -1,0 +1,26 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: PScript5.dll Version 5.2.2
+InfoBegin
+InfoKey: Title
+InfoValue: Big game drawing odds | Limited-entry &amp; once-in-a-lifetime | 2022
+InfoBegin
+InfoKey: Producer
+InfoValue: Acrobat Distiller 15.0 (Windows)
+InfoBegin
+InfoKey: Author
+InfoValue: Utah Division of Wildlife Resources
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20220608075329-06'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20220607152947-06'00'
+PdfID0: f060b7131c25c53e26125c5d520e49c7
+PdfID1: 1b4d7fefaf0b3387c51c11f49bc64753
+NumberOfPages: 1
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 90
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792

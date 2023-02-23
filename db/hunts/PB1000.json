@@ -1,0 +1,1055 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "PB1000",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Nov 15, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Archery Only: Aug 19 - Aug 31, 2023 ALW: Sept 1 - Nov 15, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Nov 15, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"CREATED_BY": "Phillip Gray",
+			"CREATED_DATE": "Sep 26, 2018",
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Jan 10, 2022"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "PB1000",
+			"BOUNDARY_ID": 0,
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "PB1000",
+		"HUNT_AREA_ID": 11144,
+		"SPECIES": "Pronghorn",
+		"GENDER": "Buck",
+		"WEAPON": "Any Legal Weapon",
+		"HUNT_TYPE": "Statewide",
+		"WAITING_PERIOD_YEARS": 2,
+		"HUNT_NAME": "Pronghorn - Statewide Permit",
+		"PRINT_HUNT_NAME": "Buck Pronghorn Statewide Permit - Hunt# PB1000",
+		"SPECIAL_PROVISIONS": "This permit is available as the Statewide Sportsman's Permit by applying for the permit in the late fall or by obtaining the Statewide Conservation Permit available to purchase through the approved conservation organization. See guidebook or contact a regional office for details.",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"DRAW_DESIGNATION": "P",
+		"HARVEST_REPORTING": "<b>REQUIRED</b>: <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">click here</a> or call 1-800-221-0659 to report your harvest. You must report your harvest, <b>even if you did not take an animal, </b>within 30 days of the season end date that is printed on your permit; failure to do so may result in you not being able to apply for big game species in subsequent years. Submitting teeth or other biological samples from your animal, or having your animal checked by a DWR representative or CWMU operator does <b>NOT </b>fulfill your mandatory harvest reporting requirement.",
+		"CREATED_BY": "Phillip Gray",
+		"CREATED_DATE": "Sep 26, 2018",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Jan 10, 2022"
+	},
+	"boundaries": [
+		8,
+		15,
+		24,
+		25,
+		27,
+		81,
+		97,
+		129,
+		138,
+		171,
+		186,
+		194,
+		208,
+		244,
+		245,
+		246,
+		277,
+		289,
+		443,
+		453,
+		461,
+		625,
+		628,
+		636,
+		688,
+		715,
+		718,
+		719,
+		755
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 8,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by the BLM.  There is a significant amount of SITLA land.  There are several DWR Wildlife Management Areas (WMA).  These areas are managed for wildlife and you can hunt on all these areas.  There is private land and some of it is accessible through the DWR’s Walk-in-Access Program (http://wildlife.utah.gov/walkinaccess/).  ",
+			"WMA_IN_UNIT": ":  Meadow Creek, Two Waters, Bitter Creek, Willow Creek, and Little Creek.",
+			"CAMPGRND_INFO": "Please direct all questions regarding maps and camping regulations to the Vernal BLM Field Office (http://www.blm.gov/ut/st/en/fo/vernal.html)\nBLM:  14 day camping limit and you have to move 30 miles after 14 days.\nDWR WMA’S:  There is a 14 day limit on WMA’s, and there is no camping on the Willow Creek WMA.\n",
+			"PRIM_ACCESS_PTS": "There are several access points to the Book Cliffs.  From the north side there are two main roads that take you to the Book Cliffs.  Utah State Road 88 located between Vernal and Roosevelt.  As you follow it south it turns into the Seep Ridge Road.  Hwy 45 or the Bonanza Hwy is located east of Vernal.  It takes you towards the east side of the Book Cliffs.  After you cross the White River you come to the Dragon or Duck Rock intersection.  The Dragon Rd will take you south to the Book Cliffs.\n\nThe Hay Canyon Rd is the main access road on the south side of the Book Cliffs.  You can access it from I-70.  It is a hard packed dirt/gravel road.  \n\nThe roadless area has two access points, a north and a south.  The north access is called the Ten Mile Knoll trailhead.  It is located at the start of Steer Ridge.  There is a parking area, but it can fill up in a hurry with trucks and horse trailers.  The south trailhead starts at the top of Sego Canyon.  The road starts at Thompson Springs in Grand County and continues up the Sego Canyon Rd; follow it to the end of the road.  There is a water trough at the trailhead, but it is not always full of water.  This trailhead can also fill up with vehicles, and trailers.  There are no bathrooms or other facilities at either of these trailheads, so plan accordingly.    \n",
+			"SUGGESTED_MAPS": "Contact BLM Field Office.",
+			"COUNTY_ROAD_INFO": "Grand County:  http://www.grandcountyutah.net/pdf/roads/broadmap.jpg\nUintah County:  http://www.co.uintah.ut.us/roads/roaddept.php\n",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, SITLA, and DWR, and regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Vernal BLM Field Office, and SITLA.  The DWR WMA’s are restricted to ATV and vehicle travel on established roads and trails.   \n\nSuggested Maps: BLM: Vernal, West Water, and they have a general map that labels most of the main roads.  There are several county signs and BLM signs to help direct you.  \n\nThe Book Cliffs offers a challenging landscape.  There are large ridges with steep canyons dividing them.  Most of the canyons and ridges have roads or ATV trails to provide access.  There are plenty of areas to hike and get away from the main roads.  The hunting pressure will drastically decrease after opening weekend.  \n\nThere are two roads that allow you to drive across the majority of the Book Cliffs.  The Kings Well Rd starts at the Seep Ridge Rd on the west side, and it can take you all the way to the Dragon Rd on the east side.  The Indian Ridge Road starts at the Seep Ridge Rd and goes through the bottom of Sweet Water, top of McCook Ridge, Bitter Creek, and to Big Park.  It is a great road to locate cougars during this time of year.  \n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary excludes all of the Tribal Trust Lands.  There is a large area of Ute Tribal Trust land to the west of the hunt unit.  Road access across the Tribal land is permitted using county roads.  All ATVs are prohibited on Tribal Lands; they must be trailered on access roads across Tribal lands.  \n\nThere are some private ranches that post their property.  There are also privately owned lands that allow access through the DWR Walk-in-Access Program.  \n",
+			"BOUNDARY_DESCRIPTION": "Grand and Uintah counties—Boundary begins at Thompson Canyon road and I-70 at Thompson; north on this road to Sego Canyon Road; north along this road to the Ute Indian Reservation boundary; west along this boundary to the Green River; northeast along the Green River to the White River; east along the White River to the Utah-Colorado state line; south along this state line to I-70; southwest along I-70 to Thompson Canyon road at Thompson. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Moab, Seep Ridge, Vernal, Westwater. Boundary questions? Call the Vernal office, 435-781-9453, or the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Aug 3, 2017",
+			"BOUNDARY_NAME": "Book Cliffs, Bitter Creek (cougar)",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 15,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Ownership is approximately 95% Public Land - BLM, and State lands.  There are small isolated tracts of private lands representing less than 5% of the unit.  These private lands include the mouths of most the major canyons coming out of the Book Cliffs and the irrigated fields near the town of Green River.  These private lands will be more of an impact for deer hunters than pronghorn or bighorn sheep hunters.  ",
+			"WMA_IN_UNIT": "Nash Wash WMA.  It is accessed from Exit 204 off of Interstate 70.  It will be a very good area for mule deer but marginal for pronghorn and bighorn sheep.",
+			"CAMPGRND_INFO": "The only developed campground on the unit is at Swasey's Beach along the Green River and is administered by the BLM. It is a good campground that is very near good sheep hunting opportunities.   Dispersed camping opportunities on SITLA and BLM lands across the desert are abundant.  Firewood and water are relatively scarce.  Plan on bringing your own water.  \n",
+			"SUGGESTED_MAPS": "The yellow 1:100,000 scale BLM maps named Westwater, Huntington, and Moab.",
+			"COUNTY_ROAD_INFO": "Grand County:  <a href=\"http://www.grandcountyutah.net/pdf/roads/broadmap.jpg\" target=\"_blank\">http://www.grandcountyutah.net/pdf/roads/broadmap.jpg\n</a>\n\n   ",
+			"ATV_VEH_ACCESS": "ATV and Vehicle Access: allowed on approved roads and trails<br>\n<br>\n<b>Bighorn Sheep:</b>  Most roads and ATV trails on this unit are managed by the BLM and are covered on its Travel Management Plan.  There are only a few roads that go on or near bighorn sheep habitat on the unit.  The Hastings Road just east of the Green River in the town of Green River will take you along the east side of the Green River for about 15 miles until the road dead-ends near Rattlesnake Canyon.  This road will provide the closest access to where most of the sheep live.  This road is graded by the county and is generally in good shape.  There are some tight spots along the river that you should be wary of if there is snowy or icy conditions.  The Tushar Canyon road will go northeast off of the Hastings Road about 9 miles north of the town of Green River.  It will access the right and left fork of Tushar Canyon and loop around along the bench to the east and provide access to Coal, Horse, and Floy Canyons.  The Coal Canyon Road is the first right hand turn off of the Hastings Road while still in the town of Green River.  It will go through a bunch of alfalfa fields and then up on the cliffs.  the Horse Canyon and Floy Canyon roads can be access by following the frontage road along I-70 to the east.  Despite all of these directions, most of your time will be spent on foot.<br>\n<br>\n<b>Deer:</b>  The main areas with the highest concentrations of deer include Nash Wash (Exit 204 off of Interstate 70), Cottonwood Canyon (Exit 214), Hay Canyon (Exit 221), and Bitter Creek (Exit 227)<br>\n<br>\n<b>Pronghorn:</b>  Use any exit off of Interstate 70 or drive the frontage road along the Interstate.  Major access points include Green River (Exit 164), Floy Wash (Exit 175), Crescent Junction, Thompson, Yellowcat, Nash Wash (Exit 204), Cottonwood (Exit 214), Sulphur Canyon (Exit 221), and Bitter Creek (Exit 227)",
+			"PRIV_TRIBE_LAND_ISSUES": "<b>Bighorn Sheep: </b> The northern boundary of this unit adjoins Ute Tribal lands along Coal Creek. This is good bighorn sheep habitat and bighorns have been seen on both sides of the boundary near the mouth of Coal Creek.  Take great care not to hunt or trespass on these tribal lands.  The upper Tribal Boundary at upper elevations near Sego Canyon generally doesn't  have bighorn sheep during November.  There are small isolated pieces of private property in the mouths of Coal, Horse, Floy, and Thompson Canyons.  County roads go through these properties so it is best to simply travel through them and park on public lands if you do not have written permission to hunt on these private lands.  Bighorn sheep generally do not spend a great deal of time on these private lands. <br>\n<br>\n<b>Pronghorn:</b>  There is a large block of private land on the alfalfa fields near the town of Green River.  Antelope use this area.  Please secure written permission prior to hunting these private lands.  The remainder of the private lands on this unit either do not occur in Pronghorn habitat or are scattered and unmarked.  <br>\n<br>\n<b>Deer:</b>  Deer concentrate on private lands at the mouths of Cottonwood, Hay, and Bitter Creek Canyons.  Please secure written permission prior to hunting these private lands.  They are relatively small parcels so they are easy to avoid but they do concentrate deer.\n",
+			"BOUNDARY_DESCRIPTION": "Grand County--Boundary begins at the Utah-Colorado state line and the summit and drainage divide of the Book Cliffs; west along this summit and drainage divide to Diamond Ridge; southwest along Diamond Ridge and the Book Cliffs summit (north-south drainage divide) to the Uintah and Ouray Indian Reservation boundary (Hells Hole/head of Sego Canyon); west along this boundary to the Green River; south along this river to Swasey’s Boat Ramp and the Hastings Road; south on this road to SR-19; south and east on SR-19 to Exit 164 on 1-70 near the town of Green River; east along I-70 to the Utah-Colorado state line; north along this state line to the summit and drainage divide of the Book Cliffs. EXCLUDES ALL NATIVE AMERICAN TRUST LAND WITHIN THE BOUNDARY. USGS 1:100,000 Maps: Huntington, Moab, Westwater. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "Book Cliffs, South",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 24,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "No campgrounds on this unit are managed by the BLM.  Camping outside of official campgrounds is permitted on most of the public lands.  Please direct all questions regarding campground availability and other camping questions to the BLM.  Maps and camping regulations are available on their website.",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by Box Elder County or BLM and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to their respective website:\n<br>\nBox Elder County:   <a href=\"http://www.boxeldercounty.org/box-elder-county-web-map.htm\" target=\"_blank\">http://www.boxeldercounty.org/box-elder-county-web-map.htm</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/salt_lake.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/salt_lake.html</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "This unit is comprised of approximately 95% private land.  Hunters should obtain written permission from landowners prior to applying for this hunt. ",
+			"BOUNDARY_DESCRIPTION": "Box Elder County--Boundary begins at the Utah-Idaho state line and I-15; south on I-15 to the Box Elder-Weber county line; west on this county line to the Great Salt Lake shoreline; north and west along this shoreline to Locomotive Springs and the Locomotive Springs-Snowville-Stone, Idaho county road; north on this road to the Utah-Idaho state line; east on this state line to I-15. This hunt is comprised of all or largely private property. Hunters should acquire written permission from the landowner before applying for this hunt. Excludes all CWMUs. USGS 1:100,000 Maps: Promontory Point, Tremonton. Boundary questions? Call Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Justin Shannon",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Box Elder, Promontory",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 25,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Yearlong range\n<br>\n<u>Ownership\tArea (acres)\t%</u>\n<br>\nBLM           \t179198\t\t79.8\n<br>\nSITLA         \t27704\t\t12.3\n<br>\nMILITARY       \t5887\t\t2.6\n<br>\nPRIVATE        \t11639\t\t5.3\n<br>\nTOTAL         \t224428\t\t100",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "There are no official campgrounds on this unit. \nThere are many dispersed camping sites within this unit. Please direct all questions regarding roads, maps and camping to the BLM Field Offices. \n<br>\nSalt Lake BLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>",
+			"PRIM_ACCESS_PTS": "I-80, then north on one of the exits",
+			"SUGGESTED_MAPS": " USGS 1:100,000 Maps: Newfoundland Mountains, Promontory Point, Tooele, Bonneville Salt Flats",
+			"ATV_VEH_ACCESS": "In general, ATV access is excellent. Most roads and ATV trails on this unit are managed by the BLM and are covered on their Travel Management Plans.  Please direct all questions regarding road access to the BLM.\n<br>\nSalt Lake BLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "Eafle Range Military Installation is excluded",
+			"BOUNDARY_DESCRIPTION": "Tooele County--Boundary begins at I-80 and the Rowley road(AMAX Magnesium) at Exit 77; north from this exit cross-country to the shoreline of the Great Salt Lake; north along this shoreline to Utah Test and Training Range boundary; west along boundary to the USPCI road; south on this road to I-80; east on I-80 to the Rowley road at Exit 77.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jason Robinson",
+			"UPDATEDDATE": "Jan 26, 2021",
+			"BOUNDARY_NAME": "Box Elder, Puddle Valley",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 27,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "No campgrounds on this unit are managed by the BLM.  Camping outside of official campgrounds is permitted on most of the public lands.  Please direct all questions regarding campground availability and other camping questions to the BLM.  Maps and camping regulations are available on their website.",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by Box Elder County or BLM and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to their respective website:\n<br>\nBox Elder County:   <a href=\"http://www.boxeldercounty.org/box-elder-county-web-map.htm\" target=\"_blank\">http://www.boxeldercounty.org/box-elder-county-web-map.htm</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/salt_lake.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/salt_lake.html</a>",
+			"BOUNDARY_DESCRIPTION": "Box Elder County—Boundary begins at SR-42 and the Utah-Idaho state line; east on SR-42 to SR-30; west on SR-30 to the township line separating Range 15 West and Range 16 West (near milepost 24); due south on this line to Union Pacific railroad tracks; east along these tracks to the shoreline of the Great Salt Lake; north along this shoreline to Locomotive Springs; north on the Locomotive Springs-Snowville-Stone, Idaho county road to the Utah-Idaho state line; west along this state line to SR-42. USGS 1:100,000 Maps: Grouse Creek, Newfoundland Mtns., Tremonton. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Box Elder, Snowville",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 81,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "BLM and Private",
+			"WMA_IN_UNIT": "Pahvant WMA",
+			"CAMPGRND_INFO": "Questions about camping and campgrounds can be answered at the Fillmore field offices of the BLM and USFS.",
+			"PRIM_ACCESS_PTS": "The black rock road on the south end as well as several roads between Kanosh and Holden.",
+			"ATV_VEH_ACCESS": "There are many roads throughout the unit that can be traveled on by a truck or ATV.  There are also many roads that require an ATV or are better traveled by an ATV.  Please stay on existing roads and trails.",
+			"PRIV_TRIBE_LAND_ISSUES": "There are large tracts of private land across the unit.  There is also a CWMU within the boundaries of the unit that cannot be hunted on with this tag.",
+			"BOUNDARY_DESCRIPTION": "Juab and Millard counties--Boundary begins at  I-15 (Exit-207) and  the Mills road; west on this road to the railroad tracks; west on these tracks to the Sevier River; north along this river to SR-132; west on SR-132 to US-50; west on US-50 to SR-257; south on SR-257 to the Black Rock road; east on this road to I-15; north on I-15 to Exit 207 and the Mills road. USGS 1:100,000 Maps: Delta, Lynndyl, Manti, Nephi, Richfield. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "David Smedley",
+			"UPDATEDDATE": "Jan 31, 2019",
+			"BOUNDARY_NAME": "Fillmore, Oak Creek South",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 97,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Grand Staircase Escalante National Monument, SITLA",
+			"CAMPGRND_INFO": "Please direct all questions regarding maps and camping regulations to the Grand Staircase Escalante National Monument at the Kanab BLM Field Office. ",
+			"SUGGESTED_MAPS": "BLM, Smokey Mountain",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the GSENM and SITLA and regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Kanab GSENM/BLM Field Office. ",
+			"BOUNDARY_DESCRIPTION": "Garfield and Kane counties--Boundary begins at the Paria River and the Utah-Arizona state line; north along the Paria River to SR-12; east on SR-12 to the Burr Trail road at Boulder; southeast on this road to Lake Powell; southwest along the shore of Lake Powell to the Utah-Arizona state line; west along this state line to the Paria River. USGS 1:100,000 Maps: Escalante, Navajo Mountain, Smoky Mountain. Boundary questions? Call the Cedar City office, 435-865-6100",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Aug 3, 2017",
+			"BOUNDARY_NAME": "Kaiparowits",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 129,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "66% Public lands (BLM,USFS,SITLA,UDWR), 24% private, 10% tribal lands",
+			"WMA_IN_UNIT": "Cottonwood WMA",
+			"CAMPGRND_INFO": "There are no official campgrounds on this unit.  Camping outside of official campgrounds is permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \nAnthro: http://www.fs.usda.gov/ashley\n",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service and BLM and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service and BLM. \nAnthro: http://www.fs.usda.gov/ashley \nhttp://www.blm.gov/ut/st/en/fo/vernal.html\n",
+			"PRIV_TRIBE_LAND_ISSUES": "The Anthro unit contains large amounts of Tribal Trust Lands. All ATVs are prohibited on Tribal Lands and must be trailered on access roads across Tribal Lands.  For information on which roads are legal access roads contact Duchesne County. There are also several large areas of private land on the unit, including 1 large CWMU. Hunters must receive written permission before hunting private lands. ",
+			"BOUNDARY_DESCRIPTION": "Duchesne and Uintah counties--Boundary begins at Duchesne and US-191; southwest on US-191 to the Argyle Canyon road; southeast on this road to the Nine Mile Canyon road; east along this road to its end near Bulls Canyon; south from the end of this road to Nine Mile Creek; east along this creek to the Green River; north along this river to the Duchesne River; west along this river to US-40; west on US-40 to US-191 at Duchesne. EXCLUDING ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Duchesne, Price, Seep Ridge, Vernal. Boundary questions? Call the Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Jul 31, 2017",
+			"BOUNDARY_NAME": "Nine Mile, Anthro-Myton Bench",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 138,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Almost entirely US Forest Service",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "US Forest Service campgrounds managed by the Mtn. View-Evanston Wyoming ranger District",
+			"PRIM_ACCESS_PTS": "SR-150 south from Evanston, Wyo., SR-246 south from Mtn. View Wyo",
+			"SUGGESTED_MAPS": "Uinta-Wasatch-Cache National Froests Salt Lake, Kamas, Evanston, Mtn. View Ranger Districts",
+			"COUNTY_ROAD_INFO": "See USFS travel map",
+			"ATV_VEH_ACCESS": "See USFS motor vehicle map for the Mtn. View-Evanston Ranger District",
+			"BOUNDARY_DESCRIPTION": "Summit County--Boundary begins at the Utah-Wyoming state line and SR-150; south on SR-150 to the Summit-Duchesne county line at Hayden Pass; east on this county line to the head of Burnt Fork drainage bottom(Divide Pass/Island Lake); north along this drainage bottom to the Utah-Wyoming state line; west on this state line to SR-150. Excludes all CWMUs. USGS 1:100,000 Maps: Kings Peak. Boundary questions? Call Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "David Rich",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "North Slope, Summit",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 171,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "BLM, USFS,SITLA with some private properties scattered through the public lands",
+			"WMA_IN_UNIT": "n/a",
+			"CAMPGRND_INFO": "Please refer all questions about camping and campgrounds to the Richfield and Loa field offices of the BLM and USFS.",
+			"PRIM_ACCESS_PTS": "Most hunters access the areas with pronghorn through Loa, Escalante, Bicknell and Antimony",
+			"SUGGESTED_MAPS": "BLM surface edition 1:100,000 Escalante, Loa, Salina",
+			"COUNTY_ROAD_INFO": "Many roads on the Parker are maintained by Wayne and Garfield counties. However there are plenty of rough, un-maintained roads there also. ",
+			"ATV_VEH_ACCESS": "Please refer to the USFS and BLM travel maps for ATV access information. ",
+			"PRIV_TRIBE_LAND_ISSUES": "Most private properties in the area where pronghorn live are fenced, gated and signed. Please don't trespass.",
+			"BOUNDARY_DESCRIPTION": "Garfield, Piute, Sevier and Wayne counties—Boundary begins at I-70 and US-89 north of Sigurd  south on US-89 to SR-24  south on SR-24 to SR-62  south on SR-62 to SR-22  south on SR-22 to the Widtsoe-Antimony road  south on the Widtsoe-Antimony road to SR-12  east on SR-12 to the Burr Trail at Boulder  east on the Burr Trail to the Notom road  north on the Notom road to SR-24  east on SR-24 to the Caineville Wash road  north along the Caineville Wash road to the Cathedral Valley road  west on the Cathedral Valley road to Rock Springs Bench and the Last Chance Desert road  north on the Last Chance Desert road to the Blue Flats road  north and east on the Blue Flats road to the Willow Springs road  north on the Willow Springs road towards Windy Peak and the Windy Peak road  west on the Windy Peak road to SR-72  north on SR-72 to I-70  west on I-70 to US-89 north of Sigurd. EXCLUDES ALL NATIONAL PARKS. USGS 1:100,000 Maps: Loa, Salina, Escalante. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jim Lamb",
+			"UPDATEDDATE": "Jan 8, 2019",
+			"BOUNDARY_NAME": "Plateau",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 186,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by the BLM.  There is a significant amount of SITLA land on the unit.  Private lands also occur throughout the unit, be sure to obtain written permission before hunting on private lands.",
+			"CAMPGRND_INFO": "There are plenty of dispersed camping areas available throughout the unit, as well as some maintained campsites.  Please direct all questions regarding maps and camping regulations to the Monticello or Moab BLM Field Offices: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html</a>",
+			"PRIM_ACCESS_PTS": "There are a few small private land parcels on the unit, be sure to obtain written permission from property owners before hunting on private lands.",
+			"SUGGESTED_MAPS": "BLM: La Sal and Moab.  There are several county signs and BLM signs to help direct you.  USGS 1:100,000 Maps: Blanding, La Sal, Moab.",
+			"COUNTY_ROAD_INFO": "San Juan County:  <a href=\"http://www.utahscanyoncountry.com/index.html\" target=\"_blank\">http://www.utahscanyoncountry.com/index.html</a>\nGrand County:  <a href=\"http://www.grandcountyutah.net/\" target=\"_blank\">http://www.grandcountyutah.net/</a>\n",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, and SITLA, and the regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Monticello or Moab BLM Field Offices, and SITLA.\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html</a>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/off-highway-vehicle-use/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/off-highway-vehicle-use/\n</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "There are a few small private land parcels on the unit, be sure to obtain written permission from property owners before hunting on private lands.",
+			"BOUNDARY_DESCRIPTION": "Grand and San Juan countiesBoundary begins at the Colorado River and US-191 at Moab; south on US-191 to SR-46; east on SR-46 to the Utah-Colorado state line; south on this state line to US-491; west on US-491 to US-191; north on US-191 to SR-211; west on SR-211 to the Canyonlands National Park boundary; north on this boundary to the Colorado River; north on this river to US-191 at Moab. USGS 1:100,000 Maps: Blanding, La Sal, Moab. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Dustin Mitchell",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "San Juan, Hatch Point",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 194,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of public land is managed by the BLM which is interspersed with SITLA, and private lands. ",
+			"WMA_IN_UNIT": "There are two DWR Wildlife Management Areas (WMA); Desert Lake and the Upper San Rafael.",
+			"CAMPGRND_INFO": "BLM campgrounds: The Wedge and Swinging Bridge. Please direct questions regarding maps and camping regulations to the Price BLM Field Office  <a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a><br>\nState Parks campgrounds: <a href=\"https://stateparks.utah.gov/\" target=\"_blank\">https://stateparks.utah.gov/</a>",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Huntington, Manti, Price, Salina, San Rafael Desert.",
+			"COUNTY_ROAD_INFO": "Carbon County:  <a href=\"http://www.carbon.utah.gov/Departments/Road.aspx\" target=\"_blank\">http://www.carbon.utah.gov/Departments/Road.aspx</a><br>\nEmery County:  <a href=\"http://www.emerycounty.com/road/contact.htm\" target=\"_blank\">http://www.emerycounty.com/road/contact.htm</a><br>\nSevier County: <a href=\"http://www.sevierutah.net/\" target=\"_blank\">http://www.sevierutah.net/</a>",
+			"ATV_VEH_ACCESS": "Roads and ATV trails on this unit are managed by the respective county, BLM, and SITLA, and regulations are covered in their Travel Management Plans. Direct questions regarding which roads and trails ATVs can be operated on to the Price BLM Field Office, SITLA, and the county you are traveling.",
+			"PRIV_TRIBE_LAND_ISSUES": "Private property should be posted.  Written permission from the landowner/lessee is required by law to access and hunt private land.",
+			"BOUNDARY_DESCRIPTION": "Carbon, Emery and Sevier counties--Boundary begins at SR-10 and US-6 at Price; east and south on US-6 to I-70; west on I-70 to SR-10; north on SR-10 to US-6. Excludes all CWMUs. USGS 1:100,000 Maps: Huntington, Manti, Price, Salina, San Rafael Desert. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Greg Evans",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "San Rafael, North",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 208,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by the BLM.  There is a significant amount of SITLA land.  There are several DWR Wildlife Management Areas (WMA).  These areas are managed for wildlife and you can hunt on all these areas.  There is private land and some of it is accessible through the DWR’s Walk-in-Access Program (http://wildlife.utah.gov/walkinaccess/).  ",
+			"CAMPGRND_INFO": "Please direct all questions regarding maps and camping regulations to the Vernal BLM Field Office (http://www.blm.gov/ut/st/en/fo/vernal.html)\nBLM:  14 day camping limit and you have to move 30 miles after 14 days.\n",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Vernal and Dutch John topo maps or BLM version equivalent that shows land onweership.",
+			"COUNTY_ROAD_INFO": "County Road Access information:\nUintah County:  http://www.co.uintah.ut.us/roads/roaddept.php\n",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, and SITLA, and the regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Vernal BLM Field Office, and SITLA.\n\nSuggested Maps: BLM: Vernal, and they have a general map that labels most of the main roads.  There are several county signs and BLM signs to help direct you.  \n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary excludes all of the Tribal Trust Lands.  There is a large area of Ute Tribal Trust land to the west of the hunt unit.  Road access across the Tribal land is permitted using county roads.  All ATVs are prohibited on Tribal Lands; they must be trailered on access roads across Tribal lands.  ",
+			"BOUNDARY_DESCRIPTION": "Daggett and Uintah counties-—Boundary begins at the Dry Fork-Whiterocks drainage divide and the Daggett-Uintah county line (summit of the Uinta Mountains); east along the summit of the Uinta Mountains to US-191; north along US-191 to Cart Creek; north along Cart Creek to Flaming Gorge Reservoir; east along Flaming Gorge Reservoir to the Green River; east along the Green River to Gorge Creek; south along Gorge Creek to the USFS/private land boundary at the head of Davenport Draw; south along the USFS/private land boundary on the west side of Davenport Draw to the BLM boundary; south along the BLM boundary approximately one-third of a mile to the rim of Diamond Mountain;south and easterly along this rim until the rim intersects the Diamond Mountain road (Jones Hole Road); southwest along this road to the Brush Creek road; south along this road to the Island Park/Rainbow Park road; east along this road to the Dinosaur National Monument boundary; northeast along this boundary to the Utah-Colorado state line; south along this state line to the Green River; south along this river to the Duchesne River; north along this river to the Uinta River; north along this river to Whiterocks River; north along this river to the East Fork of the Whiterocks River; north along this river to Whiterocks Lake and USFS Trail #025; northeast on this trail to the Dry Fork-Whiterocks drainage divide; north atop this divide to the Daggett-Uintah county line (summit of the Uinta Mountains). EXCLUDING ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Dutch John, Vernal. Boundary questions? Call the Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "South Slope, Vernal",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 244,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "\tYearlong range\n<br>\nOwnership\tArea (acres)\t%\n<br>\nBLM\t         964,056\t83.74\n<br>\nUSFS\t             313\t.03\n<br>\nSITLA\t          93,054\t8.08\n<br>\nDNR\t             866\t.07\n<br>\nPRIVATE\t          90,999\t7.9\n<br>\nTribal Lands\t   1,920\t.18\n<br>\n             TOTAL\t\t100\n",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "There are a few official campgrounds on this unit.  Camping outside of official campgrounds is permitted on most of BLM and USFS lands. Please direct all questions regarding campground availability and other camping questions to the US Forest Service or BLM.  \n<br>\n<br>\nBLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>\n<br>\n<br>\nUSFS Office - USFS -<a href=\" https://www.fs.usda.gov/uwcnf\" target=\"_blank\"> https://www.fs.usda.gov/uwcnf</a>",
+			"PRIM_ACCESS_PTS": "I-80, Highways 6, 196, 174. And the Pony Express Road",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Delta, Fish Springs, Wildcat Mountain, Bonneville Salt Flats, Lynndyl, Rush Valley, Tooele.",
+			"ATV_VEH_ACCESS": "In general, ATV access is excellent. Most roads and ATV trails on this unit are managed by the BLM or USFS and are covered on their Travel Management Plans.  Please direct all questions regarding road access to the BLM or USFS.\n<br>\n<br>\nBLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>\n<br>\n<br>\nUSFS Office - USFS -<a href=\" https://www.fs.usda.gov/uwcnf\" target=\"_blank\"> https://www.fs.usda.gov/uwcnf</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "EXCLUDING ALL NATIVE AMERICAN TRUST LAND AND MILITARY LAND WITHIN THIS BOUNDARY. ",
+			"BOUNDARY_DESCRIPTION": "Juab, Millard and Tooele counties--Boundary begins at the junction of I-80 and the north end of the Stansbury Mountains; south along the summits of the Stansbury, Onaqui and Sheeprock mountains to the Vernon Creek-Cherry Creek-Death Canyon road junction; east on the Death Canyon road to SR-36; south on SR-36 to US-6; southwest on US-6 to a point due south of the Little Drum mountains; north along the summits of the Little Drum, Big Drum, Thomas and Dugway mountains to the north end of the Dugway Range; north cross country to Knolls on I-80; east on I-80 to the north end of the Stansbury Mountains. EXCLUDING ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Delta, Fish Springs, Wildcat Mountain, Bonneville Salt Flats, Lynndyl, Rush Valley, Tooele. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jason Robinson",
+			"UPDATEDDATE": "Jan 26, 2021",
+			"BOUNDARY_NAME": "West Desert, Riverbed",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 245,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "\tYearlong range\n<br>\nOwnership\tArea (acres)\t%\n<br>\nBLM\t         120,977\t38.38\n<br>\nUSFS\t          17,060\t5.42\n<br>\nSITLA\t          28,840\t9.15\n<br>\nMILITARY              62\t.02\n<br>\nDNR\t             728\t.23\n<br>\nPRIVATE\t         147,508\t46.8\n<br>\n             TOTAL\t\t100\n",
+			"WMA_IN_UNIT": "James Walter Fitzgerald WMA, Pine Canyon WMA",
+			"CAMPGRND_INFO": "There are a few official campgrounds on this unit, mostly in the Oquirrh and Stansbury Mountains.  Camping outside of official campgrounds is permitted on most of BLM and USFS lands. Please direct all questions regarding campground availability and other camping questions to the US Forest Service or BLM.  \n<br>\n<br>\nBLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>\n<br>\n<br>\nUSFS Office - USFS -<a href=\" https://www.fs.usda.gov/uwcnf\" target=\"_blank\"> https://www.fs.usda.gov/uwcnf</a>",
+			"PRIM_ACCESS_PTS": "I-80, I-15, Highways 6, 36, 68, and 73.",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Lynndyl, Nephi, Provo, Rush Valley, Tooele.",
+			"ATV_VEH_ACCESS": "In general, ATV access is excellent. Most roads and ATV trails on this unit are managed by the BLM or USFS and are covered on their Travel Management Plans.  Please direct all questions regarding road access to the BLM or USFS.\n<br>\n<br>\nBLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>\n<br>\n<br>\nUSFS Office - USFS -<a href=\" https://www.fs.usda.gov/uwcnf\" target=\"_blank\"> https://www.fs.usda.gov/uwcnf</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "All Military Lands are excluded, including Camp Williams, and the North and South Army Depots.",
+			"BOUNDARY_DESCRIPTION": "Juab, Salt Lake, Tooele and Utah counties--Boundary begins at I-15 and I-80 in Salt Lake City; south on I-15 to Exit 207 and the Mills road; west on this road to the railroad tracks; west on these tracks to the Sevier River; north along this river to SR-132; west on SR-132 to US-6; north on US-6 to SR-36; north on SR-36 to Cherry Creek Road; west on this road to the top of the drainage divide(summit of the Sheeprocks) near Keg Spring; west and north along this divide (summits of the Sheeprocks, Onaqui, and Stansbury Mountains) to I-80; east on I-80 to I-15 in Salt Lake City.  Excludes all CWMUs. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Lynndyl, Nephi, Provo, Rush Valley, Salt Lake City, Tooele. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jason Robinson",
+			"UPDATEDDATE": "Jan 26, 2021",
+			"BOUNDARY_NAME": "West Desert, Rush Valley",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 246,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "\tYearlong range\n<br>\nOwnership\tArea (acres)\t%\n<br>\nMILITARY\t  924469\t26.4\n<br>\nBLM\t         2153542\t61.5\n<br>\nSITLA\t          251648\t7.2\n<br>\nUSFWS REFUGE\t   14918\t0.4\n<br>\nDWR\t               0\t0\n<br>\nPRIVATE\t          113777\t3.2\n<br>\nTRIBAL LANDS\t   45341\t1.3\n<br>\n            TOTAL 3503695\t100\n",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "There are a few official campgrounds on this unit. Camping outside of official campgrounds is permitted on most BLM lands. Please direct all questions regarding campground availability and other camping questions to the BLM.  \n<br>\n<br>\nBLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>",
+			"PRIM_ACCESS_PTS": "I-80, Highway 6, the Pony Express Road, and Gandy Highway (gravel road).",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Bonneville Salt Flats, Delta, Ely, Fish Springs, Tule Valley, Wildcat Mountain.",
+			"ATV_VEH_ACCESS": "In general, ATV access is excellent. Most roads and ATV trails on this unit are managed by the BLM and are covered on their Travel Management Plans.  Please direct all questions regarding road access to the BLM.\n<br>\n<br>\nBLM Field Office - BLM -<a href=\" https://www.blm.gov/utah\" target=\"_blank\"> https://www.blm.gov/utah</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "EXCLUDING ALL NATIVE AMERICAN TRUST LAND AND MILITARY LAND WITHIN THIS BOUNDARY.\nFish Springs National Refuge currently does not permit big game hunting.",
+			"BOUNDARY_DESCRIPTION": "Juab, Millard and Tooele counties—Boundary begins at Knolls on I-80; south cross country to the north end of the Dugway Mountains; south along the summits of the Dugway, Thomas, Big Drum and Little Drum mountains to US-6; west on US-6 to the Utah-Nevada state line; north along this state line to I-80; east on I-80 to Knolls. EXCLUDING ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Bonneville Salt Flats, Delta, Ely, Fish Springs, Tule Valley, Wildcat Mountain. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jason Robinson",
+			"UPDATEDDATE": "Jan 26, 2021",
+			"BOUNDARY_NAME": "West Desert, Snake Valley",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 277,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Much of the high elevation habitat is privately owned.  This will impact deer and elk hunters more than pronghorn, bighorn sheep, or bison hunters.  ",
+			"WMA_IN_UNIT": "Cold Springs WMA east of the town of Sunnyside.  This will provide habitat for deer/elk but no opportunity for pronghorn, bighorn sheep, or bison.",
+			"CAMPGRND_INFO": "There are no developed campgrounds on this unit.  Dispersed camping is allowed on most BLM and State lands.<br>\n\nPlease direct all questions regarding maps and camping regulations to the Price BLM Field Office (<a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a>)\n<br>\nBLM:  14 day camping limit and you have to move 30 miles after 14 days.\n<br>\nSITLA: \n<br>\nDWR WMA’S:  UDWR WMAs is limited to 14 days at one location.  \n",
+			"PRIM_ACCESS_PTS": "<u>Bighorn Sheep:</u>  Access Points include the Woodside Road along the Price River.  This will access the top of the Beckwith Plateau but will require an ATV.  Be careful crossing the Price River especially if it has rained recently.  This road is found along SR-6 about 35 miles south of Price.  An additional access is the Horse Canyon Road on SR-6 about 25 miles south of Price.  This will provide access to the cliffs above Horse Canyon and Lila Canyon.  Some hunters will drive the Hastings Road on the east side of the Green River in the town of Green River.  From this road you can glass across the river to the cliffs on the west side of the river.  You will obviously need some sort of boat to cross the river.<br><br>\n\n<u>Pronghorn:</u>Major access points include the following roads (all are accessed via SR-6); the Coal Creek Road in Wellington, the Soldier Creek Road in Wellington, the Clark Valley Road, SR-123 near Sunnyside, the Horse Canyon Road, and the Lila Canyon Road.<br><br>\n\n<u>Mule Deer:</u>  Major access points include the Nine Mile Canyon road found at the east end of Wellington and the Bruin Point Road which is accessed via SR-123 going through the town of Sunnyside.  These two roads will access much of the public lands on the West Tavaputs Plateau.<br>\n<br>\nElk:  The major access points for elk hunting will be the Bruin Point road which is accessed via SR-123 through the town of Sunnyside, the Argyle Canyon road near the top of the summit of US-191 between Price and Duchesne, and the Nine Mile Canyon road out of the town of Wellington.<br>\n<br>\nBison:  The Horse Canyon Road is found 25 miles south of Price on SR-6.  This accesses the Range Creek area via Horse Canyon or Turtle Canyon.  The Nine Mile Canyon Road in the town of Wellington will provide access to the Sand Wash Boat Ramp for floating Desolation Canyon",
+			"SUGGESTED_MAPS": "1:100,000 USGS maps include; Huntington, Price, ",
+			"COUNTY_ROAD_INFO": "Please consult the Carbon County website for any county road information at <a href=\"http://www.carbon.utah.gov/Departments/PublicLandandRoads.aspx\" target=\"_blank\">http://www.carbon.utah.gov/Departments/PublicLandandRoads.aspx</a>\n<br>\n<br>\n\n",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, and SITLA and regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Price BLM Field Office, and SITLA.  ",
+			"PRIV_TRIBE_LAND_ISSUES": "<u>Bighorn Sheep:</u>  No Significant issues.  Some private lands near Sunnyside and Horse Canyon.<br><br>\n\n<u>Pronghorn:</u>  Private lands make up a small portion of pronghorn habitat, but pronghorn tend to use irrigated hayfields in late summer which are privately owned.  These areas can be avoided.  Some landowners provide access to hunters.  Please secure permission prior to hunting.  Pockets of private lands can be found in lower Coal Creek near Wellington, and portions of Icelander Wash southwest of Sunnyside.<br><br>\n\n<u>Mule Deer and elk:</u>  the vast majority of the high elevation summer and fall habitat is on private land.  There are a few small pockets of public land that can be found on the Cold Springs WMA east of Sunnyside, Cottonwood Ridge, and Harmon Canyon.  Make sure you have a map or GPS depicting land ownership as there is an abundance of private land and it is essential that you know where you are.<br>\n<br>\nBison:  A large part of the area where bison reside in Range Creek is managed by the Natural History Museum of Utah.  You must have an access permit to be on this property and it is walk in or horseback only.  Please visit https://nhmu.utah.edu/range-creek/visitor-permits to get an access permit.  These permits are in short supply.",
+			"BOUNDARY_DESCRIPTION": "Carbon, Duchesne, and Emery counties Boundary begins at exit 164 on I-70 near the town of Green River  west on I-70 to US-6  north and west on US-6 to US-191  north on US-191 to Argyle Canyon Road  southeast on this road to Nine Mile Canyon Road  east on this road to its end near Bulls Canyon and Nine Mile Creek  east along this creek to the Green River  south along this river to Swasey’s Boat Ramp and the Hastings Road  south on this road to SR-19  south and east on SR-19 to Exit 164 on 1-70 near the town of Green River. This hunt is comprised of all or largely private property. Hunters should acquire written permission from the landowner before applying for this hunt. Excludes all CWMUs. USGS 1:100,000 Maps: Huntington, Price, Seep Ridge. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Brad Crompton",
+			"UPDATEDDATE": "Jun 12, 2020",
+			"BOUNDARY_NAME": "Nine Mile, Range Creek",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 289,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "90% Public Land - US Forest Service and BLM lands.  ",
+			"WMA_IN_UNIT": "Trail Creek, Red Creek",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service and BLM.  Camping outside of official campgrounds is also permitted on most of the public lands.  Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \n<br>\nAshley National Forest: <a href=\"http://www.fs.usda.gov/main/ashley/home\" target=\"_blank\">http://www.fs.usda.gov/main/ashley/home</a>\n<br>\nUinta-Wasatch-Cache National Forest: <a href=\"http://www.fs.usda.gov/main/uwcnf/\" target=\"_blank\">http://www.fs.usda.gov/main/uwcnf/</a>\n",
+			"COUNTY_ROAD_INFO": "County Road Access information: <a href=\"http://www.daggettcounty.org/index.aspx?nid=17\" target=\"_blank\">http://www.daggettcounty.org/index.aspx?nid=17</a> and \n<a href=\"http://www.utahcommuterlink.com/\" target=\"_blank\">http://www.utahcommuterlink.com/</a>\n",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service or BLM and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service.  There is no vehicle access allowed on Baretop.\n<br>\nAshley National Forest: <a href=\"http://www.fs.usda.gov/detail/ashley/home/?cid=STELPRDB5432815\" target=\"_blank\">http://www.fs.usda.gov/detail/ashley/home/?cid=STELPRDB5432815</a>\n<br>\nUinta-Wasatch-Cache National Forest: <a href=\"http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110419&navtype=BROWSEBYSUBJECT&cid=FSE_003771&navid=360000000000000&pnavid=null&position=BROWSEBYSUBJECT&ttype=main&pname=Uinta-Wasatch-Cache National Forest- Maps & Publications\" target=\"_blank\">http://www.fs.usda.gov</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/vernal.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/vernal.html</a>\n<br>\nMost areas are closed to off road vehicle use except on designated routes.",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit does not include Tribal Trust Lands and does not have much private land included.  Hunters should receive written permission from private landowners prior to the start of the hunts if they wish to hunt private property.",
+			"BOUNDARY_DESCRIPTION": "Daggett and Summit counties—Boundary begins at the Utah-Wyoming-Colorado state line (Three Corners); south on the Utah-Colorado state line to the Green River; west along the Green River to Flaming Gorge Reservoir; west along the south shoreline of Flaming Gorge Reservoir to Cart Creek; south along this creek to US-191; south on US-191 to the Uintah/Daggett county line (summit of the Uinta Mountains); west along this summit to the head of Burnt Fork drainage (Divide Pass/Island Lake); north along the Burnt Fork drainage bottom and Burnt Fork Creek to the Utah-Wyoming state line; east on this state line to the Utah-Wyoming-Colorado state line (Three Corners). USGS 1:100,000 Maps: Dutch John, Kings Peak.  Boundary questions?  Call the Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "North Slope, Three Corners/West Daggett",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 443,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of public land is managed by the BLM which is interspersed with SITLA, and private lands. Goblin Valley State Park is also on this unit.",
+			"WMA_IN_UNIT": "There is one DWR Wildlife Management Areas (WMA) called the Lower San Rafael WMA.",
+			"CAMPGRND_INFO": "Direct questions regarding maps and camping regulations to the Price BLM Field Office:  <a href=\"http://www.blm.gov/ut/st/en/fo/price.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/price.html</a><br>\n<br>\nHanksville BLM Office: <a href=\"http://www.blm.gov/ut/st/en.html\" target=\"_blank\">http://www.blm.gov/ut/st/en.html</a><br>\n<br>\nGoblin Valley State Park: <a href=\"http://stateparks.utah.gov/parks/goblin-valley/\" target=\"_blank\">http://stateparks.utah.gov/parks/goblin-valley/</a>",
+			"SUGGESTED_MAPS": "BLM: Price, Richfield, Hanksville, offices have a general map that labels most of the main roads.  There are several county signs and BLM signs to help direct you. USGS 1:100,000 Maps: Escalante, Loa, Hanksville, Hite Crossing, Huntington, Salina, San Rafael Desert ",
+			"COUNTY_ROAD_INFO": "Emery County: <a href=\"http://www.emerycounty.com/road/contact.htm\" target=\"_blank\">http://www.emerycounty.com/road/contact.htm</a><br>\nWayne County: <a href=\"http://www.waynecountyutah.org/\" target=\"_blank\">http://www.waynecountyutah.org/</a><br>\nGarfield County: <a href=\"http://garfield.utah.gov/\" target=\"_blank\">http://garfield.utah.gov/</a>",
+			"ATV_VEH_ACCESS": "Roads and ATV trails on this unit are managed by the respective county, BLM, and SITLA, and regulations are covered in their Travel Management Plans. Direct questions regarding which roads and trails ATVs can be operated on to the Price and Hanksville BLM Field Office, SITLA, and the county you are traveling.",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary excludes Canyonlands National Park and Goblin Valley State Park. Private property should be posted.  Written permission from the landowner is required by law to access and hunt private land.",
+			"BOUNDARY_DESCRIPTION": "Emery, Garfield, Kane and Wayne counties—Boundary begins at the junction of I-70 and the Green River; south along the Green River to the Colorado River; south along the Colorado River and the west shore of Lake Powell to SR-276 at Bullfrog; north along SR-276 to the Notom road; north along this road to SR-24; east on SR-24 to Caineville and the Caineville Wash road; north along the Caine-ville Wash road to the Cathedral Valley road; west on the Cathedral Valley road to Rock Springs Bench and the Last Chance Desert road; north on the Last Chance Desert road to the Blue Flats road; north and east on the Blue Flats road to the Willow Springs road; north on the Willow Springs road towards Windy Peak and the Windy Peak road; west on the Windy Peak road to SR-72; north on SR-72 to I-70; east on I-70 to the Green River. USGS 1:100,000 Maps: Escalante, Hanksville, Hite Crossing, Huntington, Loa, Salina, San Rafael Desert. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "San Rafael, Desert",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 453,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "BLM, FS, State, Private Lands",
+			"CAMPGRND_INFO": "There is a campground in the Kings Creek area near Tropic Reservoir, and at Ruby's inn. ",
+			"PRIM_ACCESS_PTS": "Several dirt roads intersect with HWY 12 use them to access the best areas for pronghorn ",
+			"SUGGESTED_MAPS": "BLM, and Forest Service",
+			"ATV_VEH_ACCESS": "Great ATV access, I would suggest bringing an ATV or UTV to get around the area and better visibility to hunt from when covering country. Also very good access with 4X4 vehicles",
+			"BOUNDARY_DESCRIPTION": "Garfield, Kane and Piute counties—Boundary begins at US-89 and SR-62; south on US-89 to US-89A in Kanab; south on US-89A to the Utah-Arizona state line; east on this state line to the Paria River; north along this river to SR-12;  west on SR-12 to the Widtsoe-Antimony road; north on this road to SR-22; north on SR-22 to SR-62; west on SR-62 to US-89. USGS 1:100,000 Maps: Beaver, Escalante, Kanab, Loa, Panguitch. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Josh Pollock",
+			"UPDATEDDATE": "May 1, 2018",
+			"BOUNDARY_NAME": "Mt Dutton/Paunsaugunt",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 461,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "90% Public Land - BLM ",
+			"CAMPGRND_INFO": "All campgrounds on this unit are managed by the US Forest Service and BLM.  Camping outside of official campgrounds is also permitted on most of the public lands.  Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \n<br>\nAshley National Forest: <a href=\"http://www.fs.usda.gov/main/ashley/home\" target=\"_blank\">http://www.fs.usda.gov/main/ashley/home</a>\n",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Vernal and Dutch John topo maps",
+			"COUNTY_ROAD_INFO": "Uintah and Daggett Countis",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the BLM and are covered on their Travel Management Plan.  Please direct all questions regarding which roads and trails ATVs can be operated on to the BLM.  \n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/vernal.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/vernal.html</a>\n<br>\n<br>\nMost areas are closed to off road vehicle use except on designated routes.\n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit includes some Tribal Trust Lands and does have private land included.  Hunters should receive written permission from private landowners prior to the start of the hunts if they wish to hunt private property.  Hunting Tribal lands is not permitted.",
+			"BOUNDARY_DESCRIPTION": "Daggett and Uintah counties—Boundary begins at the Green River and the Utah-Colorado state line near Browns Park; west along this river to Gorge Creek; south along Gorge Creek to the USFS/private land boundary at the head of Davenport Draw; south along the USFS/private land boundary on the west side of Davenport Draw to the BLM boundary; south along the BLM boundary approximately one-third of a mile to the rim of Diamond Mountain; south and easterly along this rim until the rim intersects the Diamond Mountain road (Jones Hole Road); southwest along this road to the Brush Creek road; south along this road to the Island Park-Rainbow Park road; east along this road to the Dinosaur National Monument boundary; west and south on this boundary to the Green River; southwest along the Green River to the White River; east along this river to the Utah-Colorado state line; north on this state line to the Green River near Browns Park. EXCLUDING ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY.  EXCLUDES DINOSAUR NATIONAL MONUMENT.  USGS 1:100,000 Maps: Dutch John, Vernal. Boundary questions? Call the Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "South Slope, Bonanza/Diamond Mtn",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 625,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public, State Trust Lands (SITLA), Private and Utah Division of Wildlife Resources (DWR) Lands.  The public lands are Bureau of Land Management (BLM) managed out of the Cedar City Field Office.  This unit also includes over 10,000 acres of Division of Wildlife Resources land specifically for the benefit of wildlife and our sportsmen.  There is one CWMU on the unit (Zane) for pronghorn and one Landowners Association for elk. ",
+			"WMA_IN_UNIT": "The Indian Peaks Wildlife Management area is good habitat for Elk and Deer.",
+			"CAMPGRND_INFO": "There are no official campgrounds on this unit.  Please direct all questions regarding campground availability and other camping questions to the BLM.  \nCedar City and Fillmore BLM website:  <a href=\"http://www.blm.gov/ut/st/en/fo/cedar_city/recreation.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/cedar_city/recreation.html</a>\n<a href=\"http://www.blm.gov/ut/st/en/fo/fillmore/recreation.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/fillmore/recreation.html</a> \n",
+			"SUGGESTED_MAPS": "BLM 1:100,000 maps Cedar City, South Wah Wah, North Wah Wah",
+			"COUNTY_ROAD_INFO": "<a href=\"http://www.ironcounty.net/  http://beaver.utah.gov/index.aspx?NID=124\" target=\"_blank\">http://www.ironcounty.net/ \nhttp://beaver.utah.gov/index.aspx?NID=124</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "Private landowners have had several issues with trespass by hunters in recent years. Please respect private property, fences, livestock presence and close gates.  County Sheriffs Deputies and DWR wildlife officers will be out patrolling during the hunting seasons. ",
+			"BOUNDARY_DESCRIPTION": "Beaver, Iron and Millard counties—Boundary begins at the Utah-Nevada state line and US-6/50; east on US-6/50 to SR-257; south on SR-257 to SR-21; south on SR-21 to SR-130; south on SR-130 to I-15; south on I-15 to SR-56; west on SR-56 to the Lund highway; northwest on this highway to Lund and the Union Pacific railroad tracks; southwest along these tracks to the Utah-Nevada state line; north on this state line to US-6/50. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Caliente, Cedar City, Delta, Garrison, Richfield, Tule Valley, Wah Wah Mountains North, Wah Wah Mountains South, Wilson Creek Range. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Aug 3, 2017",
+			"BOUNDARY_NAME": "Southwest Desert",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 628,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Some private does exist make sure to check map for accurate details",
+			"CAMPGRND_INFO": "Multiple campground and wilderness camps are available.  Popular areas to camp can be found as you go west from the Sulpherdale exit.",
+			"PRIM_ACCESS_PTS": "Access to the unit can be found all around. Several access points east of I-15 include: <br>\n<i>Big Johns Flat</i>- Plenty of Access and camping\n<br>\n<i>Big Flat</i>- Plenty of access and camping\n<br>\n<i>Kents Lake</i>- Popular camping area must hike off the road to get away from people\n<br>\n<i>Rainbow Mine</i>- Limited road access\n<br>\n<i>Cottonwood Creek</i>- limited road access\n<br>\n<i>City Creek Peak</i>- limited road access, popular area\n<br>\n<i>Lebaron Reservoir</i>- limited road access, popular area\n<br>\n<i>Mumford Reservoir</i>– Limited access, steep areas\n<br>\n<i>Bakers Canyon</i>- popular area \n<br>\n<i>Briggs Ridge</i>– remote hunting area, steep terrain\n<br>\n<i>Shingle Creek Meadows</i>- Some ATV trails and remote hunting opportunities.\n<br>\n<i>North Creek</i>– Limited Access\n<br>\n<i>Manderfield</i>- gravel roads, a little flatter area, be aware of private Property  <br>\n\nMain access points west of I-15 are out of Beaver, Milford, Sulpherdale, and the Black Rock Road.",
+			"SUGGESTED_MAPS": "Fishlake National Forest map for the Beaver and Fillmore Ranger Districts",
+			"COUNTY_ROAD_INFO": "See Map",
+			"ATV_VEH_ACCESS": "See Map",
+			"PRIV_TRIBE_LAND_ISSUES": "Although plentiful public land exists on the Beaver there is some private spread throughout the unit.  See Map for specific details.",
+			"BOUNDARY_DESCRIPTION": "Beaver, Garfield, Iron, Millard, Piute and Sevier counties—Boundary begins at SR-130 and I-15; north on SR-130 to SR-21; north on SR-21 to SR-257; north on SR-257 to Black Rock Road; east on this road to I-15; south on I-15 to I-70; east on I-70 to US-89; south on US-89 to SR-20; west on SR-20 to I-15; south on I-15 to SR-130. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Cedar City, Panguitch, Richfield. Boundary Questions?  Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "David Smedley",
+			"UPDATEDDATE": "May 22, 2019",
+			"BOUNDARY_NAME": "Beaver",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 636,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Land Ownership: Public, Private, State Trust Lands (SITLA). The public lands are Bureau of Land Management (BLM) and Dixie National Forest managed out of the Cedar City and St. George Field Offices, respectively.  Ninety percent of the deer habitat is on public lands.  There is one CWMU on the unit.  The New Harmony CWMU is for deer and turkey.  Information on maps can be found at:  <a href=\"http://www.blm.gov/ut/st/en/res/utah_public_room/maps.print.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/res/utah_public_room/maps.print.html</a> \n<a href=\"http://www.fs.usda.gov/main/dixie/maps-pubs\" target=\"_blank\">http://www.fs.usda.gov/main/dixie/maps-pubs\n</a>",
+			"WMA_IN_UNIT": "N/A",
+			"CAMPGRND_INFO": "There are BLM and USFS campgrounds on the unit. Baker Dam campground for BLM lands is near Veyo.  Some campgrounds on USFS land are Oak Grove, Honeycomb Rocks, and Pine Valley reservoir.  Please direct all questions regarding campground availability and other camping questions to the BLM and the USFS.  \nCedar City and St. George BLM website:  <a href=\"http://www.blm.gov/ut/st/en/fo/cedar_city/recreation.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/cedar_city/recreation.html</a>\n<br>\nSt. George Forest Service website: <a href=\"http://www.fs.usda.gov/activity/dixie/recreation/ohv\" target=\"_blank\">http://www.fs.usda.gov/activity/dixie/recreation/ohv</a>\n",
+			"SUGGESTED_MAPS": "Information on maps can be found at:  <a href=\"http://www.blm.gov/ut/st/en/res/utah_public_room/maps.print.html \" target=\"_blank\">http://www.blm.gov/ut/st/en/res/utah_public_room/maps.print.html </a>\n<a href=\"http://www.fs.usda.gov/main/dixie/maps-pubs\" target=\"_blank\">http://www.fs.usda.gov/main/dixie/maps-pubs</a>",
+			"ATV_VEH_ACCESS": "Stay on existing roads and trails. All roads and ATV trails on this unit are managed by the BLM and the Dixie National Forest and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to BLM and USFS. <a href=\"http://www.blm.gov/ut/st/en/fo/moab/recreation/motorized_routes/ohv_designations.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/moab/recreation/motorized_routes/ohv_designations.html</a>\n<a href=\"http://www.blm.gov/ut/st/en/fo/st__george/recreation/motorized_recreation.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/st__george/recreation/motorized_recreation.html</a>\n<a href=\"http://www.fs.usda.gov/activity/dixie/recreation/ohv\" target=\"_blank\">http://www.fs.usda.gov/activity/dixie/recreation/ohv</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "The Shivwit Piute Tribe owns a large property west of Ivins.  This is primarily on deer winter range and would only be a factor during the any weapon deer hunt.",
+			"BOUNDARY_DESCRIPTION": "Iron and Washington counties—Boundary begins at the Utah-Arizona state line and I-15; north on I-15 to SR-56; west on SR-56 to the Lund highway; northwest on this highway to Lund and the Union Pacific railroad tracks; southwest along these tracks to the Utah-Nevada state line; south on this state line to the Utah-Arizona state line; east on this state line to I-15. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. Excludes all CWMUs. USGS 1:100,000 Maps: Caliente, Cedar City, Clover Mountains, Saint George. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Kristen Hare",
+			"UPDATEDDATE": "Jan 27, 2020",
+			"BOUNDARY_NAME": "Pine Valley",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 688,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by the BLM.  There is a significant amount of SITLA land on the unit.  Private lands also occur throughout the unit, be sure to obtain written permission before hunting on private lands. State and National Parks as well as military lands are excluded from hunting.",
+			"CAMPGRND_INFO": "There are many places on BLM land for dispersed camping.  Please direct all questions regarding maps and camping regulations to the Moab BLM Field Office: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html</a>",
+			"SUGGESTED_MAPS": "BLM: Moab.  There are several county signs and BLM signs to help direct you.  USGS 1:100,000 Maps: La Sal, Moab, San Rafael Desert.",
+			"COUNTY_ROAD_INFO": "San Juan County:  <a href=\"http://www.utahscanyoncountry.com/index.html\" target=\"_blank\">http://www.utahscanyoncountry.com/index.html</a>\n<br>\nGrand County:  <a href=\"http://www.grandcountyutah.net/\" target=\"_blank\">http://www.grandcountyutah.net/</a>\n",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, and SITLA, and the regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Moab BLM Field Office, and SITLA.\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html</a>\n<br>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/off-highway-vehicle-use/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/off-highway-vehicle-use/</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "There are a few small private land parcels on the unit, be sure to obtain written permission from property owners before hunting on private lands.  State, military and National Parks occur within the unit and are excluded from hunting.",
+			"BOUNDARY_DESCRIPTION": "Grand County—Boundary begins at I-70 and Green River; east along I-70 to the Utah-Colorado state line; south along the state line to the Colorado River; southwest along the Colorado River to the confluence with the Green River; north along the Green River to I-70.  USGS 1:100,000 Maps: La Sal, Moab, San Rafael Desert. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Greg Evans",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "La Sal, Potash/South Cisco",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 715,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Mix of BLM and Private Property.  Most public land is located north of Woodruff Utah.  Obtain written permission to access private property.",
+			"WMA_IN_UNIT": "Woodruff Coop WMA is the only WMA likely to hold pronghorn during the hunt.",
+			"CAMPGRND_INFO": "The only designated campsite in Rich county is located west of Randolph Utah near Little Creek Reservoir.  Dispersed camping is also available throughout the unit on BLM and Forest Service lands.<br>\n<br>\nForest Service: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a><br>\n<br>\nBLM:  <a href=\"http://www.blm.gov/ut/st/en/fo/salt_lake.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/salt_lake.html</a>",
+			"SUGGESTED_MAPS": "Good maps can be obtained from the Forest Service and BLM, and on the Division's Website (http://wildlife.utah.gov/maps/public/details_boundary.php?boundary_id=456).  Also USGS 1:100,000 Maps: Logan, Ogden, Promontory Point, Tremonton",
+			"COUNTY_ROAD_INFO": "Road access is good throughout the northern part of the unit, and less access is available south of Woodruff.",
+			"ATV_VEH_ACCESS": "Refer to BLM and Forest Service travel plans.  These plans are available at their respective web sites.<br>\n<br>\nForest Service: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a><br>\n<br>\nBLM:  <a href=\"http://www.blm.gov/ut/st/en/fo/salt_lake.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/salt_lake.html</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "Land along the bottom of drainages tends to be private, while uplands are BLM in the area north of Woodruff.  Most land south of Woodruff is private.",
+			"BOUNDARY_DESCRIPTION": "Box Elder, Cache, Morgan, Rich, Summit, and Weber counties—Boundary begins at I-15 and the Utah-Idaho state line; south on I-15 to I-84 at exit 340; east on I-84 to I-80; east on I-80 to the Utah-Wyoming state line; north on this state line to the Utah-Idaho state line; west on this state line to I-15. Excludes all CWMUs.  USGS 1:100,000 Maps: Logan, Ogden, Promontory Point, Tremonton. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Greg Evans",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Cache/Morgan-South Rich/Ogden",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 718,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "State, USFS, and BLM public lands are unit wide",
+			"CAMPGRND_INFO": "Please direct all questions regarding maps and camping regulations to the Kanab BLM Field Office or Dixie National Forest in Cedar City.  ",
+			"PRIM_ACCESS_PTS": "Good access unitwide, truck or ATV on roads and trails is a good way to locate pronghorn on the unit. ",
+			"SUGGESTED_MAPS": "Panguitch.  USFS: Cedar City Ranger Distric – this map has labels for most of the main roads.  ",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, SITLA, and USFS and regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Kanab BLM Field Office, the Dixie National Forest in Cedar City, and SITLA.  ",
+			"BOUNDARY_DESCRIPTION": "Garfield, Iron and Kane counties—Boundary begins at US-89 and SR-14; north on US-89 to SR-20; west on SR-20 to I-15; south on I-15 to SR-14; east on SR-14 to the USFS boundary; south and east, then north on this boundary to SR-14; east on SR-14 to US-89. USGS 1:100,000 Maps: Beaver, Cedar City, Panguitch. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Josh Pollock",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Panguitch Lake/Zion, North",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 719,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "BLM, USFS, SITLA",
+			"CAMPGRND_INFO": "Please refer all questions about camping and campgrounds to the Richfield and Loa field offices of the BLM and USFS.",
+			"PRIM_ACCESS_PTS": "SR-24 and the associated agency administered roads on the Parker Mountain.",
+			"SUGGESTED_MAPS": "USGS 1:100,00 Loa, Salina, Escalante.",
+			"ATV_VEH_ACCESS": "There is an expansive road and trail system on this unit. All roads and ATV trails on this unit are managed by the BLM, USFS, Sevier, Wayne, Piute and Garfield counties. Most Travel regulations are covered in their Travel Management Plans.  Please direct questions regarding which roads and trails ATVs can be operated to the Fish Lake National Forest, Richfield and Loa offices. BLM offices are in Richfield and Loa. The USFS has a travel map that covers most of this area. \nhttp://www.fs.usda.gov/main/fishlake/maps-pubs\n",
+			"BOUNDARY_DESCRIPTION": "Garfield, Piute, Sevier and Wayne counties--Boundary begins at I-70 and US-89 north of Sigurd; south on US-89 to SR-24; south on SR-24 to SR-62; south on SR-62 to SR-22; south on SR-22 to Antimony Creek; east and south along this creek to Griffin Top road (140); south on this road to the Widstoe road (Main Canyon); southeast on this road to SR-12; to SR-12; east on SR-12 to the Burr Trail at Boulder; east on the Burr Trail to the Notom road; north on the Notom road to SR-24; west on SR-24 to SR-72; north on SR-72 to I-70; west on I-70 to US-89. EXCLUDES ALL NATIONAL PARKS. USGS 1:100,000 Maps: Loa, Salina, Escalante. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jim Lamb",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Plateau, Parker Mtn",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 755,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "No campgrounds on this unit are managed by the BLM.  Camping outside of official campgrounds is permitted on most of the public lands.  Please direct all questions regarding campground availability and other camping questions to the BLM.  Maps and camping regulations are available on their website.",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by Box Elder County or BLM and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to their respective website:\n<br>\nBox Elder County:   <a href=\"http://www.boxeldercounty.org/box-elder-county-web-map.htm\" target=\"_blank\">http://www.boxeldercounty.org/box-elder-county-web-map.htm</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/salt_lake.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/salt_lake.html</a>",
+			"BOUNDARY_DESCRIPTION": "Box Elder County--Boundary begins at I-80 and the Utah-Nevada state line; north along this state line to the Utah-Idaho state line; east on this state line to SR-42; east on SR-42 to SR-30; south and west on SR-30 to the township line separating Range 15 West and Range 16 West (near milepost 24); due south along this township line to I-80 (at milepost 18); west on I-80 to the Utah-Nevada state line. USGS 1:100,000 Maps: Bonneville Salt Flats, Grouse Creek, Newfoundland Mtns. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 31, 2017",
+			"BOUNDARY_NAME": "Box Elder, West",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

@@ -1,0 +1,24 @@
+<script>
+	$(() => {
+		$(this).find('.Link').on('click', (event) => {
+			$('.App').Action($(event.target).data('action'), ...($(event.target).data('action-args') ? $(event.target).data('action-args') : []))
+		})
+
+	})
+</script>
+<style>
+	.navbar > i {
+		margin: 8px;
+	}
+	.navbar > i:hover {
+		color: red;
+		cursor: pointer;
+	}
+</style>
+<div class="Header Navbar">
+	<i class="Link material-icons" data-action="Navigate" data-action-args='["Home"]'>home</i>
+	<i class="Link material-icons" data-action="Navigate" data-action-args='["Tabs"]'>folder_open</i>
+	<i class="Link material-icons Disabled" data-action="Save">save</i>
+	<span class="Spacer"></span>
+	<i class="Link material-icons Settings" data-action="Navigate" data-action-args='["Settings"]'>settings</i>
+</div>

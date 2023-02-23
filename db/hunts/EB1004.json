@@ -1,0 +1,1151 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "EB1004",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Nov 9, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Nov 01 - Nov 09, 2023",
+			"SEASON_OPEN_DATE_1": "Nov 1, 2023",
+			"SEASON_CLOSE_DATE_1": "Nov 9, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Nov 9, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Aug 12, 2022"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "A spike bull is a bull elk which has at least one antler beam with no branching above the ears. Branched means a projection on an antler longer than one inch, measured from its base to its tip. Spike bull hunts take place on most Limited Entry elk units. These units have healthy populations of elk and are managed for older age class bulls. The purpose of spike bull hunts is to provide hunting opportunity while removing excess bulls from the population. Removing spikes can maximize calf production because cows have less competition for available resources. High calf production maximizes both cow and bull hunting opportunities because more animals are added to the population each year. If you purchase a “spike bull” permit you may hunt on any of the “spike bull” units with a corresponding weapon type and season. See the big game guidebook for weapon type exceptions on “spike bull” units.",
+			"SAFETY_CONS": "\nThis is a very remote location with some areas with limited access.  Cellular phone coverage is very spotty on this hunt unit.  Digital cell phones may show several bars but cannot always connect due to the distance to the cell towers.  Satellite phones do work in the area.  I suggests handheld radios and even a \"Spot Tracker\" type of satellite messaging device for safety.  Make sure someone knows where you plan to camp and when you will return.\n\nThe Book Cliffs roadless area has a high bear population.  I recommend keeping a clean camp and putting your garbage in a place that is inaccessible to bears. If you do have problems with bears please report them to the DWR Northeast Regional Office as soon as possible (435 781-9453), or local the local dispatch center (435 789-4222).      \n\nThe Book Cliffs mountain range is one of the more remote areas in Utah.  The trails are very steep and challenging.  Every year sportsmen have horses and mules die in the roadless area.  I would suggest bringing horses that are in good physical condition.    \n",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  Thunder storms can cause muddy road conditions and flash floods in this region.  It is not uncommon to have thunderstorms, flash floods and have trails wash out.  Tire chains can come in very handy.    ",
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~For more detailed information on population and objective data please see the <a href=\"http://wildlife.utah.gov/hunting-in-utah/61-hunting/hunting-permits/1697-annual-and-harvest-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "This is a late season hunt. Elk distribution during this time of year can vary dramatically depending on weather. Elk will usually remain at high elevations until deep snow and cold temperatures force them to migrate to winter ranges at lower elevations. Keep in mind that elk have been hunted since August and know how to avoid roads and pressure. Look for spikes with cow groups and older bulls in small bachelor groups. With snow on the ground, let your optics do your walking for you. Wind swept ridges and south facing slopes are good places to start looking.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 12,
+			"GENERAL_INFORMATION": "Most hunters plan on spending a whole week at a time hunting in this remote area.  There are plenty of water sources so don’t plan on bringing much water in with you.  Some hunters who do not have much horse experience camp at the trailheads and hike in and out every day.  There are several guides and outfitters who work in this area.  I would plan on a very challenging and rewarding hunt.  Not many hunters can say they have killed a trophy bull in the true back country like this unit can provide.  \n\nCurrently there is no domestic livestock grazing in this area, to allow stream bank restoration, and let the landscape heal after the massive fire.  There are native Colorado cutthroat trout in most of the streams.  There are 30-40 wild horses in this area.  I have seen anywhere from 30-70 bison on this unit.  It is not uncommon to see black bears in this area.  There is usually plenty of feed for horses; most sportsman hobble their horses for a few hours a day.  \n\nThis area is patrolled quite frequently by DWR personnel.  Keep this in mind when you are transporting your game.  Try to make it easy to access the permit and tag on the animal.   \n",
+			"SAFETY_CONS": "This is a very remote location with some areas with limited access.  Cellular phone coverage is very spotty on this hunt unit.  Digital cell phones may show several bars but cannot always connect due to the distance to the cell towers.  Satellite phones do work in the area.  I suggests handheld radios and even a \"Spot Tracker\" type of satellite messaging device for safety.  Make sure someone knows where you plan to camp and when you will return.\n\nThe Book Cliffs roadless area has a high bear population.  I recommend keeping a clean camp and putting your garbage in a place that is inaccessible to bears. If you do have problems with bears please report them to the DWR Northeast Regional Office as soon as possible (435 781-9453), or local the local dispatch center (435 789-4222).      \n\nThe Book Cliffs mountain range is one of the more remote areas in Utah.  The trails are very steep and challenging.  Every year sportsmen have horses and mules die in the roadless area.  I would suggest bringing horses that are in good physical condition.    \n",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  Thunder storms can cause muddy road conditions and flash floods in this region.  It is not uncommon to have thunderstorms, flash floods and have trails wash out.  Tire chains can come in very handy.    ",
+			"MANAGEMENT_OBJ": "—~7500 (entire Book Cliffs unit)~5500 (entire Book Cliffs unit)~~~~~~~0~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "Location of Harvest:  The roadless area has four main drainages: West Willow Creek, She Creek, Little Creek, and East Willow Creek.  All of these drainages are good for camping.  The ridges that separate the drainages are: Went Ridge, and Little Creek Ridge.  There is a spring on Little Creek Ridge called Three Springs that has good drinking water.  This is a popular elk hunting area.  Other popular areas to find elk are: Santio Knolls, One Eye Canyon, Rivoguts Canyon, Fish Creek and Dry Fork Canyon.  \n\nThe elk are found more on the tops of the ridges and come down on the faces and in the canyons to feed and drink.  Most archery hunters have the most success early in the hunt sitting remote water holes.  As the hunt progress the elk start to rut and become easier to spot and stalk.   \n\nMigration Patterns:  You will find elk from one end of the roadless area to the other.  The elk will start feeling pressured toward the end of the archery hunt with increased rifle hunters scouting for their upcoming hunt.  Little Creek Ridge consistently holds a lot of elk.  The elk seem to prefer bedding down in the dark conifer timber during the day.  Towards the evening the elk will start to work their way onto the burned faces and points of the ridges.    \n\nScouting Tips:  A good spotting scope and binoculars are essential for scouting elk in this area.  Scouting is most effective late-summer.  If you are able to place trail cameras on the remote springs and water holes you will be able to pattern the movements of the bulls.  In the hot early fall temperatures I would expect to see the most animals at prime time (1/2 hour before dawn and an hour before sunset).  There are several recovering burned areas that have produced large amounts of grass that is excellent for elk. Elk spend a lot of time in the aspen patches where there is a good understory of grass and forbs.       \n\nThere are very few signs on the trails.  I would bring a good map, compass, GPS, and if possible someone who is familiar with the area.  If you have never set foot in this unit, it might appear small on a map but on the ground it is quite a large area.  \n\nBehavior:  Once the bulls shed their velvet they will start to break up from their winter and summer bachelor herds.  They will usually water at least two times a day.  It is not unusual for elk to graze through the night.  As the hunt progresses and if colder weather moves in, the elk will start to come into the rut, or breeding season.  Before they start to herd the cows up the bulls are very susceptible to cow elk calls.  I have had success calling bulls in from far distances in the unit with the use of a cow call in early September.  As elk get closer to the rut they will become more vocal and will start to round up small herds of cows.  The larger bulls will usually try to keep their cows away from contending bulls.  It is normal to have one herd bull and other bulls surrounding the cows at a distance.  \n",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 33,
+			"GENERAL_INFORMATION": "Most elk on the Meadowville unit are found on private land. Secure written permission before entering private land.",
+			"SAFETY_CONS": "Cell phone coverage is spotty in this unit.  Make sure to tell someone else where you will be hunting before entering the field.",
+			"WEATHER_CONS": "Monitor local forecasts and plan accordingly.",
+			"MANAGEMENT_OBJ": "0.0 (entire Cache unit)~2300 (entire Cache unit)~3350 (entire Cache unit)~~~~~~~75 (entire Cache unit)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "Spike bull hunting can be challenging.  Yearling bulls will usually be found with groups of cows throughout the various hunting seasons.  Elk tend to stay in higher elevations throughout the seasons and can be found by getting off of the roads and glassing open hillsides in the evening and in the morning.  During the day elk will use timber for escape cover during the hunting seasons.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 51,
+			"GENERAL_INFORMATION": "<b>COAL HOLLOW FIRE INFORMATION:</b>\nAs of October 9, 2018 the Coal Hollow fire area closure has been rescinded, however some road and camping restrictions remain in place. Please see updated map and closure document <a href=\"https://www.fs.usda.gov/mantilasal\" target=\"_blank\">HERE</a>\n<br>\n<br>\nHunters should observe all road closures and safety warnings and be respectful of personnel working on the fire. Be careful camping and hunting near burnt, dead trees overhead as they can fall unexpectedly. Flash floods can also be a concern after fires. \n<br>\n<br>\nThis fire ranges from low-elevation deer and elk winter range through mid-elevation mountain brush to high-elevation aspen and mixed conifer forest. The mid and high elevation burn will ultimately benefit wildlife in the form of early successional summer range ideal for calving and fawning. Animals usually reoccupy a burn as soon as it is finished burning and it gets some precipitation to facilitate vegetation growth.\n\n<br><br>\nThe Manti unit is the largest elk herd in the state. The elk population has been stable for decades. Elk are distributed fairly evenly across the unit. There tends to be more private land on the northeast portions of the unit.<br>\n<br>\n\n",
+			"SAFETY_CONS": "Much of the mountain has very little cell coverage despite it's proximity to nearby towns. Weather can change suddenly on this mountain and roads can become impassible. Although weather tends to be mild during the September rut hunts, large amounts of snow can come at any time during the fall months.\n",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season. Be prepared for rain, lightening, snow, wind and heat. It is quite common on clear mornings for clouds to build through the morning and have thunderstorms in the afternoon. Be very cautious of lightening while hunting on high ridges. Early fall snow storms occur regularly in this area. Most years the snow will melt off, within a day or two until the first week of October.\n",
+			"MANAGEMENT_OBJ": "18.2~12000~9900~~~~~~~150~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Migration Patterns:</u> For the most part the elk will not show any migratory behavior during the archery, muzzleloader, and early rifle hunts. These elk will remain on summer ranges at elevations generally above 8,000 feet. Bulls will begin to migrate by the Late Season Any Weapon Hunt. Most bulls tend to move down in elevation on to steep ridges predominated by mountain mahogany shrubs. About 90% of the elk move east to winter and spend the winter months on the ridges west of SR-10 <br>\n<br>\n<u>Scouting Tips:</u> You can not go terribly wrong on this unit. There is excellent access to most of the unit. A popular route to learn the unit is Skyline Drive. Skyline Drive runs along the spine of the mountain range and provides access to most of the high elevation habitat on the entire unit. Learn country! There are over 12,000 elk on this mountain so there are small groups of elk with bulls in nearly every canyon with good habitat on the mountain. Listen for bugling activity and cow calls to locate elk. Also listen for domestic sheep. There are an abundance of sheep that will still be on the mountain during the September hunts. If you can hear sheep in the canyon below you, it is best to move to the next canyon as elk and sheep are rarely found in the same vicinity it seems. <br>\n<br>\n<u>Behavior:</u> As with most big game animals the early mornings and evenings are the best times to find elk. This is when most rutting activity will take place as well. Glass the open south facing slopes where elk like to feed or small meadows near the canyon bottoms. Most bulls are only with cows during the rut. Before the rut they are in bachelor groups and then immediately after the rut they form their bachelor groups again. Keep this in mind as you plan your hunt. The archery, any weapon (early), and muzzleloader hunters will want to find cows. The any weapon (late) hunters should look for pockets of bachelor bulls. Typically only smaller bulls will be with cows during the late hunt. Elk rut: There will typically be a little rutting activity starting the first part of September, with the peak of the rut being September 15th-the end of September. There will still be some rutting activity in October, but it will be winding down by then. <br>\n<br>\n<u>Recommended Areas to look on the Central Mountains Manti Unit:</u> <br>\nUpper Fish Creek and it's tributaries. The tributaries include Gooseberry Creek, Silver Creek, C Canyon, and the Straight Fork. This is a roadless area on the north end of the unit. This area typically holds a lot of elk and had some prescribed fires recently that has improved elk habitat. It can be accessed from North Skyline Drive on the west or from Scofield Reservoir on the east. The bottom two miles of Upper Fish Creek is privately owned and in a CWMU Bear Ridge and Fish Creek Ridge These ridges have roads going down them. They are northwest of Scofield Reservoir. The bottom 2 miles of these ridges are privately owned. This is excellent habitat in the Pondtown Creek drainage on the north end of the unit. It is best accessed from North Skyline Drive. <br>\nTrough Spring Ridge-This is accessed off of SR-264 southwest of the town of Scofield. It is just above the Skyline Coal Mine. This is the ridge on the east side of Electric Lake. There are some small pockets of private land that are posted well but the majority of the acreage is Forest Service. Much of this ridge burned in the Seeley Wildfire in 2012 which has improved the elk habitat in this area. <br>\nGentry Mountain. This is accessed from SR-10 just north of the town of Huntington at Huntington Reservoir. Part of this mountain is privately owned and part of it burned in the Seeley Wildfire in 2012 Ford Ridge (Late Rifle Hunters Only) This area is the top of a steep canyon overlooking Spring Canyon west of Helper. It holds bachelor groups of bulls in the fall and winter. There are numerous private lands around so be very careful of where you are. There is ample public lands also. West of Skyline\n",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 88,
+			"GENERAL_INFORMATION": "The Pahvant has many steep and rugged areas. There are large ridges with steep canyons dividing them. There is a main road across the top of the mountain with few ATV trails. Most of the ATV trails will be found on the southern half of the unit. Many of the canyons have hiking trails that can help in accessing areas away from main roads. The hunting pressure will drastically decrease after opening weekend.\n",
+			"SAFETY_CONS": "The main access roads and the road along the top see a lot of traffic during the hunting season from both hunters and recreationists. Be cautious of others on the road. There is not a lot of water on top so be prepared with plenty of water. Storms can make many places along the road on top get very slick and it can become very easy to slide off the road. There are many steep and rugged areas with no cell coverage. Cell coverage is good on top of the mountain, depending on carrier, but is spotty in the canyons. The bear population is not large but has been increasing. It is always a good idea to keep a clean camp and keep food inaccessible for bears.\n",
+			"WEATHER_CONS": "Weather can change quickly. It is possible to see large snow storms during this hunt.\n",
+			"MANAGEMENT_OBJ": "0~1600 (entire Fillmore unit)~1350 (entire Fillmore unit)~~~~~~~20~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "Elk can be found at all elevations. They will have seen pressure from other hunts and your chances of locating elk will increase by walking out ridges and glassing into the different canyons.\n",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 108,
+			"GENERAL_INFORMATION": "This subunit is mainly a wintering ground for Colorado's unit 40 elk herd.  There won't be a lot of elk on the subunit during the early hunts, but there will be a few resident elk that stay on the subunit year round.  Make sure that you are in good physical condition and spend plenty of time scouting prior to your hunt. Portions of the unit are extremely steep. Cow calling or bugling can prove to be very valuable in locating elk during the early season hunts.",
+			"SAFETY_CONS": "Flash floods and lightning strikes are very likely during inclement weather, make sure to watch the sky and plan accordingly.  Always let somebody know where you'll be, and when you expect to be back.  Cell phone service is somewhat limited throughout the unit.  Black bears are regularly seen on the La Sal unit.  Keep a clean camp and make sure to place all food and garbage in locations that bears cannot get into.",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  Late summer and early fall monsoon storms occur regularly in this area.  Be prepared for dry or muddy conditions, as well as flash flooding in canyon bottoms.",
+			"MANAGEMENT_OBJ": "0~2500 (entire La Sal unit)~2100 (entire La Sal unit)~~~~~~~3~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Migration Patterns:</u> This unit is winter range for elk that summer in the Glade Park and Pinon Mesa areas (unit 40) of western Colorado. CDPW biologists estimate the population of unit 40 at 2500-3500 elk. The number of elk that winter in the Dolores Triangle unit is dependent upon winter severity. Winter population numbers have typically varied between 300 and 700 elk. \n<br>\n<br>\n\n<u>Scouting Tips:</u>  Start scouting in mid July. Many of the elk will be in Colorado during this hunt, but there will be some resident elk and scouting at this time will give you a chance to see the number of elk you can expect on your hunt. The subunit is not large. Spend some time before your hunt to learn the roads and access points\n<br>\n<br>\n\n<u>Behavior:</u> As with most big game animals the early mornings and evenings are the best times to find elk. During this hunt, the bulls are generally found together in bachelor groups.  Smaller bulls are typically found with cows. \n<br>\n<br>\n\n<u>Elk rut:</u> There will typically be a little rutting activity starting the first part of September, with the peak of the rut being September 15th-the end of September. There will still be some rutting activity in October, but it will be winding down by then.\n<br>\n<br>\n\n<u>Recommended areas Dolores Triangle Subunit:</u>\n<br>\nSteamboat Mesa- Habitat treatments and fire have occurred in the area, draws a decent number of elk to the area in winter, good place to glass.\n<br>\nRyan Creek/Granite Creek- Rugged canyon rims, limited access, good place for bulls latter in the year.\n<br>\nRyan Park- Great area for elk (cows and bulls), good road and many places to glass for game. \n<br>\nLittle Dolores- Can hold large herds of elk, good place to glass, bulls and cows found latter in the year.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 175,
+			"MANAGEMENT_OBJ": "15.9 (Fishlake), 16.7 (Thousand Lakes)~5000 - 5900~5450~~~~~~~150 (Fishlake), 20 (Thousand Lakes)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 183,
+			"GENERAL_INFORMATION": "This is one of the best elk units in the state, although it can be a tough hunt. Make sure that you are in good physical condition and spend plenty of time scouting prior to your hunt. Portions of the unit are extremely thick with vegetative cover and visibility is low.\n",
+			"SAFETY_CONS": "Flash floods and lightning strikes are very likely during inclement weather, make sure to watch the sky and plan accordingly. Always let somebody know where you'll be, and when you expect to be back. Cell phone service is somewhat limited throughout the unit. Black bears are regularly seen on the San Juan unit. Keep a clean camp and make sure to place all food and garbage in locations that bears cannot get into.\n",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season. Be prepared for rain, lightening, snow, wind and heat. It is quite common on clear mornings for clouds to build through the morning and have thunderstorms in the afternoon. Be very cautious of lightening while hunting on high ridges and flash floods in the canyon bottoms.\n",
+			"MANAGEMENT_OBJ": "100~1300 (entire San Juan unit)~1400 (entire San Juan unit)~~~~~~~3~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Migration Patterns:</u> The elk on the San Juan limited entry unit typically migrate from West to East. Many of the bulls will start this migration after the rut ends in early October. The majority of the elk will winter on or near Dry Mesa, Salt Creek Mesa and Bridger Jack Mesa. Elk also migrate off of the high mesa tops, into lower elevation valleys throughout the unit. \n<br>\n<br>\n\n<u>Scouting Tips:</u> Start scouting in late June early July. The unit is very large with elk scattered across most of it. Spend some time before your hunt to learn the roads, access points and watering holes. \n<br>\n<br>\n\n<u>Behavior:</u> As with most big game animals the early mornings and evenings are the best times to find elk. Most spike bulls will be found with cows during this hunt. <br>\n<br>\n\n<u>Elk rut:</u> There will typically be a little rutting activity starting the first part of September, with the peak of the rut being September 15th-the end of September. There will still be some rutting activity in October, but it will be winding down by then. \n<br>\n<br>\n\n<u>Recommended areas for the San Juan limited entry subunit: </u><br>\n\nAbajo Mountain- Higher elevations include large alpine meadows with aspen/conifer stands surrounding, lower elevations contain oak stands with large sagebrush clearings, good camping, nice roads, holds a good number of elk. <br>\n\nNorth Elk Ridge- A good area for elk, timbered North slopes, aspen stands, limited clearings for glassing, camping, nice roads, several different draws, canyons and mesa tops to hunt. <br>\n\nSouth Elk Ridge- Good roads on mesa tops, limited access to rugged canyons, great area for pack-in hunts (Dark Canyon).",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 222,
+			"SAFETY_CONS": "Make sure someone knows where you plan to camp and when you will return.\nCamps should be kept clean to prevent bear incidents.  Food should be kept inside vehicles or bear-proof containers",
+			"MANAGEMENT_OBJ": "14.3 (West), 15.8 (Currant Creek), 50.0 (Avintaquin)~1800 Avintaquin, 3200 Currant Creek, 3400 West~2600 Avintaquin, 4000 Currant Creek, 3500 West~~~~~~~24 (West), 65 (Currant Creek), 7 (Avintaquin)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "\n<b>Recommended area on Wasatch West subunit:</b>\nStrawberry Reservoir-All canyons around the reservoir have elk in them. Try Clyde Creek, Squaw Creek, Horse Creek, Indian Canyon, Chipman Creek, Poison Ridge, French Hollow, Buffalo  Canyon, and Willow Creek.\nStrawberry Ridge- The ridge road is rough, in some places on ATV have access. This is a great place to glass and listen for elk.\nSheep Creek: Try hunting the Waters along the Rays Valley road.  Each of the Waters (first through sixth) has a trail head. Try hunting Halls Fork and Yellow Jacket areas.\nDiamond Fork/Hobble Creek- Try hunting the upper sections, elk will move into the lower sections later in the season.\nMt. Timpanogos- There is a herd of around 200 elk in this area.  Try looking around Cascade Springs, the top of American Fork Canyon, and the west side above Grove and Battle Creek.\n",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 241,
+			"GENERAL_INFORMATION": "Most hunters plan on spending at least 3-4 days hunting. There are few water sources so plan on bringing extra water in with you. Foot hunters who plan to hunt in the upper elevations should plan on staying up there for several days. It is just too far to come down every day. I would plan on a very challenging and rewarding hunt. Review your maps frequently to avoid trespass issues on the Goshutes. \n<br>\n<br>\n\nThis area is patrolled quite frequently by DWR and BLM personnel. Keep this in mind when you are transporting your game and driving an ATV. Try to make it easy to access the permit and tag on the animal.",
+			"SAFETY_CONS": "This is a very remote location with limited access. Cellular phones will not work. Digital cell phones may show a bar but will not connect due to the distance to the cell towers. Satellite phones do work in the area. The Biologist suggests handheld radios and even a \"Spot Tracker\" type of satellite messaging device for safety. Make sure someone knows where you plan to camp and when you will return. Bring an extra spare tire, water and gas. There are not facilities. Wendover is the closest (60 miles). \n<br>\n<br>\n\nIt is not uncommon to have thunderstorms, flash floods and have trails wash out. If it rains hard it makes it difficult to navigate the trails.",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season. Be prepared for rain, lightening, snow, wind and heat. Thunder storms can cause muddy road conditions and flash floods in this region. Most hunters struggle with meat spoiling in the heat. I would plan on hot weather and plan accordingly.\n",
+			"MANAGEMENT_OBJ": "0~350 (entire West Desert unit)~200 (entire West Desert unit)~~~~~~~10~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Location of harvest:</u> Most of the harvest is from the bench above Ibapah. In recent years elk behavior has changed a little bit. Some of the elk have moved out to the flats west of Ibapah. Caution should be taken when hunting west of Ibapah. The Goshute Reservation Lands are not open to hunting and all fence lines look alike. Consult the the Goshutes for the latest map. <br>\n<br>\n\n<u>Migration Patterns:</u> During the archery hunt I would expect to see herds of cows, calves, and spike bulls. The bulls will start breaking up from their bachelor herds. If there isn’t much pressure in the bottom of the canyons I would expect to see elk coming out in the evenings to drink from the creeks and springs. You may find elk centralized from Cold Springs to the Delle. \n<br>\n<br>\n\n<u>Scouting Tips:</u> If you never have seen the Deep Creeks you better go look before your hunt. A good spotting scope and binoculars are essential for scouting elk in this area. Scouting is most effective mid-summer. If you are able to place trail cameras on the remote springs and water holes you will be able to pattern the movements of the bulls along with everyone else. This is a popular unit to put cameras out. In the hot early fall temperatures I would expect to see the most animals at prime time (1/2 hour before dawn and an hour before sunset)unless pressured. Elk can start feeling pressure early with people scouting or recreating on ATV’s and may be hiding deeper in the trees. They are known to start moving after dark and go into the trees before light. Upper elevations elk spend a lot of time in the aspen patches where there is a good understory of grass and forbs. \n<br>\n<br>\n\nI would bring a good map, compass, GPS, and if possible someone who is familiar with the area. Consult with the Goshute Reservation for info on the reservation boundaries. The reservation expanded a few years ago and the public maps are not up to date. If you have never set foot in this unit, it might appear small on a map but on the ground it is quite a large area.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 302,
+			"MANAGEMENT_OBJ": "0.0 (entire Cache unit)~2300 (entire Cache unit)~3350 (entire Cache unit)~~~~~~~75 (entire Cache unit)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 303,
+			"MANAGEMENT_OBJ": "0.0 (entire Cache unit)~2300 (entire Cache unit)~3350 (entire Cache unit)~~~~~~~75 (entire Cache unit)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 455,
+			"MANAGEMENT_OBJ": "0.0 (Boulder)~1200 - 1700~1200~~~~~~~7 (Boulder), 0 (Kaiparowits)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 617,
+			"GENERAL_INFORMATION": "This can be a very fun hunt for everybody, especially if we get some snow during the hunt. Elk are very social, and tend to be bunched up in groups throughout the year. Spikes will be with the cow groups. \n",
+			"SAFETY_CONS": "Flash floods and lightning strikes are very likely during inclement weather, make sure to watch the sky and plan accordingly. Always let somebody know where you'll be, and when you expect to be back. Cell phone service is somewhat limited throughout the unit. Black bears are regularly seen on the La Sal unit. Keep a clean camp and make sure to place all food and garbage in locations that bears cannot get into.\n",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season. Be prepared for rain, lightening, snow, wind and heat. It is quite common on clear mornings for clouds to build through the morning and have thunderstorms in the afternoon. Be very cautious of lightening while hunting on high ridges and flash floods in the canyon bottoms.\n",
+			"MANAGEMENT_OBJ": "0~2500 (entire La Sal unit)~2100 (entire La Sal unit)~~~~~~~24~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Migration Patterns:</u> The elk on the La Sal Mountains typically migrate from the West to the East and North. Many of the bulls will start this migration after the rut ends in early October. The majority of the elk will winter on or near the JB Ranch CWMU, or near the Utah/Colorado border. Elk also migrate off of the high mesa tops, into lower elevation valleys throughout the unit. \n<br>\n<br>\n<u>\nScouting Tips:</u> Start scouting prior to your hunt, in September. The elk probably won’t be in the exact same area during the hunt, but it will give you a chance to see how many elk you can expect to see on your hunt. The unit is very large with elk scattered across most of it. Spend some time before your hunt to learn the roads and access points \n<br>\n<br>\n\n<u>Behavior:</u> As with most big game animals the early mornings and evenings are the best times to find elk. This is when most feeding takes place in meadow openings. <br>\n<br>\n\n<u>Elk rut:</u> There will typically be a little rutting activity starting the first part of September, with the peak of the rut being September 15th-the end of September. There will still be some rutting activity in October, but it will be winding down by then. \n<br>\n<br>\n\n<u>Recommended areas La Sal Mountains Subunit: </u>\n<br>\nBar-A Creek- Northeast side of the mountain, large meadows with aspen stands mixed with conifers, great camping, nice roads, holds a good number of elk. \n<br>\nPine Ridge- This entire area is good for elk, timbered North slopes, aspen stands, great access, camping, nice roads, several different draws or canyons to hunt. \n<br>\nDeep Creek- No roads and limited access, great area for pack-in hunts, borders private lands in many spots, great area for elk. \n<br>\nDark Canyon- Higher elevation, borders some private lands, one good main road with several two-track roads splitting off, great camping, good place to glass for elk on the early season hunts. \n<br>\nLa Sal Pass- Lots of places to glass for elk, rolling meadows with timbered North facing slopes and large aspen stands, not a lot of cows, but does hold a good number of bulls. \n<br>\nNorth/South/Polar Mesas- These mesas are typically best for the late hunts, great for ATV’s, good place for late season hunts.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 625,
+			"GENERAL_INFORMATION": "Most elk are south of State Route 21 which bisects the unit east to west.  There are a some elk north of 21 but most are south.  Elk are found on all mountain ranges except for the Black Hills between Cedar City and Minersville.  Elk use all habitats from the bottom of the valleys to the top of the mountains.  The Southwest Desert Unit is 96% public land, but hunters should be aware of the private lands and learn the boundaries.  Please be respectful of private lands and other hunters.",
+			"SAFETY_CONS": "Hunters should be prepared with extra gas and water this unit is remote and there are no services available.  This is a very remote location with some areas with limited access.  Cellular phone coverage is very spotty on this hunt unit.  Digital cell phones may show several bars but cannot always connect due to the distance to the cell towers.  Satellite phones do work in the area.  The biologist suggests hand held radios and even a \"Spot Tracker\" type of satellite messaging device for safety.  Make sure someone knows where you plan to camp and when you will return.",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  Early fall snow storms occur regularly in this area during this hunt.  Most years the snow will melt off within a day or two.  Be prepared for dry or muddy conditions.  ",
+			"MANAGEMENT_OBJ": "11.1~975~975~~~~~~~31~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "Spike bulls can be found throughout the unit. More elk reside in the central portions of the unit on and surrounding the Indian Peaks Range. Elk can be found from the bottoms of the valleys in the open sagebrush to the top of the mountain in the Pinions and Mahogany.  The Southwest Desert unit is a very large unit. It can be a difficult hunt. You may have days without seeing an elk because the density is low.  To increase your chances of seeing elk it is best to find water in good elk habitat.  There are several guzzlers and springs in this desert area, but even around these water sources there are very few elk. Some good areas to hunt are the following: \n\nStateline/Hamlin Valley – BLM and SITLA lands along the Utah/Nevada border from the Paradise to White Rocks areas. This area is very accessible with some larger blocks of private properties.\n\nIndian Peaks Range –  BLM, SITLA and DWR lands from Arrowhead Pass to Vance Pass.  This area also has a few larger blocks of private land.  \n\nSouth Wah Wah Range- BLM and SITLA lands from Rose Spring Canyon to Highway 21 on Wah Wah summit.  This area is covered heavily with pinion and juniper.  Hunting near perennial water sources will greatly increase your success. \n\nMountain Home Range- BLM and SITLA lands from the Loper’s Reseed area to Mt Home Pass. This area is covered heavily with pinion and juniper.  Hunting near perennial water sources will greatly increase your success. ",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 629,
+			"MANAGEMENT_OBJ": "7.1~1000 - 1400~1100~~~~~~~48~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 630,
+			"GENERAL_INFORMATION": "Good elk numbers are found during this hunt, with good success of harvest.",
+			"SAFETY_CONS": "A lot of roadless areas are located on the unit, expect backcountry conditions when hunting.\n",
+			"WEATHER_CONS": "You could see anything from snowstorms at higher elevations, to thunderstorms, to dry and hot conditions.\n",
+			"MANAGEMENT_OBJ": "0~1500 - 2000~1400~~~~~~~10~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "This unit has several areas that have no vehicle access. Hunters that hike into some of these areas, or use horses have good success at harvesting elk. Before snow falls on the unit you can access the top of the mountain from Antimony, or Cottonwood Creek in Johns Valley. Elk in the summer can be found across the unit in higher and lower elevations. There is good access on most of the BLM lands across the unit, but a lot of the forest service has limited access. There is good access on the south end of the unit in the Hunt Creeks, and often holds elk year round. There was a large fire that burned on the unit in 2002. This made it very good for glassing long distances. There is a lot of pinon and juniper in the lower elevations with Aspen, and mixed conifer stands at higher elevations.\n",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 634,
+			"GENERAL_INFORMATION": "1,700, which requires several cow elk hunting opportunities to reduce the herd back to objective. \n<br>\n<br>\n\nDistribution of elk may range from forested habitats in Sidney Valley and Red Desert to 5 Mile Mountain west of Panguitch. On the northern end, elk may be found in oak, mountain mahogany, and Pinyon/Juniper habitats in the Cottonwood area east to Sidney Peak and Little Creek Peak. \n",
+			"SAFETY_CONS": "The Panguitch Lake unit offers substantial truck and ATV access. Cellular phone coverage within this hunt boundary is generally good but there are areas within the hunt boundary with little or no coverage. \n<br>\n<br>\n\nThe biologist suggests hand held radios and even a \"Spot Tracker\" type of satellite messaging device for safety. Make sure someone knows where you plan to camp and when you will return. Plan on bringing plenty of water, fuel, good tires with extra spares, and plenty of ice.",
+			"WEATHER_CONS": "The weather on this hunt unit can vary dramatically during the hunting season. Be prepared for rain, lightning, as well as winter weather conditions. Storms can cause muddy road conditions and flash floods in this region.\n",
+			"MANAGEMENT_OBJ": "0~1100 - 1300~840~~~~~~~27~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u>Location of harvest:</u> Elk can be found across the unit at this time of year. There are some segments of the herd on the east side that may be using lower elevation pinyon/juniper. Portions of the herd will remain on summer range as long as winter conditions do not force them to move. Many elk will be in transition ranges between summering and wintering areas. Elk may move distances of up to 30 miles during this hunt so be prepared to cover a lot of ground to locate elk. This unit offers substantial cover for elk to remain hidden and hunters should be prepared to hunt forested areas. \n<br>\n<br>\n\n<u>Migration Patterns:</u> Migratory movements generally begin in late September and October but some elk will remain in summer range during this hunt. Migration from summer ranges may be dependent on fall storms and weather conditions. \n<br>\n<br>\n\n<u>Scouting Tips:</u> A good spotting scope and binoculars will be helpful. Scouting is most effective right before the hunt opens. I would plan on covering a lot of ground to locate public lands and access points and hiking trails. ",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 685,
+			"GENERAL_INFORMATION": "The Beaver Mountain Range has many roads and ATV trails as well as plenty of areas you can hike and get away from the main roads.\n",
+			"SAFETY_CONS": "This hunt takes place during the same time the general season any legal weapon spike bull elk hunt takes place. There are many remote areas and cellular phone coverage is spotty. There is also a moderate bear population. Make sure to take bear precautions while hunting and camping on the mountain range.\n",
+			"WEATHER_CONS": "The weather on this hunt can vary dramatically, however, temperatures are more mild and October is a great time to be on the mountain. It may also be possible to see early snow storms during this hunt.\n",
+			"MANAGEMENT_OBJ": "0~1050 (entire Beaver unit)~850 (entire Beaver unit)~~~~~~~24~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "Elk can be found all across the mountain range and at all elevations. The areas around Big Johns Flat and Big Flat hold large amounts of elk but will have had hunting pressure since the archery hunt started in August.\n",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 742,
+			"GENERAL_INFORMATION": "This unit is mostly private lands.Access is very limited. Salt Lake county east of I-15 is archery only for bull elk.",
+			"SAFETY_CONS": "This unit is steep and rocky. ",
+			"WEATHER_CONS": "Late season rain and snow can make the ground and rock slick.",
+			"MANAGEMENT_OBJ": "~~~~~~~~~~~~For more detailed information on population and objective data please see the <a href=\"http://wildlife.utah.gov/hunting-in-utah/61-hunting/hunting-permits/1697-annual-and-harvest-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "Elk numbers on this sub-unit is very low and hunter success is also low. Elk are found on the north end of the unit, in upper Lambs Canyon and Mill Creek Canyon.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 751,
+			"GENERAL_INFORMATION": "On extremely rare occasion a few elk have shown up along the Fremont River near the Cainville area. We believe they are coming from the Thousand Lakes herd.",
+			"MANAGEMENT_OBJ": "—~0 (entire San Rafael unit)~—~~~~~~~0 (entire San Rafael unit)~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "This unit is open for the rare occasion that when elk do come down along the Fremont River towards Cainville that hunters could harvest an elk. In 2014 there was a yearling cow grazing in hay fields along the river and most recently in May 2016 a handful of elk were spotted along the river near Cainville. We think that these elk did not return to the summer range on Thousand Lakes.",
+			"CLOSED": "N"
+		},
+		{
+			"HUNT_NBR": "EB1004",
+			"BOUNDARY_ID": 867,
+			"MANAGEMENT_OBJ": "0~675 (entire Box Elder unit)~700 (entire Box Elder unit)~~~~~~~3~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "EB1004",
+		"HUNT_AREA_ID": 10754,
+		"SPECIES": "Elk",
+		"GENDER": "Bull",
+		"WEAPON": "Muzzleloader",
+		"HUNT_TYPE": "General Season - Spike Bull",
+		"SEASON_TYPE": "General Season",
+		"WAITING_PERIOD_YEARS": 0,
+		"HUNT_NAME": "Spike Only Units",
+		"PRINT_HUNT_NAME": "Spike Only Units/Muzzleloader - Hunt #EB1004",
+		"SPECIAL_INSTRUCTIONS": "If you obtain this permit, you may hunt on any unit designated as \"Spike Only\" take a spike bull elk. You may <B>not</B> hunt on Any Bull units.",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"HARVEST_REPORTING": "<b>Voluntary</b>: The DWR conducts random surveys for all general season hunts. You may be contacted via phone to participate in this survey.",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Aug 12, 2022"
+	},
+	"boundaries": [
+		12,
+		33,
+		51,
+		88,
+		108,
+		175,
+		183,
+		206,
+		222,
+		241,
+		302,
+		303,
+		455,
+		617,
+		625,
+		629,
+		630,
+		634,
+		685,
+		742,
+		751,
+		867,
+		899,
+		901
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 12,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by SITLA and DWR.  There is a large DWR Wildlife Management Area (WMA) known as the Little Creek WMA.  This area is managed for wildlife and the DWR encourages hunting on all WMA’s.<br>\n",
+			"WMA_IN_UNIT": "Little Creek.",
+			"CAMPGRND_INFO": "Suggested Maps: BLM: Vernal, West Water, and they have a general map that labels most of the main roads. \nDWR WMA’S: UDWR WMAs is limited to 14 days at one location.  \nThere are no established campgrounds in this unit, it is a first-come first-served basis.  Some hunters prefer to camp at the trailheads.  There are DWR cabins in this unit that are not for public use.  There is no camping allowed within a quarter mile of a DWR cabin.  \n\nThe trails are seasonally maintained by the DWR, and sportsmen.  \n",
+			"PRIM_ACCESS_PTS": "There are two trailheads for the roadless area, a north and a south.  The north access is called the Ten Mile Knoll trailhead.   If you take Utah State Road 88, it is located between Vernal and Roosevelt.  Follow SR 88 south and it turns into the Seep Ridge Road.  The Seep Ridge Rd splits and becomes the Divide Rd.  If you take the Divide Rd west the trail head is at the start of Steer Ridge.  There is a sign at the parking area.  It is a large parking area but it can fill up in a hurry with trucks and horse trailers.  The Hay Canyon Rd is the main access road on the south side of the Book Cliffs.  You can access it from I-70.  It is a hard packed dirt/gravel road.  The Steer Ridge Rd can be very dangerous if it has been snowing or raining but it can dry out quickly.\n\nThe south trail head starts at the top of Sego Canyon.  The road starts at Thompson Springs in Grand County and continues up the Sego Canyon Rd; follow it to the end of the road.  There is a water trough at the trailhead but it is not always full of water.  This trailhead can also fill up with vehicles and trailers.  There are no bathrooms or other facilities at either of these trailheads, so plan accordingly.    \n",
+			"SUGGESTED_MAPS": "BLM: Vernal, West Water, and they have a general map that labels most of the main roads.  There are several county signs, and BLM signs to help direct you.  ",
+			"COUNTY_ROAD_INFO": "N/A",
+			"ATV_VEH_ACCESS": "This area has strict travel constraints.  It is limited to horse and foot travel.  Sportsmen should take this into account before they put in for this unit.  The Steer Ridge Rd is one road that borders the northeast boundary of the unit.  There are no other roads around this unit.   \n\nThe Book Cliffs offers a challenging landscape.  There are large ridges with steep canyons dividing them.  \n",
+			"PRIV_TRIBE_LAND_ISSUES": "The Ute Tribe as agreed to allow sportsmen to access this area across Ute Tribal trust lands.  Once you leave the Sego Trailhead parking area and start down the Went Ridge trail you are on Tribal land for the first few miles.  There are signs indicating that you have permission from the Tribe to use this route.  We ask that you please keep this area clean and stay on the main trail until you are off of Ute Tribal land.  This is a privilege and abuse of this area could lead to sportsmen losing this access permit.  This hunt excludes all Ute Tribal lands.",
+			"BOUNDARY_DESCRIPTION": "Grand County--Boundary begins at the Steer Ridge road at Ten Mile Knoll and the Book Cliffs summit (north-south drainage divide); southwest along the Book Cliffs summit on Diamond Ridge to the Uintah and Ouray Indian Reservation boundary (Hells Hole/head of Sego Canyon); north on this boundary (west side of West Willow Creek) to the DWR Wildlife Management Area/Ute Tribe Fence at the confluence of East and West Willow Creek; northeast from this confluence; cross-country to the Steer Ridge road (NW 1/4 Sec 7, T17S R21E); south and east on the Steer Ridge road (atop the drainage divide) to Ten Mile Knoll and the Book Cliffs summit. EXCLUDES ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. Excludes all CWMUs. USGS 1:100,000 Maps: Westwater. Boundary questions? Call Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Clint Sampson",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "Book Cliffs, Little Creek Roadless",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 33,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Land ownership is primarily private.  Landowners will allow access, but will charge trespass fees to hunt their property.  Be prepared to pay $5,000 to $8,000 dollars to access private property.  ",
+			"CAMPGRND_INFO": "Not vary many camping areas are available on the unit, but camping on the adjacent South Cache unit is available.  See the Logan Ranger District website for info on camping.<br>\nhttp://www.fs.usda.gov/activity/uwcnf/recreation/camping-cabins",
+			"PRIM_ACCESS_PTS": "Round Valley, and Temple Canyon",
+			"SUGGESTED_MAPS": "http://wildlife.utah.gov/maps/public/details_boundary.php?boundary_id=33",
+			"COUNTY_ROAD_INFO": "Public road access is limited.",
+			"ATV_VEH_ACCESS": "ATV access is limited.",
+			"PRIV_TRIBE_LAND_ISSUES": "Mostly private land.  Obtain written permission to access private property.",
+			"BOUNDARY_DESCRIPTION": "Rich County—Boundary begins at US-89 and the USFS boundary west of Garden City; south along this USFS boundary to SR-39; east on SR-39 to SR-16; north on SR-16 to SR-30; northwest on SR-30 to US-89; west on US-89 to the USFS boundary. USGS 1:100,000 Maps: Logan, Ogden. This hunt is comprised of all or largely private property. Hunters should acquire written permission from the landowner before applying for this hunt. Boundary questions? Call the Ogden office, 801-476-2740. ",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "Cache, Meadowville",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 51,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Most of the summer and fall elk habitat is on public lands managed by the Forest Service.  There are however large tracts of private lands on the northeast portion of the unit in the area surrounding Scofield Reservoir.  Late Season Rifle hunters will have a little more private land to deal with as bulls transition to lower elevations.",
+			"WMA_IN_UNIT": "Gordon Creek, Lower Fish Creek, Starvation, Dairy Fork, Lake Fork, Birdseye, Lasson Draw, White Hill, Black Hill, Bald Mountain, Sixmile, Miller Manti Face, Nine Mile, Twelve Mile, Willow Creek.  Most of these properties are on winter range for elk.",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  This unit is on the Manti La Sal National Forest.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites at http://www.fs.usda.gov/mantilasal",
+			"PRIM_ACCESS_PTS": "The Upper Fish Creek trailhead can be found on the west side of Scofield Reservoir.  It travels west to the opposite trailhead on Skyline Drive near Johnson Ridge",
+			"SUGGESTED_MAPS": "1:100,000 USGS maps include;  Price, Nephi, Huntington, Manti, Salina",
+			"COUNTY_ROAD_INFO": "Most roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service at http://www.fs.usda.gov/mantilasal\n\nThere are also several roads and ATV trails on land managed by the Utah Division of Wildlife Resources. All vehicles and ATV’s must stay on designated roads and trails on these lands.\n",
+			"ATV_VEH_ACCESS": "see above",
+			"PRIV_TRIBE_LAND_ISSUES": "There are no tribal lands to contend with.  The vast majority of the early bull elk hunt habitat is on public land.  A few exceptions include the following areas.  The northeast portion of the mountain near Scofield Reservoir has a high percentage of private land on good elk habitat.  Most of these lands are managed under the CWMU program and can not provide hunter access as your permit will not be valid on those properties.  Other private properties require prior written permission before hunting.  Small pockets of private lands at high elevations can be found surrounding Electric Lake and on East Mountain.  Late Season any weapon hunters may encounter private lands in the Spring Canyon area west of Helper as well as upper Gordon Creek.\n \nWeather Conditions: The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  It is quite common on clear mornings for clouds to build through the morning and have thunderstorms in the afternoon.  Be very cautious of lightening while hunting on high ridges.  Early fall snow storms occur regularly in this area.  Most years the snow will melt off, within a day or two until the first week of October.<br>\n<br>\n",
+			"BOUNDARY_DESCRIPTION": "Carbon, Emery, Sanpete, Sevier and Utah counties&#8212;Boundary begins at the junction of US-6 and US-89 in Spanish Fork Canyon; southeast on US-6 to Price and SR-10; south on SR-10 to I-70; west on I-70 to US-89; north on US-89 to US-6 in Spanish Fork Canyon. USGS 1:100,000 Maps: Nephi, Price, Huntington, Manti, Salina. Boundary questions? Call the Springville office, 801-491-5678 or the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Jul 11, 2018",
+			"BOUNDARY_NAME": "Central Mtns, Manti",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 88,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "There is some private land on the north end in Robins valley.  The larger tracts of private land are found on the south end of the Pahvant and along winter range.  See map for details.  There is plenty of public land with large numbers of deer available to hunt.",
+			"WMA_IN_UNIT": "WMA's are low elevation.",
+			"CAMPGRND_INFO": "Established campgrounds are lower in elevation and can be found on the east side (Maple Grove) and on the west side (Maple Hollow - east of Holden; Meadow Creek - east of Meadow; Adelaide - East of Kanosh.  Many of these campgrounds are popular on weekends throughout the summer.",
+			"PRIM_ACCESS_PTS": "<u>East Side:</u> Willow Creek (south of Scipio off of Hwy 50), Mountain roads (out of Joseph and Elsinore)<br>\n<br>\n<u>West Side:</u> Kanosh Canyon Road out of Kanosh and Canyon Road out of Fillmore (Chalk Creek)",
+			"SUGGESTED_MAPS": "Fishlake National Forest",
+			"COUNTY_ROAD_INFO": "See Map",
+			"ATV_VEH_ACCESS": "There are several ATV trails, with most of them being on the southern half of the mountain",
+			"PRIV_TRIBE_LAND_ISSUES": "There is some private land on the north end in Robins valley.  The larger tracts of private land are found on the south end of the Pahvant and along winter range.  There is some tribal land found down low near Kanosh.  See map for details.  There is plenty of public land with large numbers of deer available to hunt.",
+			"BOUNDARY_DESCRIPTION": "Millard and Sevier counties—Boundary begins at I-70 and I-15; north on I-15 to US-50 at Scipio; southeast on US-50 to Salina and US-89; south on US-89 to I-70; southwest on I-70 to I-15. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY.  Excludes all CWMUs. USGS 1:100,000 Maps: Delta, Richfield, Salina. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 17, 2017",
+			"BOUNDARY_NAME": "Fillmore, Pahvant",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 108,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public and private.  Public lands are primarily Bureau of Land Management (BLM) managed out of the Moab Field Office.  This unit is situated adjacent to the Colorado border, Utah hunting permits are not valid in Colorado.",
+			"CAMPGRND_INFO": "There are no official camp sites on this unit.  Camping is permitted on most of the BLM and SITLA lands. Please direct all questions regarding camping questions to SITLA or the BLM.  Maps and camping regulations are available on their websites. \n<br>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html</a>\n",
+			"PRIM_ACCESS_PTS": "Access is very limited.  Safest route is through Glade Park CO.  There is also access to the Dolores Triangle by crossing the Dolores River, but this route can be impassible depending on river conditions (use caution).",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Moab, Westwater.",
+			"COUNTY_ROAD_INFO": "Grand County:  <a href=\"http://www.grandcountyutah.net/\" target=\"_blank\">http://www.grandcountyutah.net/</a>",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the Utah State Institutional Trust Lands and the Bureau of Land Management and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to SITLA or the BLM. \n<br>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "There are some private lands on this subunit, hunters must receive written permission before hunting private lands.  Be sure to pay attention to where you are, and study maps before your hunt, please respect ALL posted lands.  The Colorado border is on the Eastern side of this unit, Utah hunting permits are not valid in Colorado.  ",
+			"BOUNDARY_DESCRIPTION": "Grand County--Boundary begins at the Colorado River and the Utah-Colorado state line; south on this state line to the Dolores River; northwest along this river to the Colorado River; northeast along this river to the Utah-Colorado state line. Excludes all CWMUs. USGS 1:100,000 Maps: Moab, Westwater. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "La Sal, Dolores Triangle",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 175,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of the land within this unit is managed by federal and state land management agencies and thus open to hunting with general season permits but not Private Land Only permits. There are several large ranches within the unit, several of which are enrolled in the CWMU program for Big game. Consult accurate land ownership maps before going afield.",
+			"WMA_IN_UNIT": "n/a",
+			"CAMPGRND_INFO": "<u>Campground information:</u> There are many improved Camping areas on the Fish Lake unit, both public and private. Good camping exists in Gooseberry area, Elk Horn, multiple areas around Fish Lake and Johnson Reservoir. Primitive camping is allowed on much of the BLM and USFS managed lands. There is one improved campground managed by the Piute tribe near Koosharem reservoir. During early spring some campgrounds are not accessible or open. Contact the managing agency for detailed information.",
+			"PRIM_ACCESS_PTS": "There are many ways to access this unit. During the winter and early spring many of these roads (especially the upper elevation sections) may be closed due to snow. The north end can be accessed off of I-70 at the Gooseberry exit and also at the Hwy 72 exit. There are also many smaller unimproved roads that get you into good country from the frontage road along I-70. Access to the eastern side of the unit is via hwy 72. Roads that fork from hwy 72 that get you into good county include the Last Chance road, Road #206 that gets you onto the Thousand Lake Mountain, road #036 that takes you past Mill Meadow Reservoir and to Fish Lake.  There are many ATV trails and smaller unimproved roads that fork off of Hwy 72. The main access on the south end is SR-25 to Fish Lake via SR-24.   The west side is accessed via several dirt roads including the Hancock Flat road off of SR-25,  Road #053 that forks off of SR-24 gets you into the Rex Reservoir, and the Lost Creek country.   ",
+			"SUGGESTED_MAPS": "USGS 1:100.000 Maps: Loa, Salina. Fish Lake National Forest Travel Map",
+			"COUNTY_ROAD_INFO": "see ATV access",
+			"ATV_VEH_ACCESS": "There is an expansive road and trail system on this unit. All roads and ATV trails on this unit are managed by the BLM, USFS, Sevier and Wayne counties. Most Travel regulations are covered in their Travel Management Plans.  Please direct questions regarding which roads and trails ATVs can be operated to the Fish Lake National Forest, Richfield and Loa offices. BLM offices are in Richfield and Loa. The USFS has a travel map that covers most of this area. ",
+			"PRIV_TRIBE_LAND_ISSUES": "There are several large tracts of private property on this unit. Several of these tracts are enrolled in the CWMU program and require special permits to hunt on them. Consult a good map to ensure you know where you are and to avoid any trespass conflicts\n",
+			"BOUNDARY_DESCRIPTION": "Emery, Piute, Sevier and Wayne counties—Boundary begins at I-70 and SR-24 north of Sigurd; south and east on SR-24 to the Caineville Wash road; north on this road to the Cathedral Valley road; west on this road to Rock Springs Bench and the Last Chance Desert road; north on this road to the Blue Flats road; north and east on this road to the Willow Springs road; north on this road towards Windy Peak and the Windy Peak road; west on this road to SR-72; north on SR-72 to I-70; west on I-70 to SR-24 north of Sigurd. EXCLUDES ALL NATIONAL PARKS. USGS 1:100,000 Maps: Loa, Salina. Boundary questions? Call the Cedar City office, 435-865-6100.\r\n",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Vance Mumford",
+			"UPDATEDDATE": "Sep 1, 2021",
+			"BOUNDARY_NAME": "Plateau, Fishlake/Thousand Lakes",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 183,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Approximately 75% of summer and fall elk habitat is public land. Most land is administered by the US Forest Service, BLM and SILTLA.  There are tracts of private property, mainly near populated areas of the unit and near agricultural areas.  ",
+			"CAMPGRND_INFO": "All Campgrounds on this subunit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service, SITLA or the BLM.  Maps and camping regulations are available on their websites. \n<br>\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a>\n<br>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/monticello.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/monticello.html</a>\n",
+			"PRIM_ACCESS_PTS": "North Cottonwood, South Cottonwood, Deer Flat, Robertson's Pasture, Blanding Mountain Rd., Monticello Mountain Rd.",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Blanding, La Sal, Hite Crossing, Bluff.",
+			"COUNTY_ROAD_INFO": "San Juan County:  <a href=\"http://www.utahscanyoncountry.com/index.html\" target=\"_blank\">http://www.utahscanyoncountry.com/index.html</a>\n<br>\nGrand County:  <a href=\"http://www.grandcountyutah.net/\" target=\"_blank\">http://www.grandcountyutah.net/</a>\n",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service, SITLA or the BLM. \n<br>\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a>\n<br>\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\n</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "There are several areas of private land on this subunit, including 2 CWMU’s (Spring Creek, Dodge and Summit Point). Hunters must receive written permission before hunting private lands. San Juan limited entry elk permits are not valid on elk CWMU’s or Native American lands.",
+			"BOUNDARY_DESCRIPTION": "Grand and San Juan counties—Boundary begins at the confluence of the San Juan and Colorado rivers; north along the Colorado River to Kane Springs Creek; southeast along this creek to Hatch Wash; southeast along this wash to US-191; south on US-191 to the Big Indian road; east and north on this road to the Lisbon Valley road; southeast on this road to the Island Mesa road; east on this road to the Utah-Colorado state line; south on this state line to US-491; west on US-491 to US-191; south on US-191 to the San Juan River; west on this river to the Colorado River. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. EXCLUDES ALL NATIONAL PARKS. EXCLUDES ALL CWMUs. USGS 1:100,000 Maps: Blanding, La Sal, Hite Crossing, Bluff. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Dustin Mitchell",
+			"UPDATEDDATE": "Feb 5, 2019",
+			"BOUNDARY_NAME": "San Juan Bull Elk",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 206,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "65% Public land-BLM and State lands.  35% Private lands enrolled in Diamond Mountain Landowner Association.",
+			"CAMPGRND_INFO": "All Campgrounds near this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the public lands including wildlife management areas.  Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their website. \n<br>\nAshley National Forest: <a href=\"http://www.fs.usda.gov/main/ashley/home\" target=\"_blank\">http://www.fs.usda.gov/main/ashley/home</a>\n",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Vernal and Dutch John topo maps or BLM version equivalent that shows land ownership.",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service, BLM, or DWR and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service.  There is no off-road vehicle use allowed on DWR lands except on established roads and trails.\n<br>\nAshley National Forest: <a href=\"http://www.fs.usda.gov/detail/ashley/home/?cid=STELPRDB5432815\" target=\"_blank\">http://www.fs.usda.gov/detail/ashley/home/?cid=STELPRDB5432815</a>\n<br>\nBLM: <a href=\"http://www.blm.gov/ut/st/en/fo/vernal.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/vernal.html</a>\n<b>Most areas are closed to off road vehicle use except on designated routes.</b>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary of this hunt unit does not include Tribal Trust Lands, but does have private land included.  There is private property on Diamond Mountain.  You should receive written permission from the landowner before hunting on private property.",
+			"BOUNDARY_DESCRIPTION": "Daggett and Uintah counties--Boundary begins at the Utah-Colorado state line and the Green River at Browns Park; west along this river to Gorge Creek; south along Gorge Creek to the USFS/private land boundary at the head of Davenport Draw; south along the USFS/private land boundary on the west side of Davenport Draw to the BLM boundary; south along the BLM boundary approximately one-third of a mile to the rim of Diamond Mountain; south and easterly along this rim until the rim intersects the Diamond Mountain road (Jones Hole Road); south and west on this road to the Brush Creek road; south on this road to the Island Park/Rainbow Park road; east on this road to the Dinosaur National Monument boundary; north and east on this boundary to the Utah-Colorado state line; north on this state line to the Green River. Excludes all CWMUs. USGS 1:100,000 Maps: Dutch John. Boundary questions? Call Vernal office, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "South Slope, Diamond Mtn",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 222,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "75%-85% of summer and fall elk habitat is public land. ",
+			"WMA_IN_UNIT": "Wallsburg and Big Hollow.",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites. \n<br>\nAvintaquin: <a href=\"http://www.fs.usda.gov/ashley\" target=\"_blank\">http://www.fs.usda.gov/ashley</a>\n<br>\nCurrant Creek: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a>\n<br>\nWasatch West: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a>",
+			"SUGGESTED_MAPS": "http:www.fs.usda.gov/uwncf",
+			"COUNTY_ROAD_INFO": "PROJECT DESCRIPTION Central Federal Lands Highway Division (CFLHD), in partnership with Wasatch County, Utah County, and the United States Forest Service (USFS) is planning to improve Strawberry Sheep Creek Road, a 31.9 mile route between US-6 and US-40. This road is really \nROAD CLOSURE CONSIDERATIONS The key objective is to construct these roadway improvements while minimizing impacts to public users. To facilitate public safety, certain segments of the road will be closed during various construction activities. When the road is open, delays up to 30 minutes can be expected. The construction schedule is subject to change. During road closures, no motorized vehicles will be permitted on the route. Adjacent Off Highway Vehicle (OHV) trail routes will continue to be open during road closures. Where a potential conflict between an OHV and construction equipment is possible, the OHV access will be restricted for public safety. Emergency access will be permitted at all times.\nROAD CLOSURE PRELIMINARY SCHEDULE\na combination of three smaller routes, Sheep Creek – Rays Valley Road (FR 70051); Unicorn Ridge – Indian Creek Road (FR 70042); and West Side Strawberry Road (FR 70131). The construction work will be split into four segments: Segment 1 (FR 70051) begins at the MP 0.0 (intersection with US-6) and ends at MP 7.0 (FR 70042). The work on Segment 1 consists of pavement rehabilitation including patching, crack sealing, and chip sealing. Segment 2 and Segment 3 (FR 70042) begins at MP 7.0 and ends at FR 70131. The work on Segment 2 and 3 consists of roadway bench widening, paving, drainage improvements, and safety improvements. Segment 4 (FR 70131) begins at the intersection with FR 70042 and ends 3.75 miles north of the intersection. The work on Segment 4 consists of pavement rehabilitation, pulverizing, and paving with subexcavation as needed.\nQUESTIONS? Wasatch County Public Works 1891 West 3000 South Heber City, Utah 84032 435-654-1661 www.wasatch.utah.gov\nUtah County",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. \n<br>\nAvintaquin: <a href=\"http://www.fs.usda.gov/ashley\" target=\"_blank\">http://www.fs.usda.gov/ashley</a> \n<br>\nCurrant Creek: <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a>\n<br>\nWasatch West: : <a href=\"http://www.fs.usda.gov/uwcnf\" target=\"_blank\">http://www.fs.usda.gov/uwcnf</a>\n<br>\nThere are also several roads and ATV trails on land managed by the Utah Division of Wildlife Resources. All vehicles and ATV’s must stay on designated roads and trails on these lands.",
+			"PRIV_TRIBE_LAND_ISSUES": "Both the Currant Creek and Avintaquin subunits contain large amounts of Tribal Trust Lands. All ATVs are prohibited on Tribal Lands and must be trailered on access roads across Tribal Lands.  For information on which roads are legal access roads contact Duchesne County. There are also several large areas of private land on all subunits, including multiple CWMUs.  Hunters must receive written permission before hunting private lands. Limited-entry elk permits are not valid on elk CWMUs.",
+			"BOUNDARY_DESCRIPTION": "Carbon, Duchesne, Summit, Utah and Wasatch counties-Boundary begins at the junction of I-15 and 12300 south in Salt Lake; east on this road to 700 East; south on this road to Pioneer road: east on this road to Highland Drive; south on this road to Upper Corner Canyon Road; east on this road to the Salt Lake/Utah county line; east on this county line to the Salt Lake/Wasatch county line; northeast on this county line to the Wasatch/Summit county line; east on this county line to US-40; south on US-40 to SR-32; east on SR-32 to SR-35; southeast on SR-35 to SR-87; south on SR-87 to Duchesne and US-191; south on US-191 to US-6; northwest on US-6 to I-15; north on I-15 to 12300 south in Salt Lake City. EXCLUDING ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Duchesne, Nephi, Price, Provo, Salt Lake City. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Dale Liechty",
+			"UPDATEDDATE": "Apr 7, 2020",
+			"BOUNDARY_NAME": "Wasatch Mtns",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 241,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by BLM and private ownership. The majority of the unit is a Wilderness Study Area administered by both Salt Lake and Filmore  BLM Field Offices. The southern and south east part of the Deep creek Mts. is Owned and control by Goshute Indian Reservation out of Ibapah, Utah.\n  ",
+			"WMA_IN_UNIT": "none",
+			"CAMPGRND_INFO": "There are many dispersed camping sites within this unit.\n<i>Bureau of Land Management:</i>\nPlease direct all questions regarding roads, maps and camping to the BLM Salt Lake Field Office \n<a href=\"https://www.blm.gov/office/salt-lake-field-office\" target=\"_blank\">https://www.blm.gov/office/salt-lake-field-office</a> or (801) 320-8300  \n",
+			"PRIM_ACCESS_PTS": "Granite, Delle, Tom's Creek Canyons ",
+			"SUGGESTED_MAPS": "USGS or BLM 1:100,000 Maps: Fish Springs, Wildcat Mountain",
+			"ATV_VEH_ACCESS": "<a href=\"http://www.tooelecountytrails.com/trails_map.html\" target=\"_blank\">http://www.tooelecountytrails.com/trails_map.html</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "Goshute tribal Lands are excluded",
+			"BOUNDARY_DESCRIPTION": "Juab and Tooele counties--Boundary begins at the Pleasant Valley road and the Utah-Nevada state line; north along this state line to the Salt Springs (Blue Lake) road; south on this road to the Pleasant Valley road; northwest on this road to the Utah-Nevada state line. EXCLUDES ALL NATIVE AMERICAN TRUST LAND WITHIN THIS BOUNDARY. Access is limited. USGS 1:100,000 Maps: Fish Springs, Wildcat Mountain. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jason Robinson",
+			"UPDATEDDATE": "Jan 26, 2021",
+			"BOUNDARY_NAME": "West Desert, Deep Creek",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 302,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of the land is public. However there western and north eastern edges of the boundary are predominately private. There are also a few smaller areas of private land within the unit. Written permission is needed to access private land.",
+			"WMA_IN_UNIT": "Richmond WMA",
+			"BOUNDARY_DESCRIPTION": "Cache, Box Elder and Rich counties--Boundary begins at US-91 and the Utah-Idaho state line; south on US-91 to US-89 in Logan; east and north on US-89 to the Utah-Idaho state line; west along this state line to US-91. USGS 1:100,000 Maps: Tremonton, Logan. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "David Smedley",
+			"UPDATEDDATE": "Jan 22, 2021",
+			"BOUNDARY_NAME": "Cache, North",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 303,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Mostly public with private interspersed. See map layers on hunt planner.",
+			"WMA_IN_UNIT": "Millville Face WMA, Hardware Ranch",
+			"BOUNDARY_DESCRIPTION": "Cache, Rich and Weber counties—Boundary begins at US-89 and the USFS boundary west of Garden City; south on this boundary to SR-39; southwest on SR-39 to USFS Road 054 (Ant Flat road); north on this road to SR-101; west on SR-101 to SR-165; north on SR-165 to US 89/91; north on US 89/91 to US-89; northeast on US-89 to the USFS boundary approximately 3 miles west of Garden City. USGS 1:100,000 Maps: Logan, Ogden. Boundary questions? Call the Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "David Smedley",
+			"UPDATEDDATE": "Jan 22, 2021",
+			"BOUNDARY_NAME": "Cache, South",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 455,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "BLM, USFS, SITLA with some private parcels scattered throughout the unit.",
+			"CAMPGRND_INFO": "Please refer all campground questions to the appropriate land management agency. Fish Lake and Dixie National Forest, Richfield and Loa offices. BLM offices are in Richfield and Escalante. GSENM offices in Escalante or Kanab.",
+			"PRIM_ACCESS_PTS": "Main access points are from SR-24, SR-12 and Hwy 89.",
+			"SUGGESTED_MAPS": " USGS 1:100,00 Escalante, Hite Crossing, Loa, Navajo Mountain, Panguitch, Salina, Smoky Mountain.",
+			"ATV_VEH_ACCESS": "There is an expansive road and trail system on this unit. All roads and ATV trails on this unit are managed by the BLM and USFS. Most Travel regulations are covered in their Travel Management Plans.  Please direct questions regarding which roads and trails ATVs can be operated to the Fish Lake and Dixie National Forest, Richfield and Loa offices. BLM offices are in Richfield and Escalante. The USFS has a travel map that covers most of this area. \nhttp://www.fs.usda.gov/main/fishlake/maps-pubs\n",
+			"BOUNDARY_DESCRIPTION": "Garfield, Kane, Piute, Sevier and Wayne counties--Boundary begins at SR-62 and SR-24; east on SR-24 to the Notom-to-Bullfrog road; south on this road to SR-276; south on SR-276 to the west shoreline of Lake Powell; south along this shoreline to the Utah-Arizona state line; west on the state line to the Paria River; north along this river to SR-12; west on SR-12 to the Widstoe-Antimony road; north on this road to SR-22; north on SR-22 to SR-62; north on SR-62 to SR-24. USGS 1:100,000 Maps: Escalante, Hite Crossing, Kanab, Loa, Navajo Mountain, Panguitch, Salina, Smokey Mountain. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Jim Lamb",
+			"UPDATEDDATE": "Oct 30, 2017",
+			"BOUNDARY_NAME": "Plateau, Boulder/Kaiparowits",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 617,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public, Private and Parks Service.  The public lands are primarily US Forest Service lands managed by the Manti-La Sal National Forest and The Bureau of Land Management(BLM) managed out of the Moab Field Office.  This unit also includes National Parks Service lands that are closed to hunting.  The private lands are primarily on the Eastern portion of the unit, but there are private lands scattered throughout the unit. There are two CWMU's on the unit (Redd Ranches and JB Ranch).",
+			"CAMPGRND_INFO": "All Campgrounds on this subunit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service, SITLA or the BLM.  Maps and camping regulations are available on their websites.<br>\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a><br>\n\n\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a><br>\n\n\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/camping.html</a>",
+			"PRIM_ACCESS_PTS": "Miner's Basin: Northwest end of the range.<br>\nBeaver Basin: Northeast end of the range.<br>\nDeep Creek: East side mid range.<br>\nDark Canyon: East side mid range.<br>\nCarpenter and Lackey Basins: South end of range.\n",
+			"SUGGESTED_MAPS": "BLM topographical maps for Moab and La Sal.  Available at BLM offices. USGS 1:100,000 Maps: La Sal, Moab, San Rafael Desert, Westwater. Available at their website.",
+			"COUNTY_ROAD_INFO": "San Juan County:  <a href=\"http://www.utahscanyoncountry.com/index.html\" target=\"_blank\">http://www.utahscanyoncountry.com/index.html</a>\n<br>\nGrand County:  <a href=\"http://www.grandcountyutah.net/\" target=\"_blank\">http://www.grandcountyutah.net/</a>\n",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service, Utah State Institutional Trust Lands and the Bureau of Land Management and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service, SITLA or the BLM.<br>\nUSFS: <a href=\"http://www.fs.usda.gov/mantilasal\" target=\"_blank\">http://www.fs.usda.gov/mantilasal</a><br>\n\nSITLA: <a href=\"http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/\" target=\"_blank\">http://trustlands.utah.gov/business-groups/surface/recreational-use-of-trust-lands/</a><br>\n\nBLM: <a href=\"http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/prog/recreation_home/activities/ohv_riding.html</a>",
+			"PRIV_TRIBE_LAND_ISSUES": "There are several areas of private land on this unit, including 2 CWMU’s (Redd Ranches and JB Ranch). Hunters must receive written permission before hunting private lands. Be sure to pay attention to where you are, and study maps before your hunt, please respect ALL posted lands.  La Sal Mountain limited entry and general permits are <b><u>not</u></b> valid on CWMU’s.",
+			"BOUNDARY_DESCRIPTION": "Grand and San Juan counties--Boundary begins at I-70 and the Green River; south along this river to the Colorado River; north along this river to Kane Springs Creek; southeast along this creek to Hatch Wash; southeast along this wash to US-191; south on US-191 to the Big Indian road; east on this road to the Lisbon Valley road; southeast on this road to the Island Mesa road; east on this road to the Utah-Colorado state line; north on this state line to the Dolores River; west along this river to the Colorado River; north along this river to the Utah-Colorado state line; north on this state line to I-70; west on I-70 to the Green River. Excludes all CWMUs. USGS 1:100,000 Maps: La Sal, Moab, San Rafael Desert, Westwater. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Dustin Mitchell",
+			"UPDATEDDATE": "Feb 5, 2019",
+			"BOUNDARY_NAME": "La Sal, La Sal Mtns",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 625,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public, State Trust Lands (SITLA), Private and Utah Division of Wildlife Resources (DWR) Lands.  The public lands are Bureau of Land Management (BLM) managed out of the Cedar City Field Office.  This unit also includes over 10,000 acres of Division of Wildlife Resources land specifically for the benefit of wildlife and our sportsmen.  There is one CWMU on the unit (Zane) for pronghorn and one Landowners Association for elk. ",
+			"WMA_IN_UNIT": "The Indian Peaks Wildlife Management area is good habitat for Elk and Deer.",
+			"CAMPGRND_INFO": "There are no official campgrounds on this unit.  Please direct all questions regarding campground availability and other camping questions to the BLM.  \nCedar City and Fillmore BLM website:  <a href=\"http://www.blm.gov/ut/st/en/fo/cedar_city/recreation.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/cedar_city/recreation.html</a>\n<a href=\"http://www.blm.gov/ut/st/en/fo/fillmore/recreation.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/fillmore/recreation.html</a> \n",
+			"SUGGESTED_MAPS": "BLM 1:100,000 maps Cedar City, South Wah Wah, North Wah Wah",
+			"COUNTY_ROAD_INFO": "<a href=\"http://www.ironcounty.net/  http://beaver.utah.gov/index.aspx?NID=124\" target=\"_blank\">http://www.ironcounty.net/ \nhttp://beaver.utah.gov/index.aspx?NID=124</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "Private landowners have had several issues with trespass by hunters in recent years. Please respect private property, fences, livestock presence and close gates.  County Sheriffs Deputies and DWR wildlife officers will be out patrolling during the hunting seasons. ",
+			"BOUNDARY_DESCRIPTION": "Beaver, Iron and Millard counties—Boundary begins at the Utah-Nevada state line and US-6/50; east on US-6/50 to SR-257; south on SR-257 to SR-21; south on SR-21 to SR-130; south on SR-130 to I-15; south on I-15 to SR-56; west on SR-56 to the Lund highway; northwest on this highway to Lund and the Union Pacific railroad tracks; southwest along these tracks to the Utah-Nevada state line; north on this state line to US-6/50. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Caliente, Cedar City, Delta, Garrison, Richfield, Tule Valley, Wah Wah Mountains North, Wah Wah Mountains South, Wilson Creek Range. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Aug 3, 2017",
+			"BOUNDARY_NAME": "Southwest Desert",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 629,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Public, Private and Tribal Lands.  Public lands include lands managed by the BLM, USFS (Fish Lake National Forest), and the state of Utah.  Most of the mountainous ground is public land and open to the public. There are both large and small tracts of privately owned property scattered both in the low country and high country. In addition there is a small parcel of tribal land adjacent to Koosharem reservoir ",
+			"WMA_IN_UNIT": "Elbow Ranch WMA - The Elbow Ranch WMA is a large winter range area. Do not expect high numbers of big game or bears to use this area during most hunting seasons.",
+			"CAMPGRND_INFO": "There is only one official campground located on the unit. This campground is owned by the Koosharem Band of Piutes and is located adjacent to Koosharem reservoir. Hotel/camping accommodations exist in cities and towns that surround the unit. There is also a nearby campground at Otter Creek State Park. Camping outside of official campgrounds is permitted on most public ground. Please direct camping questions to the appropriate land management agency. Fishlake National Forest website:  <a href=\"http://www.fs.usda.gov/fishlake\" target=\"_blank\">http://www.fs.usda.gov/fishlake</a>",
+			"PRIM_ACCESS_PTS": "There are several main access roads to the Monroe unit. You can access the north side via road #068 from either the town of Annabella or Glenwood. This is a well maintained gravel road. From the east side you can take road #076 out of Koosharem and #069 out of Greenwich. Road #069 is the best road to take if you are pulling camp a trailer. The south end of the mountain can be accessed with the Pole canyon road (#072) near Angle or the Monroe Mountain road (#068) near Kingston. Both of these are maintained but are rather narrow and not recommended for large trailers. To access the west side of the unit use the Dry Creek road (#071) or the Monroe Canyon road (#078). Both of these roads are not recommended for trailers.   ",
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Beaver, Loa, Richfield, Salina.  USFS Travel Management map",
+			"ATV_VEH_ACCESS": "ATV and Vehicle Access:\n\nThe Monroe unit has an extensive road and trail system. Many good areas to hunt can be accessed via vehicle. During the early hunting seasons most all roads and trails can be accessed. During later seasons early and heavy snows may make travel difficult. Some trails are restricted to ATVs of a certain size only. Most  roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. Maps can also be purchased online at:\n<a href=\"http://www.fs.usda.gov/main/fishlake/maps-pubs\" target=\"_blank\">http://www.fs.usda.gov/main/fishlake/maps-pubs</a>\n",
+			"PRIV_TRIBE_LAND_ISSUES": "There are both large and small tracts of privately owned property scattered both in the low elevation and high areas. In addition there is a small parcel of tribal land adjacent to Koosharem reservoir. Please respect all private lands and associated trespass laws.",
+			"BOUNDARY_DESCRIPTION": "Piute and Sevier counties—Boundary begins at US-89 and I-70 near Sevier; south on US-89 to SR-62; east and north on SR-62 to SR-24; north on SR-24 to I-70; south on I-70 to US-89 near Sevier. EXCLUDES ALL NATIVE AMERICAN TRUST LANDS WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Beaver, Loa, Richfield, Salina. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Vance Mumford",
+			"UPDATEDDATE": "Jan 7, 2022",
+			"BOUNDARY_NAME": "Monroe",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 630,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Forest Service, BLM, State, Private",
+			"WMA_IN_UNIT": "Kingston Canyon WMA is on the north end and has sportsman access, but it is all on foot.",
+			"CAMPGRND_INFO": "No campgrounds are located on the unit but dispersed camping is available.",
+			"PRIM_ACCESS_PTS": "You can access the south end of the unit from the Tom Best Spring road off of HWY 12. You can access the east side of the unit on several different access point along SR-22 (John's Valley Highway). The north end of the unit is inaccessible except by foot. The west side of the unit can be accessed by several points from Circleville to Panguitch along HWY 89. I would access the top of the mountain using the Jones Corral or Cottonwood loop road.   ",
+			"SUGGESTED_MAPS": "USFS, and BLM land maps. ",
+			"ATV_VEH_ACCESS": "ATV's are a good way to access the units. Several roads are impassible by vehicle so an ATV would be recommended. ",
+			"BOUNDARY_DESCRIPTION": "Garfield and Piute counties—Boundary begins at US-89 and SR-62; south on US-89 to SR-12; east on SR-12 to the Widtsoe-Antimony Road; north on this road to SR-22; north on SR-22 to SR-62; west on SR-62 to US-89. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Escalante, Loa, Panguitch. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Justin Shannon",
+			"UPDATEDDATE": "Aug 3, 2017",
+			"BOUNDARY_NAME": "Mt Dutton",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 634,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "USFS, BLM, Private, SITLA",
+			"CAMPGRND_INFO": "Please direct all questions regarding maps and camping regulations to the Cedar City and Kanab BLM Field Offices or Dixie National Forest in Cedar City.  ",
+			"PRIM_ACCESS_PTS": "Bear Valley on hwy 20. Also several Forest Service and BLM access roads off of highway 143 between Cedar Breaks and Panguitch. ",
+			"SUGGESTED_MAPS": "BLM; Cedar City, Panguitch - USFS; Cedar City Ranger District",
+			"ATV_VEH_ACCESS": "All roads and ATV trails on this unit are managed by the BLM, SITLA, and USFS and regulations are covered in their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the Cedar City and Kanab BLM Field Offices, the Dixie National Forest in Cedar City, and SITLA.  ",
+			"BOUNDARY_DESCRIPTION": "Garfield, Iron and Kane counties—Boundary begins at US-89 and SR-14; north on US-89 to SR-20; west on SR-20 to I-15; south on I-15 to SR-14; east on SR-14 to US-89. USGS 1:100,000 Maps: Beaver, Cedar City, Panguitch. Boundary questions? Call the Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Josh Pollock",
+			"UPDATEDDATE": "Jan 3, 2019",
+			"BOUNDARY_NAME": "Panguitch Lake",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 685,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "See map,  there are several established campgrounds off of Highway 153 out of Beaver.  There are also many pull off camping areas across the range.",
+			"PRIM_ACCESS_PTS": "<i>Big Johns Flat</i>- Plenty of Access and camping\n<br>\n<i>Big Flat</i>- Plenty of access and camping\n<br>\n<i>Kents Lake</i>- Popular camping area must hike off the road to get away from people\n<br>\n<i>Rainbow Mine</i>- Limited road access\n<br>\n<i>Cottonwood Creek</i>- limited road access\n<br>\n<i>City Creek Peak</i>- limited road access, popular area\n<br>\n<i>Lebaron Reservoir</i>- limited road access, popular area\n<br>\n<i>Mumford Reservoir</i>– Limited access, steep areas\n<br>\n<i>Bakers Canyon</i>- popular area \n<br>\n<i>Briggs Ridge</i>– remote hunting area, steep terrain\n<br>\n<i>Shingle Creek Meadows</i>- Some ATV trails and remote hunting opportunities.\n<br>\n<i>North Creek</i>– Limited Access\n<br>\n<i>Manderfield</i>- gravel roads, a little flatter area, be aware of private Property  ",
+			"SUGGESTED_MAPS": "Fishlake National Forest - Beaver and Fillmore Ranger Districts",
+			"COUNTY_ROAD_INFO": "See map",
+			"ATV_VEH_ACCESS": "Most roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service. Maps can also be purchased online at:\n<a href=\"http://www.fs.usda.gov/main/fishlake/maps-pubs\" target=\"_blank\">http://www.fs.usda.gov/main/fishlake/maps-pubs</a>",
+			"PRIV_TRIBE_LAND_ISSUES": " ",
+			"BOUNDARY_DESCRIPTION": "Beaver, Garfield, Iron, Millard, Piute and Sevier counties--Boundary begins at I-15 and I-70; east on I-70 to US-89; south on US-89 to SR-20; west on SR-20 to I-15; north on I-15 to I-70. Excludes all CWMUs. USGS 1:100,000 Maps: Beaver, Panguitch, Richfield. Boundary questions? Call Cedar City office, 435-865-6100.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "David Smedley",
+			"UPDATEDDATE": "Mar 3, 2020",
+			"BOUNDARY_NAME": "Beaver, East",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 742,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Private, USFS",
+			"WMA_IN_UNIT": "None",
+			"CAMPGRND_INFO": "None",
+			"PRIM_ACCESS_PTS": "Lambs Canyon, Mill Creek Canyon.",
+			"SUGGESTED_MAPS": "<a href=\"hhtp:www.usfs.usda.gov/uwcnf\" target=\"_blank\">hhtp:www.usfs.usda.gov/uwcnf</a>",
+			"COUNTY_ROAD_INFO": "NA",
+			"ATV_VEH_ACCESS": "None",
+			"BOUNDARY_DESCRIPTION": "Salt Lake and Summit counties-Boundary begins at the junction of I-15 and 12300 south in Salt Lake; east on this road to 700 East; south on this road to Pioneer road: east on this road to Highland Drive; south on this road to Upper Corner Canyon Road; east on this road to the Salt Lake/Utah county line; east on this county line to the Salt Lake/Wasatch county line; northeast on this county line to the Wasatch/Summit county line; east on this county line to US-40; north on US-40 to I-80; west on I-80 to I-15; south on I-15 to 12300 south in Salt Lake City.  USGS 1:100,000 Maps: Salt Lake City. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Rusty Robinson",
+			"UPDATEDDATE": "Jun 30, 2016",
+			"BOUNDARY_NAME": "Wasatch Mtns, North",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 751,
+			"ACREAGE": 0,
+			"SUGGESTED_MAPS": "USGS 1:100,000 Maps: Hanksville, Hite Crossing, Huntington, Loa, Manti, Salina, San Rafael Desert.",
+			"PRIV_TRIBE_LAND_ISSUES": "Be aware of the Capital Reef National Park boundary and private land along Fremont River.",
+			"BOUNDARY_DESCRIPTION": "Carbon, Emery, Garfield and Wayne counties—Boundary begins at I-70 to the Green River; south along the Green River to the Colorado River; south on the Colorado River and the west shore of Lake Powell to SR-95; north on SR-95 to a point two miles south of SR-24; west along an imaginary line that is two miles south of (and parallel to) SR-24 to the Burr Trail-Notom road; north along the Burr Trail-Notom road to SR-24; east on SR-24 to Caineville and the Caineville Wash road; north along the Caineville Wash road to the Cathedral Valley road; west on this road to Rock Springs Bench and the Last Chance Desert road; north on this road to the Blue Flats road; north and east on this road to the Willow Springs road; north on this road towards Windy Peak and the Windy Peak road; west on this road to SR-72; north on SR-72 to Fremont Junction and I-70; east on I-70 to the Green River. USGS 1:100,000 Maps: Hanksville, Hite Crossing, Huntington, Loa, Manti, Salina, San Rafael Desert. Boundary questions? Call Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Jun 24, 2016",
+			"BOUNDARY_NAME": "San Rafael, South-Dirty Devil",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 867,
+			"ACREAGE": 0,
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service and BLM. Camping outside of official campgrounds is also permitted on most of the public lands. Please direct all questions regarding campground availability and other camping questions to the US Forest Service. Maps and camping regulations are available on their websites.",
+			"COUNTY_ROAD_INFO": "Most roads and ATV trails on this unit are managed by Box Elder County, the US Forest Service, or BLM and are covered on their Travel Management Plans.",
+			"ATV_VEH_ACCESS": "Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service.\nBLM: http://www.blm.gov/ut/st/en/fo/salt_lake.html\nSawtooth National Forest: http://www.fs.usda.gov/sawtooth/\nBox Elder County: http://www.boxeldercounty.org/box-elder-county-web-map.html\n",
+			"PRIV_TRIBE_LAND_ISSUES": "Hunters should receive written permission from private landowners prior to the start of the hunts if they wish to hunt private property.",
+			"BOUNDARY_DESCRIPTION": "Box Elder County--Boundary begins on the Utah-Idaho state line at the Lynn/Almo, Idaho road and the Utah-Idaho state line; southwest on this road through the Raft River Narrows to Lynn and the Lynn Valley road; south on this road to the Dove Creek road; southeast on this road over Dove Creek Pass to SR-30 near Rosette; south and west on SR-30 to the Utah-Nevada state line; north on this state line to the Utah-Idaho state line; east on this state line to the Lynn/Almo, Idaho road. This hunt is comprised of all or largely private property. Hunters should acquire written permission from the landowner before applying for this hunt. Excludes all CWMUs. USGS 1:100,000 Maps: Grouse Creek, Jackpot, Newfoundland Mountains, Wells. Boundary Questions? Call Ogden office, 801-476-2740.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Sydney Lamb",
+			"UPDATEDDATE": "Jun 21, 2022",
+			"BOUNDARY_NAME": "Box Elder, Grouse Creek",
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 0,
+			"ACREAGE": 0,
+			"BOUNDARY_DESCRIPTION": "Grand and Uintah counties--Boundary begins at the Utah-Colorado state line and the White River; west\r\nalong this river to the Green River; south along this river to the southern boundary of the Ute Indian\r\nReservation; east along this boundary to the Sego Canyon road; south on this road to the Thompson\r\nCanyon Road; south on this road to Thompson and I-70; east on I-70 to the Utah-Colorado state line;\r\nnorth on this state line to the White River.\r\n\r\nEXCLUDES THE BOOK CLIFFS, LITTLE CREEK ROADLESS UNIT. EXCLUDES ALL NATIVE AMERICAN TRUST\r\nLAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Huntington, Moab, Price, Seep Ridge, Vernal,\r\nWestwater. Boundary questions? Call the Vernal office, 435-781-9453 or the Price office, 435-613-3700.\r\nEXCLUDES Book Cliffs, Little Creek Roadless Unit as follows: Book Cliffs, Little Creek Roadless Grand\r\nCounty--Boundary begins at Steer Ridge road and Ten Mile Knoll; southwest along Diamond Ridge and\r\nthe Book Cliffs summit (north-south drainage divide) to the Uintah and Ouray Indian Reservation\r\nboundary (Hells Hole/head of Sego Canyon); north along this boundary (west side of West Willow Creek)\r\nto the Wildlife Management Area/Ute Tribe Fence at the confluence of East and West Willow Creek;\r\nnortheast to the west fork of the Steer Ridge road (NW 1/4 Sec 7, T17 S R 21 E); south and east along the\r\nSteer Ridge road (atop the drainage divide) to Ten Mile Knoll. EXCLUDES ALL NATIVE AMERICAN TRUST\r\nLAND WITHIN THIS BOUNDARY. USGS 1:100,000 Maps: Westwater. Boundary questions? Call the Vernal\r\noffice, 435-781-9453.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"huntBoundarySpecies": []
+		},
+		{
+			"BOUNDARY_ID": 901,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "Most of the summer and fall elk habitat is on public lands managed by the Forest Service.  There are however large tracts of private lands on the northeast portion of the unit in the area surrounding Scofield Reservoir.  Late Season Rifle hunters will have a little more private land to deal with as bulls transition to lower elevations.",
+			"WMA_IN_UNIT": "Gordon Creek, Lower Fish Creek, Starvation, Dairy Fork, Lake Fork, Birdseye, Lasson Draw, White Hill, Black Hill, Bald Mountain, Sixmile, Miller Manti Face, Nine Mile, Twelve Mile, Willow Creek.  Most of these properties are on winter range for elk.",
+			"CAMPGRND_INFO": "All Campgrounds on this unit are managed by the US Forest Service.  This unit is on the Manti La Sal National Forest.  Camping outside of official campgrounds is also permitted on most of the Forest. Please direct all questions regarding campground availability and other camping questions to the US Forest Service.  Maps and camping regulations are available on their websites at http://www.fs.usda.gov/mantilasal",
+			"PRIM_ACCESS_PTS": "he Upper Fish Creek trailhead can be found on the west side of Scofield Reservoir.  It travels west to the opposite trailhead on Skyline Drive near Johnson Ridge",
+			"SUGGESTED_MAPS": "1:100,000 USGS maps include;  Price, Nephi, Huntington, Manti, Salina",
+			"COUNTY_ROAD_INFO": "Most roads and ATV trails on this unit are managed by the US Forest Service and are covered on their Travel Management Plans.  Please direct all questions regarding which roads and trails ATVs can be operated on to the US Forest Service at http://www.fs.usda.gov/mantilasal\n\nThere are also several roads and ATV trails on land managed by the Utah Division of Wildlife Resources. All vehicles and ATV’s must stay on designated roads and trails on these lands.",
+			"ATV_VEH_ACCESS": "See above",
+			"PRIV_TRIBE_LAND_ISSUES": "There are no tribal lands to contend with.  The vast majority of the early bull elk hunt habitat is on public land.  A few exceptions include the following areas.  The northeast portion of the mountain near Scofield Reservoir has a high percentage of private land on good elk habitat.  Most of these lands are managed under the CWMU program and can not provide hunter access as your permit will not be valid on those properties.  Other private properties require prior written permission before hunting.  Small pockets of private lands at high elevations can be found surrounding Electric Lake and on East Mountain.  Late Season any weapon hunters may encounter private lands in the Spring Canyon area west of Helper as well as upper Gordon Creek.\n \nWeather Conditions: The weather on this hunt unit can vary dramatically during the hunting season.  Be prepared for rain, lightening, snow, wind and heat.  It is quite common on clear mornings for clouds to build through the morning and have thunderstorms in the afternoon.  Be very cautious of lightening while hunting on high ridges.  Early fall snow storms occur regularly in this area.  Most years the snow will melt off, within a day or two until the first week of October.<br>\n<br>\n",
+			"BOUNDARY_DESCRIPTION": "Juab, Millard, Sanpete, Sevier and Utah counties—Boundary begins at US-6 and I-15 at Spanish Fork; southeast on US-6 to US-89 near Thistle; south on US-89 to Big Hollow Rd; west on Big Hollow Rd to SR-132 in Fountain Green; South on SR-132 to Main St (SR-116) in Moroni; East on SR-116 to US-89 in Mount Pleasant; south on US-89 to SR-28 in Gunnison; north on SR-28 to I-15 in Nephi; north on I-15 to US-6 at Spanish Fork. Excludes all CWMUs. USGS 1:100,000 Maps: Maps: Delta, Manti, Nephi, Provo, Salina. Boundary questions? Call the Springville office, 801-491-5678.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"UPDATEDBY": "Wes Alexander",
+			"UPDATEDDATE": "Feb 1, 2023",
+			"BOUNDARY_NAME": "Central Mtns, Manti",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}

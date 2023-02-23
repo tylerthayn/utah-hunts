@@ -1,0 +1,529 @@
+{
+	"huntYears": [
+		{
+			"HUNT_NBR": "DB1000",
+			"HUNT_YEAR": 2023,
+			"DUPLICATE_UNTIL_DATE": "Sep 15, 2023",
+			"PERMIT_QTY": 0,
+			"SEASON_DATE_TEXT": "Aug 19 - Sept 15, 2023",
+			"SEASON_OPEN_DATE_1": "Aug 19, 2023",
+			"SEASON_CLOSE_DATE_1": "Sep 15, 2023",
+			"OTC_SALES_BEGIN_DATE": "Jul 1, 2023",
+			"OTC_SALES_END_DATE": "Sep 15, 2023",
+			"QUOTA": 0,
+			"QUOTA_RES": 0,
+			"QUOTA_RES_YOUTH": 0,
+			"QUOTA_NRES": 0,
+			"QUOTA_NRES_YOUTH": 0,
+			"QUOTA_SOLD_DRAW": 0,
+			"QUOTA_RES_SOLD_DRAW": 0,
+			"QUOTA_RES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_NRES_SOLD_DRAW": 0,
+			"QUOTA_NRES_YOUTH_SOLD_DRAW": 0,
+			"QUOTA_OTC": 0,
+			"QUOTA_RES_OTC": 0,
+			"QUOTA_RES_YOUTH_OTC": 0,
+			"QUOTA_NRES_OTC": 0,
+			"QUOTA_NRES_YOUTH_OTC": 0,
+			"UPDATED_BY": "Phillip Gray",
+			"UPDATED_DATE": "Jul 7, 2020"
+		}
+	],
+	"huntBios": [
+		{
+			"HUNT_NBR": "DB1000",
+			"BOUNDARY_ID": 0,
+			"GENERAL_INFORMATION": "This hunt can be a very enjoyable experience for hunters and those who make their way to the mountain to help scout and tend camp. There is great country to see and lots of opportunity to glass up trophy deer. Bison are sometimes at higher elevations and there may be opportunities to see them while out scouting for deer.<br>\n<br>\nThe Henry’s deer unit is managed as a premium limited entry unit with a 40-50 buck:doe ratio. Over 70% of harvested bucks are 5 years or older. Generally most hunting occurs either on Mt. Ellen, Mt. Pennell, or Mt. Hillers. All have good access and places to get away from roads. Most harvest occurs above 7000'. Mt Ellen attracts most hunters because you can see and glass a lot of different bucks around the loop road but there is also good opportunity to find older age class bucks on Mt. Hillers and Mt. Pennell. There is private land on Mt. Ellen and on Mt. Hillers so be aware that you will need to have written permission to hunt there.",
+			"SAFETY_CONS": "The Henry Mountain range is remote and services are many miles away.  Have good tires with extra spares, the roads are known for flat tires and it is not uncommon to have a couple flats. Flash floods are common during the monsoon season or later fall storms in this region. Roads can be washed out from storms many miles away from surrounding drainages leaving you with few exit points so be prepared. Be very cautious of lightening while hunting on high ridges. On later season hunts high mountain roads can become iced up and unsafe to travel (chains may help to get you where you want to be). Cellular phone coverage is very spotty on this hunt unit.  Digital cell phones may show several bars but will not always connect. Consider hand held radios and even a \"Spot Tracker\" type of satellite messaging device for safety. Use common sense. Be prepared to spend the night out if you get stuck or for some reason can't make it back to camp. Carry a survival kit. It's always a good idea to let someone know where you plan to camp and when you will return.<br>\n<br>\nOn rare occasion a bear is seen on the mountain.  Keep a clean camp and put your garbage in a place that is inaccessible to bears.  Click on the following link for more information http://wildlife.utah.gov/learn-more/bear-safety.html.  There has never been a conflict with a bear on the Henry's but if you do have problems with bears please report them to the DWR Southeastern Regional Office as soon as possible (435-613-3700), or call the local dispatch center (435-637-0893).\n ",
+			"WEATHER_CONS": "Be prepared for inclement weather. Keep abreast of the weather forecast. Expect and prepare for unfavorable weather conditions such as high temperatures, intense thunder storms, flash floods, early mountain snows, and muddy roads that are difficult to travel even with chains.",
+			"MANAGEMENT_OBJ": "90.9~2700~900~40–55~36.3~40% harvested bucks = 5 yrs old~64% harvested bucks = 5 yrs old~~~~~~For more detailed information on population and objective data please see the <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/annual-reports.html\" target=\"_blank\">Big Game Annual Report Page</a>.",
+			"HUNT_AREA_ID": 0,
+			"BIOLOGIST_NOTES": "<u><b>Location of harvest:</b></u> The majority of deer will be found at mid-higher elevations on all three mountains; Mount Ellen, Mount Pennell, and Mount Hillers. These areas are accessible by vehicle and bucks are easily glassed. There are also areas on the northern portion of Mt Ellen and to the southern side of Pennell that you can hike into away from roads.<br>\n<br>\n\nTarantula Mesa has a deer population and occasionally a nice deer is harvested there.  The Little Rockies have a small mule deer herd that live on and around the mountain and canyons but it is rarely hunted.<br>\n<br>\n\n<u><b>Migration Patterns:</b></u> The Mule deer on the Henry's leave the higher mountain elevations during late fall after the rut for the winter range on the lower slopes, draws, hills, and mesas of the unit. In late spring they typically follow green-up of grasses/forbs and migrate back to higher elevations on the Henry Mountain range.  Water and high value habitat is available at mid to high elevations through the fall. After the rut, and the onset of shorter days, colder temperatures, and increased snowfall, mule deer will move down to lower elevations.<br>\n<br>\n\n<u><b>Scouting Tips:</b></u> Spend a enough days, particularly a few days before your hunt, to get familiar with where the deer are on the Henry's. Use good, clean, high-power optics, especially if you are hunting on the Management Hunt. The Henry's deer are easy to glass at higher elevations on the open slopes, ridges and burned areas.  Deer are somewhat habitual and have predictable movements within their home range; they will generally stay in the areas they are found unless they are spooked. If enough time is spent observing them you can pattern their movements and habitat use. However with increasing hunting pressure you can expect these patterns to change.<br>\n<br>\n\n<u><b>Behavior:</b></u> Mule deer are most active in the early morning and later before sunset. Bucks are habitual and have predictable movements along trails within their home range but expect their patterns to begin to change with increasing hunting pressure and the approaching rut in mid-November. Water is a limiting factor in habitat selection so the home range is partially determined by the proximity to water.  They will likely drink morning and evening and will travel 1-3 miles depending on free water and succulent vegetation. Occasionally a buck that has been seen on one mountain has been known to move to another mountain leading up to the rut. The mule deer rut usually runs from mid November-mid December.",
+			"CLOSED": "N"
+		}
+	],
+	"huntMaster": {
+		"HUNT_NBR": "DB1000",
+		"HUNT_AREA_ID": 10101,
+		"SPECIES": "Deer",
+		"GENDER": "Buck",
+		"WEAPON": "Archery",
+		"HUNT_TYPE": "Premium Limited Entry",
+		"WAITING_PERIOD_YEARS": 5,
+		"UNIT": "15",
+		"HUNT_NAME": "Henry Mtns",
+		"PRINT_HUNT_NAME": "Henry Mtns - Hunt #DB1000",
+		"NOTES": "<b>Baiting big game for the purposes of hunting is now illegal in Utah.</b><br><a href=\"https://wildlife.utah.gov/bait-big-game.html\" target=\"_blank\">Click here for more information.</a><br><BR>\n<B>The use of all trail cameras</b> (including both non-handheld transmitting and non-transmitting devices) in the harvest or to aid in the harvest of big game is <b>prohibited </b>between July 31 and Dec. 31. <a href=\"https://wildlife.utah.gov/news/utah-wildlife-news/1342-wildlife-board-restricts-trail-camera-use-and-makes-changes-to-bear-and-cougar-hunting.html\" target=\"_blank\">Click here for more information</a>.",
+		"DRAW_DESIGNATION": "P",
+		"HARVEST_REPORTING": "<b>REQUIRED</b>: <a href=\"https://wildlife.utah.gov/hunting/main-hunting-page/big-game/harvest-reporting.html\" target=\"_blank\">click here</a> or call 1-800-221-0659 to report your harvest. You must report your harvest, <b>even if you did not take an animal, </b>within 30 days of the season end date that is printed on your permit; failure to do so may result in you not being able to apply for big game species in subsequent years. Submitting teeth or other biological samples from your animal, or having your animal checked by a DWR representative or CWMU operator does <b>NOT </b>fulfill your mandatory harvest reporting requirement.",
+		"UPDATED_BY": "Phillip Gray",
+		"UPDATED_DATE": "Jul 7, 2020"
+	},
+	"boundaries": [
+		94
+	],
+	"SecurityLevel": "",
+	"huntBoundaryInfos": [
+		{
+			"BOUNDARY_ID": 94,
+			"ACREAGE": 0,
+			"LAND_OWNERSHIP": "The majority of land is managed by the BLM. The National Park Service manages Glen Canyon National Recreation Area and Horse Shoe National Park. These areas are interspersed with SITLA land. There is is also private land on Mt. Ellen, Mt. Hillers, and leased land on Mt. Holmes.",
+			"WMA_IN_UNIT": "There are no DWR Wildlife Management Areas",
+			"CAMPGRND_INFO": "There are three managed campgrounds on the Henry Mtns. Two on Mt Ellen: Lonesome Beaver and McMillan, and Mt. Hillers: Star Springs. Direct questions regarding maps and camping regulations to the Hanksville BLM Field Office.   <a href=\"http://www.blm.gov/ut/st/en/fo/richfield/recreation_/henry_mountains.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/richfield/recreation_/henry_mountains.html</a>",
+			"PRIM_ACCESS_PTS": "<u>Deer, Bison, Elk:</u> There are several Henry Mountain access roads.  Mount Ellen can be accessed on the North from the Sawmill Basin road, travel south on 100 East in Hanksville. Access to the east side of  Mt Ellen is from the Little Egypt road at mile marker 20 off of SR95. Access to the west side of Ellen and Pennell is off the Notom/Burr Trail road, turn east at the Sandy Ranch.  The east side of Mount Pennell and the north side of Mount Hillers can be accessed from the Coyote Benches/Stanton Pass road off of SR276. The east and south side of Mount Hillers can be accessed from the Star Springs road also off of SR276. All these roads connect with each other so there is general access to various areas across the mountain range.The BLM has put up good signage to get you around.<br>\n<br>\n<u>Desert Bighorn Sheep:</u> Some of the best access is from Lake Powell on the east side of the unit. From the lake you can access Trachyte, Two Mile, Four Mile, Peshliki, and Ticaboo drainages. SR95 through North Wash follows along the North side of the unit and hwy 276 which travels along the west side of Mt. Holmes and Elsworth and the east side Mt. Hillers. From the map you will see a few stem roads going east off of SR276. One accesses Trachyte Point for about 3 miles where it ends above Hog Springs. Another road stems towards Mt. Holmes and Fred Ridge but this soon dead ends at a private property gate. Another road stems also to Mt. Ellsworth. Ticaboo Mesa is also accessed from SR276, this road runs along the southern side of Mt. Ellsworth and overlooks the canyon forks of Ticaboo Creek and other canyons and mesas to the North.",
+			"SUGGESTED_MAPS": "The following link on the BLM website provides a good map of the general boundaries of the five BLM Wilderness Study Areas (WSAs) located in the hunt unit surrounding the Henry Mountains, as well as the motorized travel designations which presently exist on public lands in this area. This map is available at: <a href=\"https://www.blm.gov/sites/blm.gov/files/uploads/BLMUtahHenryMountainsMap.pdf\" target=\"_blank\">https://www.blm.gov/sites/blm.gov/files/uploads/BLMUtahHenryMountainsMap.pdf</a> <br>\nUSGS maps are available at the BLM in Hanksville: USGS 1:100,000 Maps: Escalante, Hanksville, Hite Crossing, and Loa. They have a general map that labels most of the main roads.  The BLM also has good road signage to help you navigate.<br><br>\n<br>\n<img class=\"imageLayout\" alt=\"BLM Henry Mtn Map\" src=\"https://dwrapps.utah.gov/HuntBoundaryImages/BLMUtahHenryMountainsMap.pdf\">  ",
+			"COUNTY_ROAD_INFO": "Emery County: <a href=\"http://www.emerycounty.com/road/contact.htm\" target=\"_blank\">http://www.emerycounty.com/road/contact.htm</a><br>\nWayne County: <a href=\"http://www.waynecountyutah.org/\" target=\"_blank\">http://www.waynecountyutah.org/</a><br>\nGarfield County: <a href=\"http://garfield.utah.gov/\" target=\"_blank\">http://garfield.utah.gov/</a>",
+			"ATV_VEH_ACCESS": "<u>Deer and Bison:</u> 4 wheel drive is highly recommended on the Henry Mountains. Roads and ATV trails on this unit are managed by the BLM, Wayne and Garfield counties, and SITLA, and regulations are covered in their Travel Management Plans.  The Cave Flat road has a temporary closure November 1st – May 15th. Direct questions regarding which roads and trails ATVs can be operated on to the Hanksville BLM Field Office, SITLA, and the county you are traveling. \n<a href=\"4 wheel drive is highly recommended on the Henry Mountains. Roads and ATV trails on this unit are managed by the BLM and SITLA, and regulations are covered in their Travel Management Plans.  The Cave Flat road has a temporary closure November 1st – May 15th. Please direct all questions regarding which roads and trails ATVs can be operated on to the Hanksville BLM Field Office and the county you are traveling.  http://www.blm.gov/ut/st/en/fo/richfield/recreation_/henry_mountains.html\" target=\"_blank\">http://www.blm.gov/ut/st/en/fo/richfield/recreation_/henry_mountains.html</a><br>\n<br>\n<u>Desert Bighorn:</u> \nThe few stem roads east off of SR276 would be best with an ATV. Direct questions regarding which roads and trails ATVs can be operated on to the Hanksville BLM Field Office, SITLA, and the county you are traveling. ",
+			"PRIV_TRIBE_LAND_ISSUES": "The boundary excludes all of the Capital Reef National Park (CRNP).  CRNP strictly regulates all hunting activity and access through the Park which is limited to the Swap Canyon trail on foot or by horse. At the end of the Cow Bison Orientation is detailed information about bison hunting and CRNP. You can see the orientation <a href=\"http://wildlife.utah.gov/hunting/bison/bison_orientation.pdf\" target=\"_blank\">here</a>. Contact Capital Reef National park for more information.   http://www.nps.gov/care/contacts.htm<br>\n<br>\n\nThere is private property on both Mount Ellen and Mount Hillers. Mount Holmes also has private leased property. Written permission from the landowner/lessee is required by law to access and hunt private land.\n",
+			"BOUNDARY_DESCRIPTION": "Garfield, Kane and Wayne counties--Boundary begins on SR-95 at a point two miles south of Hanksville; south on SR-95 to Lake Powell; south along the west shore of Lake Powell to SR-276 at Bullfrog; north on SR-276 to the Burr Trail-Notom road; north on this road to the Capitol Reef National Park boundary; north on this boundary to the Burr Trail-Notom road at The Narrows and Divide Canyon; north on this road to a point two miles south of SR-24; east along a line that is two miles south of SR-24 to SR-95. EXCLUDES ALL NATIONAL PARKS. USGS 1:100,000 Maps: Escalante, Hanksville, Hite Crossing, Loa. Boundary questions? Call the Price office, 435-613-3700.",
+			"ACRES_PUBLIC": 0,
+			"ACRES_PRIV": 0,
+			"RULES": " ~  ~  ~  ~  ~  ~  ~  ~  ~ ",
+			"UPDATEDBY": "Wade Paskett",
+			"UPDATEDDATE": "Oct 10, 2018",
+			"BOUNDARY_NAME": "Henry Mtns",
+			"huntBoundarySpecies": []
+		}
+	],
+	"displayNonApproved": true,
+	"huntDisplayNames": [
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SPECIES_SEX",
+			"DISPLAY_TEXT": "Species",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "SAT_INDEX_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCESS_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_SUCCES_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_ACRES",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DAYS",
+			"DISPLAY_TEXT": "Days",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "H_OPP_DATES",
+			"DISPLAY_TEXT": "Dates",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PUB",
+			"DISPLAY_TEXT": "Public",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "PERM_PRIV",
+			"DISPLAY_TEXT": "Private",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "YEAR",
+			"DISPLAY_TEXT": "Year",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "DRAWING_ODDS",
+			"DISPLAY_TEXT": "Drawing Odds",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_SPECIES",
+			"FIELD_NAME": "AVG_AGE",
+			"DISPLAY_TEXT": "Average Age",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "OPERATOR_EMAIL",
+			"DISPLAY_TEXT": "Email",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTIES",
+			"DISPLAY_TEXT": "Counties",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_NAME",
+			"DISPLAY_TEXT": "Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_PHONE",
+			"DISPLAY_TEXT": "Phone",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACCESS_EMAIL",
+			"DISPLAY_TEXT": "Best time to contact",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUEST",
+			"DISPLAY_TEXT": "Can I bring a guest?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SUNDAY",
+			"DISPLAY_TEXT": "Can I hunt on Sunday?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_SCOUT",
+			"DISPLAY_TEXT": "Can I scout the CWMU before the season?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HORSES",
+			"DISPLAY_TEXT": "Are horses allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ATV",
+			"DISPLAY_TEXT": "Are ATV's allowed?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_GUIDE",
+			"DISPLAY_TEXT": "Is a guide service available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_PACKING",
+			"DISPLAY_TEXT": "Do you offer a packing service?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_LODGE_FOOD",
+			"DISPLAY_TEXT": "Is lodging or food available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CAMP",
+			"DISPLAY_TEXT": "Can I camp on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_HANDICAP",
+			"DISPLAY_TEXT": "Is the CWMU handicapped accessible?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_MAPS",
+			"DISPLAY_TEXT": "Are maps available?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_ACTIVITIES",
+			"DISPLAY_TEXT": "Are any other activities offered on the CWMU?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "Q_CLOSED",
+			"DISPLAY_TEXT": "Are there any closed areas on the property?",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_NAME",
+			"DISPLAY_TEXT": "Boundary Name",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "BOUNDARY_DESCRIPTION",
+			"DISPLAY_TEXT": "Boundary Description",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ACREAGE",
+			"DISPLAY_TEXT": "Acres",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "LAND_OWNERSHIP",
+			"DISPLAY_TEXT": "Land Ownership (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "WMA_IN_UNIT",
+			"DISPLAY_TEXT": "Wildlife management unit(s) (available as a map layer)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "CAMPGRND_INFO",
+			"DISPLAY_TEXT": "Campground Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIM_ACCESS_PTS",
+			"DISPLAY_TEXT": "Primary Access Points",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "SUGGESTED_MAPS",
+			"DISPLAY_TEXT": "Suggested Maps",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "COUNTY_ROAD_INFO",
+			"DISPLAY_TEXT": "County Road Info",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "ATV_VEH_ACCESS",
+			"DISPLAY_TEXT": "ATV Vehicle Access",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BOUNDARY_INFO",
+			"FIELD_NAME": "PRIV_TRIBE_LAND_ISSUES",
+			"DISPLAY_TEXT": "Private / Tribal Land Issues",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "HUNT_NBR",
+			"DISPLAY_TEXT": "Hunt Number",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "POPULATION_OBJECTIVE",
+			"DISPLAY_TEXT": "Population Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "GENERAL_INFORMATION",
+			"DISPLAY_TEXT": "General Information",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "SAFETY_CONS",
+			"DISPLAY_TEXT": "Safety Considerations",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "WEATHER_CONS",
+			"DISPLAY_TEXT": "Weather Consideration",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ",
+			"DISPLAY_TEXT": "Management Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CURRENT_POP",
+			"DISPLAY_TEXT": "Current Population",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "CLASSIFICATION_DATA",
+			"DISPLAY_TEXT": "Classification Data",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "BIOLOGIST_NOTES",
+			"DISPLAY_TEXT": "Biologist Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ0",
+			"DISPLAY_TEXT": "Percent Harvest Success (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ1",
+			"DISPLAY_TEXT": "Population Objective\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ2",
+			"DISPLAY_TEXT": "Current Population Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ3",
+			"DISPLAY_TEXT": "Bucks per 100 Does Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ4",
+			"DISPLAY_TEXT": "Current Bucks per 100 Does (3-yr average)\r\n",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ5",
+			"DISPLAY_TEXT": "Age Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ6",
+			"DISPLAY_TEXT": "Current Age (3-yr average)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ7",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Objective",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ8",
+			"DISPLAY_TEXT": "Bulls per 100 Cows Estimate",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ9",
+			"DISPLAY_TEXT": "Total Hunters (previous hunting season)",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ10",
+			"DISPLAY_TEXT": "Future10",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ11",
+			"DISPLAY_TEXT": "Future11",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_BIO",
+			"FIELD_NAME": "MANAGEMENT_OBJ12",
+			"DISPLAY_TEXT": "Big Game Annual Report",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "NOTES",
+			"DISPLAY_TEXT": "Notes",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "WAITING_PERIOD_YEARS",
+			"DISPLAY_TEXT": "Waiting Period",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "UNIT",
+			"DISPLAY_TEXT": "Unit",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_INSTRUCTIONS",
+			"DISPLAY_TEXT": "Special Instructions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "HARVEST_REPORTING",
+			"DISPLAY_TEXT": "Harvest Reporting",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_PROVISIONS",
+			"DISPLAY_TEXT": "Special Provisions",
+			"DISPLAY_ORDER": 0
+		},
+		{
+			"TABLE_NAME": "HUNT_MASTER",
+			"FIELD_NAME": "SPECIAL_REQUIREMENTS",
+			"DISPLAY_TEXT": "Special Requirements",
+			"DISPLAY_ORDER": 0
+		}
+	]
+}
